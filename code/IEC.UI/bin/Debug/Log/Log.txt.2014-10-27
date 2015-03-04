@@ -1,0 +1,1059 @@
+INFO  2014-10-27 18:51:57,436 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-27 18:51:58,561 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-27 18:51:58,567 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-10-27 18:52:01,382 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-27 18:52:06,640 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-10-27 20:17:45,577 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-27 20:17:46,528 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-27 20:17:46,544 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-10-27 20:17:47,948 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-27 20:17:52,955 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-10-27 20:17:55,480 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-10-27 20:17:59,515 [DareneExpressCabinetClient.Tools.CLog4net] 输入员工号
+INFO  2014-10-27 20:18:06,298 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2014-10-27 20:18:06,298 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:18:06,391 [DareneExpressCabinetClient.Tools.CLog4net] 用户名密码验证成功
+INFO  2014-10-27 20:18:06,391 [DareneExpressCabinetClient.Tools.CLog4net] 快递单号不能为空
+INFO  2014-10-27 20:18:12,781 [DareneExpressCabinetClient.Tools.CLog4net] 扫入快递单号
+INFO  2014-10-27 20:18:15,528 [DareneExpressCabinetClient.Tools.CLog4net] 选择M号柜子
+INFO  2014-10-27 20:18:22,726 [DareneExpressCabinetClient.Tools.CLog4net] 输入手机号
+INFO  2014-10-27 20:18:30,929 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号
+INFO  2014-10-27 20:18:30,929 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-27 20:18:32,396 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:''}
+
+INFO  2014-10-27 20:18:32,474 [DareneExpressCabinetClient.Tools.CLog4net] 创建包裹
+INFO  2014-10-27 20:18:38,233 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-10-27 20:18:39,643 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:20:00,004 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-10-27 20:20:06,909 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:22:23,334 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-27 20:22:24,364 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-27 20:22:24,364 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-10-27 20:22:25,892 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-27 20:23:19,190 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-10-27 20:24:50,389 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:50,389 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:50,389 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:50,389 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:50,389 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:50,389 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:50,389 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:50,633 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:50,633 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:50,882 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:50,882 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:51,132 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:51,132 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:51,381 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:51,381 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:51,615 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:51,615 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:51,865 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:51,865 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:52,099 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:52,099 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:52,349 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:52,349 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:52,598 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:52,598 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:52,848 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:52,848 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:53,097 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:53,097 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:53,331 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:53,331 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:53,581 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:53,581 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:53,862 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:53,862 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:54,111 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:54,111 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:54,345 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:54,345 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:54,782 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:54,782 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:55,032 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:55,032 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:55,281 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:55,281 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:55,515 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:55,515 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:55,765 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:55,765 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:56,015 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:56,015 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:56,249 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:56,249 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:56,498 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:56,498 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:56,748 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:56,748 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:56,997 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:56,997 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:57,231 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:57,231 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:57,481 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:57,481 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:57,731 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:57,731 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:57,965 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:57,965 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:58,214 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:58,214 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:58,464 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:58,464 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:58,698 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:58,698 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:58,932 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:58,932 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:59,181 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:59,181 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:59,431 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:59,431 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:59,665 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:59,681 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:59,913 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:24:59,937 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:00,160 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:00,176 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:00,394 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:00,425 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:00,644 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:00,659 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:00,893 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:00,909 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:01,143 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:01,174 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:01,377 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:01,392 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:01,626 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:01,689 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:01,876 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:01,938 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:02,484 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:03,514 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:04,544 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:05,545 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:06,574 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:07,604 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:08,602 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:09,616 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:10,693 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:11,644 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:12,814 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:13,704 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:14,686 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:15,685 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:16,699 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:true,boxnumber:'1',code:'b88a97f69e48479380650b252d0227e9', message: '查询到开箱指令'}
+
+INFO  2014-10-27 20:25:20,601 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:true,boxnumber:'1',code:'b88a97f69e48479380650b252d0227e9', message: '查询到开箱指令'}
+
+INFO  2014-10-27 20:25:20,601 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:true,boxnumber:'1',code:'b88a97f69e48479380650b252d0227e9', message: '查询到开箱指令'}
+
+INFO  2014-10-27 20:25:21,366 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:true,boxnumber:'1',code:'b88a97f69e48479380650b252d0227e9', message: '查询到开箱指令'}
+
+INFO  2014-10-27 20:25:21,381 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:true,boxnumber:'1',code:'b88a97f69e48479380650b252d0227e9', message: '查询到开箱指令'}
+
+INFO  2014-10-27 20:25:31,474 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:true,boxnumber:'1',code:'b88a97f69e48479380650b252d0227e9', message: '查询到开箱指令'}
+
+INFO  2014-10-27 20:25:31,474 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:true,boxnumber:'1',code:'b88a97f69e48479380650b252d0227e9', message: '查询到开箱指令'}
+
+INFO  2014-10-27 20:25:31,724 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:31,724 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:false,boxCode:'', message: '找不到包裹'}
+
+INFO  2014-10-27 20:25:41,466 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-27 20:25:42,441 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-27 20:25:42,447 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-10-27 20:25:44,010 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-27 20:25:49,330 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-10-27 20:25:53,323 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:53,463 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:54,363 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:25:55,393 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:26:10,905 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-27 20:26:11,825 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-27 20:26:11,841 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-10-27 20:26:13,260 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-27 20:26:17,675 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-10-27 20:26:18,751 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:26:19,051 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:26:20,061 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:26:21,083 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:26:22,097 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:26:23,111 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:26:24,109 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:26:25,139 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:true,boxnumber:'1',code:'7b48eb4b380343c891b206ffd797f2ef', message: '查询到开箱指令'}
+
+INFO  2014-10-27 20:26:25,373 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:false,boxCode:'', message: '找不到包裹'}
+
+INFO  2014-10-27 20:26:47,993 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-27 20:26:48,882 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-27 20:26:48,897 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-10-27 20:26:50,676 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-27 20:26:54,903 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-10-27 20:26:56,045 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:26:56,275 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:26:57,305 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:26:58,312 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:26:59,311 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:27:00,325 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:27:01,339 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:27:02,353 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:true,boxnumber:'1',code:'ca28812018e940b08ee547687907db45', message: '查询到开箱指令'}
+
+INFO  2014-10-27 20:27:02,618 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:false,boxCode:'', message: '找不到包裹'}
+
+INFO  2014-10-27 20:29:08,210 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-27 20:29:09,229 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-27 20:29:09,245 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-10-27 20:29:10,727 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-27 20:29:15,095 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-10-27 20:29:16,199 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:29:16,479 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:29:17,489 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:29:18,490 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:29:19,520 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:29:20,534 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:29:21,548 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:29:22,562 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:29:23,576 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:29:24,590 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:true,boxnumber:'1',code:'19495185fca04e2d8b4a75b14e221b04', message: '查询到开箱指令'}
+
+INFO  2014-10-27 20:29:32,281 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-27 20:29:32,296 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:30:19,265 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-27 20:30:20,185 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-27 20:30:20,201 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-10-27 20:30:21,621 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-27 20:30:25,989 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-10-27 20:30:29,481 [DareneExpressCabinetClient.Tools.CLog4net] 输入员工号
+INFO  2014-10-27 20:30:31,551 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2014-10-27 20:30:31,597 [DareneExpressCabinetClient.Tools.CLog4net] 用户名密码验证成功
+INFO  2014-10-27 20:30:38,035 [DareneExpressCabinetClient.Tools.CLog4net] 扫入快递单号
+INFO  2014-10-27 20:30:40,055 [DareneExpressCabinetClient.Tools.CLog4net] 选择M号柜子
+INFO  2014-10-27 20:30:49,761 [DareneExpressCabinetClient.Tools.CLog4net] 输入手机号
+INFO  2014-10-27 20:30:56,948 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号
+INFO  2014-10-27 20:30:56,948 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-27 20:30:57,307 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:''}
+
+INFO  2014-10-27 20:30:57,369 [DareneExpressCabinetClient.Tools.CLog4net] 创建包裹
+INFO  2014-10-27 20:31:05,552 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-10-27 20:31:05,919 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:31:06,929 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:31:07,929 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:31:08,952 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:31:09,982 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:31:10,980 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:31:11,994 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:31:13,024 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:31:14,022 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:true,boxnumber:'1',code:'29f3ff2e0c3a43d68d948e5516e5b111', message: '查询到开箱指令'}
+
+INFO  2014-10-27 20:31:21,697 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:true,boxnumber:'1',code:'29f3ff2e0c3a43d68d948e5516e5b111', message: '查询到开箱指令'}
+
+INFO  2014-10-27 20:31:25,207 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-27 20:32:20,940 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:true,boxnumber:'1',code:'29f3ff2e0c3a43d68d948e5516e5b111', message: '查询到开箱指令'}
+
+INFO  2014-10-27 20:32:26,774 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:32:39,394 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:32:39,394 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:32:41,282 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:34:24,522 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-27 20:34:25,520 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-27 20:34:25,520 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-10-27 20:34:28,391 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-27 20:34:33,008 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-10-27 20:34:36,314 [DareneExpressCabinetClient.Tools.CLog4net] 输入员工号
+INFO  2014-10-27 20:34:38,470 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2014-10-27 20:34:38,532 [DareneExpressCabinetClient.Tools.CLog4net] 用户名密码验证成功
+INFO  2014-10-27 20:34:44,675 [DareneExpressCabinetClient.Tools.CLog4net] 扫入快递单号
+INFO  2014-10-27 20:34:46,557 [DareneExpressCabinetClient.Tools.CLog4net] 选择M号柜子
+INFO  2014-10-27 20:34:54,448 [DareneExpressCabinetClient.Tools.CLog4net] 输入手机号
+INFO  2014-10-27 20:35:02,019 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号
+INFO  2014-10-27 20:35:02,019 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-27 20:35:06,394 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:''}
+
+INFO  2014-10-27 20:35:06,472 [DareneExpressCabinetClient.Tools.CLog4net] 创建包裹
+INFO  2014-10-27 20:35:12,852 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-10-27 20:35:13,232 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:35:14,232 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:35:15,252 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:35:16,263 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:35:17,277 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:35:18,291 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:35:19,305 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:35:20,319 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:35:21,333 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:true,boxnumber:'11',code:'2c63cd3828964314bc4bec8c2bdfe1d5', message: '查询到开箱指令'}
+
+INFO  2014-10-27 20:35:26,715 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-27 20:36:17,702 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-27 20:36:18,642 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-27 20:36:18,658 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-10-27 20:36:20,904 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-27 20:36:25,444 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-10-27 20:36:28,445 [DareneExpressCabinetClient.Tools.CLog4net] 输入员工号
+INFO  2014-10-27 20:36:30,518 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2014-10-27 20:36:30,580 [DareneExpressCabinetClient.Tools.CLog4net] 用户名密码验证成功
+INFO  2014-10-27 20:36:33,525 [DareneExpressCabinetClient.Tools.CLog4net] 扫入快递单号
+INFO  2014-10-27 20:36:35,778 [DareneExpressCabinetClient.Tools.CLog4net] 选择M号柜子
+INFO  2014-10-27 20:36:42,808 [DareneExpressCabinetClient.Tools.CLog4net] 输入手机号
+INFO  2014-10-27 20:36:49,646 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号
+INFO  2014-10-27 20:36:49,646 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-27 20:36:49,912 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:''}
+
+INFO  2014-10-27 20:36:49,958 [DareneExpressCabinetClient.Tools.CLog4net] 创建包裹
+INFO  2014-10-27 20:36:51,995 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-10-27 20:36:52,422 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:36:53,432 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:36:54,442 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:36:55,438 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:36:56,452 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:36:57,466 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:36:58,480 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:36:59,494 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:37:00,524 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:37:01,522 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:true,boxnumber:'11',code:'6e01e898556849c9b9db253ab6d2c70a', message: '查询到开箱指令'}
+
+INFO  2014-10-27 20:37:05,360 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-27 20:43:54,581 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-27 20:43:55,577 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-27 20:43:55,584 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-10-27 20:43:57,328 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-27 20:44:01,712 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-10-27 20:44:05,449 [DareneExpressCabinetClient.Tools.CLog4net] 输入员工号
+INFO  2014-10-27 20:44:08,165 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2014-10-27 20:44:08,224 [DareneExpressCabinetClient.Tools.CLog4net] 用户名密码验证成功
+INFO  2014-10-27 20:44:10,427 [DareneExpressCabinetClient.Tools.CLog4net] 扫入快递单号
+INFO  2014-10-27 20:44:12,187 [DareneExpressCabinetClient.Tools.CLog4net] 选择S号柜子
+INFO  2014-10-27 20:44:20,655 [DareneExpressCabinetClient.Tools.CLog4net] 输入手机号
+INFO  2014-10-27 20:44:28,204 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号
+INFO  2014-10-27 20:44:28,205 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-27 20:44:28,458 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:''}
+
+INFO  2014-10-27 20:44:28,522 [DareneExpressCabinetClient.Tools.CLog4net] 创建包裹
+INFO  2014-10-27 20:44:30,961 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-10-27 20:44:31,411 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:44:32,416 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:44:33,421 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:44:34,439 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:44:35,446 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:44:36,466 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:44:37,478 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:44:38,486 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:44:39,496 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:44:40,521 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:44:41,530 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:44:42,540 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:true,boxnumber:'12',code:'348426c463434373bcd56c19a7fd2f47', message: '查询到开箱指令'}
+
+INFO  2014-10-27 20:44:45,699 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-27 20:47:49,841 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-27 20:47:50,847 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-27 20:47:50,854 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-10-27 20:47:52,282 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-27 20:47:56,795 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-10-27 20:47:59,696 [DareneExpressCabinetClient.Tools.CLog4net] 输入员工号
+INFO  2014-10-27 20:48:01,806 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2014-10-27 20:48:01,873 [DareneExpressCabinetClient.Tools.CLog4net] 用户名密码验证成功
+INFO  2014-10-27 20:48:03,755 [DareneExpressCabinetClient.Tools.CLog4net] 扫入快递单号
+INFO  2014-10-27 20:48:05,735 [DareneExpressCabinetClient.Tools.CLog4net] 选择S号柜子
+INFO  2014-10-27 20:48:14,038 [DareneExpressCabinetClient.Tools.CLog4net] 输入手机号
+INFO  2014-10-27 20:48:22,151 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号
+INFO  2014-10-27 20:48:22,152 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-27 20:48:22,423 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:''}
+
+INFO  2014-10-27 20:48:22,489 [DareneExpressCabinetClient.Tools.CLog4net] 创建包裹
+INFO  2014-10-27 20:48:24,937 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-10-27 20:48:25,323 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:48:26,318 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:48:27,340 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:48:28,350 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:48:29,360 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:48:30,384 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:48:31,477 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:48:32,414 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:48:33,447 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:48:34,445 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:48:35,454 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:48:36,475 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:48:37,489 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:48:38,501 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:48:39,522 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:48:40,530 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:48:41,552 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 20:48:42,557 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:true,boxnumber:'13',code:'4aa703f54bd24816ade2c54cfbeadc41', message: '查询到开箱指令'}
+
+INFO  2014-10-27 20:48:45,369 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-27 20:49:11,373 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{received:true}
+
+INFO  2014-10-27 20:49:11,373 [DareneExpressCabinetClient.Tools.CLog4net] 取件成功
+INFO  2014-10-27 21:35:46,219 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-27 21:35:47,215 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-27 21:35:47,222 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-10-27 21:35:48,744 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-27 21:35:53,569 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-10-27 21:35:56,415 [DareneExpressCabinetClient.Tools.CLog4net] 输入员工号
+INFO  2014-10-27 21:35:59,569 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2014-10-27 21:35:59,631 [DareneExpressCabinetClient.Tools.CLog4net] 用户名密码验证成功
+INFO  2014-10-27 21:36:02,732 [DareneExpressCabinetClient.Tools.CLog4net] 扫入快递单号
+INFO  2014-10-27 21:36:05,377 [DareneExpressCabinetClient.Tools.CLog4net] 选择S号柜子
+INFO  2014-10-27 21:36:12,858 [DareneExpressCabinetClient.Tools.CLog4net] 输入手机号
+INFO  2014-10-27 21:36:19,568 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号
+INFO  2014-10-27 21:36:19,569 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-27 21:36:19,881 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:''}
+
+INFO  2014-10-27 21:36:19,939 [DareneExpressCabinetClient.Tools.CLog4net] 创建包裹
+INFO  2014-10-27 21:36:22,624 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-10-27 21:36:23,059 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:36:24,031 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:36:25,052 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:36:26,064 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:36:27,084 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:36:28,091 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:36:29,099 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:36:30,113 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:36:31,131 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:36:32,134 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:36:33,164 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:36:34,175 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:36:35,186 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:36:36,207 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:36:37,216 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:36:38,226 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:36:39,313 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:36:40,262 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:36:41,278 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:36:42,291 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:true,boxnumber:'14',code:'2d371869a1624c1a9c8008a9062b2b57', message: '查询到开箱指令'}
+
+INFO  2014-10-27 21:36:45,322 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-27 21:36:51,456 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{received:true}
+
+INFO  2014-10-27 21:36:51,456 [DareneExpressCabinetClient.Tools.CLog4net] 取件成功
+INFO  2014-10-27 21:45:40,779 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-27 21:45:42,256 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-27 21:45:42,262 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-10-27 21:45:44,927 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-27 21:45:49,388 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-10-27 21:45:52,843 [DareneExpressCabinetClient.Tools.CLog4net] 输入员工号
+INFO  2014-10-27 21:45:58,981 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2014-10-27 21:45:59,039 [DareneExpressCabinetClient.Tools.CLog4net] 用户名密码验证成功
+INFO  2014-10-27 21:46:01,174 [DareneExpressCabinetClient.Tools.CLog4net] 扫入快递单号
+INFO  2014-10-27 21:46:03,474 [DareneExpressCabinetClient.Tools.CLog4net] 选择S号柜子
+INFO  2014-10-27 21:46:13,334 [DareneExpressCabinetClient.Tools.CLog4net] 输入手机号
+INFO  2014-10-27 21:46:20,567 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号
+INFO  2014-10-27 21:46:20,568 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-27 21:46:20,860 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:''}
+
+INFO  2014-10-27 21:46:20,918 [DareneExpressCabinetClient.Tools.CLog4net] 创建包裹
+INFO  2014-10-27 21:46:26,125 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-10-27 21:46:29,758 [DareneExpressCabinetClient.Tools.CLog4net] 输入员工号
+INFO  2014-10-27 21:46:35,142 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2014-10-27 21:46:35,202 [DareneExpressCabinetClient.Tools.CLog4net] 用户名密码验证成功
+INFO  2014-10-27 21:46:42,059 [DareneExpressCabinetClient.Tools.CLog4net] 扫入快递单号
+INFO  2014-10-27 21:46:44,055 [DareneExpressCabinetClient.Tools.CLog4net] 选择S号柜子
+INFO  2014-10-27 21:46:51,962 [DareneExpressCabinetClient.Tools.CLog4net] 输入手机号
+INFO  2014-10-27 21:46:59,169 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号
+INFO  2014-10-27 21:46:59,169 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-27 21:46:59,435 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:''}
+
+INFO  2014-10-27 21:46:59,482 [DareneExpressCabinetClient.Tools.CLog4net] 创建包裹
+INFO  2014-10-27 21:47:02,204 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-10-27 21:47:02,623 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:47:03,626 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:47:04,639 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:47:05,646 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:47:06,660 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:47:07,681 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:47:08,689 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:47:09,709 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:47:10,724 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:47:11,732 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:47:12,773 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:47:13,762 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:true,boxnumber:'5',code:'8b93214bed274250bd344377992d3614', message: '查询到开箱指令'}
+
+INFO  2014-10-27 21:47:13,793 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-27 21:47:17,011 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{received:true}
+
+INFO  2014-10-27 21:47:17,011 [DareneExpressCabinetClient.Tools.CLog4net] 取件成功
+INFO  2014-10-27 21:47:26,632 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-10-27 21:47:26,932 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:47:27,943 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:47:28,969 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:47:29,997 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:47:31,018 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:47:32,028 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:47:33,048 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:47:34,061 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:47:35,069 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:47:36,089 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:47:37,097 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:47:38,116 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:47:39,127 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:47:40,137 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:47:41,165 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:47:42,180 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:true,boxnumber:'6',code:'dc5b29876e1c42e6b58a44c27b0ffc30', message: '查询到开箱指令'}
+
+INFO  2014-10-27 21:47:42,205 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-27 21:47:42,507 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{received:true}
+
+INFO  2014-10-27 21:47:42,507 [DareneExpressCabinetClient.Tools.CLog4net] 取件成功
+INFO  2014-10-27 21:47:51,183 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-10-27 21:47:51,484 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:47:52,493 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:47:53,504 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:47:54,523 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:47:55,524 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:true,boxnumber:'12',code:'b6c7ea9b69804321ae07fa3fd24e3526', message: '查询到开箱指令'}
+
+INFO  2014-10-27 21:47:55,807 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{received:true}
+
+INFO  2014-10-27 21:47:55,807 [DareneExpressCabinetClient.Tools.CLog4net] 未找到您的包裹
+INFO  2014-10-27 21:48:17,606 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:false,boxCode:'', message: '找不到包裹'}
+
+INFO  2014-10-27 21:48:17,607 [DareneExpressCabinetClient.Tools.CLog4net] 取件密码错误
+INFO  2014-10-27 21:49:12,362 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-27 21:49:13,552 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-27 21:49:13,558 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-10-27 21:49:15,119 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-27 21:49:20,179 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-10-27 21:49:21,420 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:49:21,551 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:49:22,567 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:49:23,574 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:49:24,603 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:49:25,600 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:49:26,612 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:49:27,636 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:49:28,641 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:49:29,662 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:49:30,682 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:49:31,692 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:49:32,701 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:49:33,712 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:49:34,733 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:49:35,742 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:49:36,753 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:49:37,773 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:49:38,784 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:49:39,831 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:49:40,813 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:49:41,822 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:49:42,846 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:true,boxnumber:'11',code:'20d4652de49746289b052375aeca6b3a', message: '查询到开箱指令'}
+
+INFO  2014-10-27 21:49:43,116 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{received:true}
+
+INFO  2014-10-27 21:49:43,116 [DareneExpressCabinetClient.Tools.CLog4net] 未找到您的包裹
+INFO  2014-10-27 21:49:50,161 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-10-27 21:49:50,480 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:49:51,486 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:49:52,879 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-10-27 21:49:53,227 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:49:54,219 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:49:55,239 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:49:56,250 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:49:57,270 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:49:58,897 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-10-27 21:49:59,193 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:50:00,234 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:50:01,234 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 21:50:02,244 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:12:41,165 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-27 22:12:42,204 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-27 22:12:42,210 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-10-27 22:12:43,671 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-27 22:12:47,952 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-10-27 22:12:49,843 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:12:49,843 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:12:49,852 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:false,boxCode:'', message: '找不到包裹'}
+
+INFO  2014-10-27 22:12:49,897 [DareneExpressCabinetClient.Tools.CLog4net] 取件密码错误
+INFO  2014-10-27 22:12:50,333 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:12:51,340 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:12:52,413 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-10-27 22:12:52,716 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:12:53,725 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:12:54,736 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:12:55,746 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:12:57,355 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:12:57,779 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:13:19,445 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-27 22:13:20,434 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-27 22:13:20,441 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-10-27 22:13:28,168 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-27 22:13:32,949 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-10-27 22:13:48,935 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-10-27 22:14:26,062 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-27 22:14:27,090 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-27 22:14:27,096 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-10-27 22:14:28,622 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-27 22:14:33,624 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-10-27 22:14:37,363 [DareneExpressCabinetClient.Tools.CLog4net] 输入员工号
+INFO  2014-10-27 22:14:39,422 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2014-10-27 22:14:39,482 [DareneExpressCabinetClient.Tools.CLog4net] 用户名密码验证成功
+INFO  2014-10-27 22:14:44,448 [DareneExpressCabinetClient.Tools.CLog4net] 扫入快递单号
+INFO  2014-10-27 22:14:46,159 [DareneExpressCabinetClient.Tools.CLog4net] 选择S号柜子
+INFO  2014-10-27 22:14:53,254 [DareneExpressCabinetClient.Tools.CLog4net] 输入手机号
+INFO  2014-10-27 22:14:59,866 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号
+INFO  2014-10-27 22:14:59,868 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-27 22:15:00,171 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:''}
+
+INFO  2014-10-27 22:15:00,257 [DareneExpressCabinetClient.Tools.CLog4net] 创建包裹
+INFO  2014-10-27 22:15:02,686 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-10-27 22:15:03,111 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:15:04,116 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:15:05,393 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-10-27 22:15:18,757 [DareneExpressCabinetClient.Tools.CLog4net] 输入员工号
+INFO  2014-10-27 22:15:20,793 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2014-10-27 22:15:20,852 [DareneExpressCabinetClient.Tools.CLog4net] 用户名密码验证成功
+INFO  2014-10-27 22:15:24,302 [DareneExpressCabinetClient.Tools.CLog4net] 扫入快递单号
+INFO  2014-10-27 22:15:26,649 [DareneExpressCabinetClient.Tools.CLog4net] 选择S号柜子
+INFO  2014-10-27 22:15:39,563 [DareneExpressCabinetClient.Tools.CLog4net] 输入手机号
+INFO  2014-10-27 22:15:45,832 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号
+INFO  2014-10-27 22:15:45,832 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-27 22:15:46,103 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:''}
+
+INFO  2014-10-27 22:15:46,148 [DareneExpressCabinetClient.Tools.CLog4net] 创建包裹
+INFO  2014-10-27 22:15:50,131 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-10-27 22:15:58,057 [DareneExpressCabinetClient.Tools.CLog4net] 输入员工号
+INFO  2014-10-27 22:16:02,601 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2014-10-27 22:16:02,667 [DareneExpressCabinetClient.Tools.CLog4net] 用户名密码验证成功
+INFO  2014-10-27 22:16:04,703 [DareneExpressCabinetClient.Tools.CLog4net] 扫入快递单号
+INFO  2014-10-27 22:16:06,691 [DareneExpressCabinetClient.Tools.CLog4net] 选择S号柜子
+INFO  2014-10-27 22:16:14,145 [DareneExpressCabinetClient.Tools.CLog4net] 输入手机号
+INFO  2014-10-27 22:16:20,508 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号
+INFO  2014-10-27 22:16:20,508 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-27 22:16:20,758 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:''}
+
+INFO  2014-10-27 22:16:20,793 [DareneExpressCabinetClient.Tools.CLog4net] 创建包裹
+INFO  2014-10-27 22:16:23,617 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-10-27 22:16:23,932 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:24,942 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:25,951 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:26,982 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:27,996 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:29,003 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:30,025 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:31,042 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:32,044 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:33,064 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:34,075 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:35,098 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:36,104 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:37,115 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:38,153 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:39,146 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:40,156 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:41,176 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:42,187 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:43,216 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:44,218 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:45,226 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:46,247 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:47,257 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:48,279 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:49,288 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:50,297 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:51,319 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:51,466 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,boxCode:'5',message:''}
+
+INFO  2014-10-27 22:16:51,492 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-27 22:16:51,511 [DareneExpressCabinetClient.Tools.CLog4net] 取件成功
+INFO  2014-10-27 22:16:52,338 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:53,348 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:54,359 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:55,368 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:56,379 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:57,394 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:58,400 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:16:59,420 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:17:00,430 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:17:01,453 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:17:02,477 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:17:03,509 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-10-27 22:17:03,815 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:17:04,827 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:17:05,846 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:17:06,859 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:17:07,866 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:17:08,898 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:17:09,897 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:17:10,907 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:17:11,930 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:17:12,952 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:17:13,946 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:17:14,969 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:17:15,987 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:17:16,998 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:true,boxnumber:'12',code:'96b2b965dd564e8babbde7f30a51f621', message: '查询到开箱指令'}
+
+INFO  2014-10-27 22:17:17,026 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-27 22:17:17,302 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{received:true}
+
+INFO  2014-10-27 22:17:17,303 [DareneExpressCabinetClient.Tools.CLog4net] 取件成功
+INFO  2014-10-27 22:17:48,764 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-10-27 22:17:49,070 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:17:50,085 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2014-10-27 22:17:51,104 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:true,boxnumber:'13',code:'e4bb7d72c5104e5cb92a2ed9351da4de', message: '查询到开箱指令'}
+
+INFO  2014-10-27 22:17:51,134 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-27 22:17:51,431 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{received:true}
+
+INFO  2014-10-27 22:17:51,431 [DareneExpressCabinetClient.Tools.CLog4net] 取件成功
+INFO  2014-10-27 22:18:02,610 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助

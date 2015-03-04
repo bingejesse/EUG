@@ -1,0 +1,54 @@
+INFO  2014-09-22 10:43:56,703 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-09-22 10:43:57,268 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-09-22 10:43:57,291 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-09-22 10:44:20,441 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-09-22 10:44:20,803 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-09-22 10:44:20,806 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-09-22 10:53:24,282 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-09-22 10:53:24,654 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-09-22 10:53:24,657 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-09-22 10:53:26,720 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助
+INFO  2014-09-22 10:53:28,451 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员
+INFO  2014-09-22 10:53:32,131 [DareneExpressCabinetClient.Tools.CLog4net] 点击取件
+INFO  2014-09-22 10:53:33,453 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-09-22 10:53:34,547 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回
+INFO  2014-09-22 10:53:35,890 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助
+INFO  2014-09-22 15:03:29,885 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-09-22 15:03:30,259 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-09-22 15:03:30,265 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-09-22 15:03:32,193 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助
+INFO  2014-09-22 15:03:33,897 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回
+INFO  2014-09-22 15:03:35,328 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助
+INFO  2014-09-22 15:03:39,725 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-09-22 15:03:40,096 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-09-22 15:03:40,102 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-09-22 15:03:41,527 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助
+INFO  2014-09-22 15:21:34,809 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-09-22 15:21:35,179 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-09-22 15:21:35,182 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-09-22 15:21:36,679 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助
+INFO  2014-09-22 15:21:38,514 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回
+INFO  2014-09-22 15:21:39,979 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-09-22 15:21:41,217 [DareneExpressCabinetClient.Tools.CLog4net] 点击取件
+INFO  2014-09-22 15:21:43,067 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-09-22 15:21:44,466 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回
+INFO  2014-09-22 15:21:46,162 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助
+INFO  2014-09-22 15:21:49,658 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员
+INFO  2014-09-22 15:21:51,649 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员
+INFO  2014-09-22 15:22:31,671 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-09-22 15:22:32,037 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-09-22 15:22:32,043 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-09-22 15:22:33,564 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助
+INFO  2014-09-22 22:19:40,332 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-09-22 22:19:41,408 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-09-22 22:19:41,424 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-09-22 22:19:47,149 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助
+INFO  2014-09-22 22:19:49,084 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助
+INFO  2014-09-22 22:19:52,656 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-09-22 22:19:54,690 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回
+INFO  2014-09-22 22:19:56,690 [DareneExpressCabinetClient.Tools.CLog4net] 点击取件
+INFO  2014-09-22 22:19:58,779 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-09-22 22:20:00,464 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助
+INFO  2014-09-22 22:26:24,430 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-09-22 22:26:25,386 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-09-22 22:26:25,392 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动

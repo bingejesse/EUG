@@ -1,0 +1,18 @@
+INFO  2014-08-05 15:48:15,112 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-08-05 15:48:28,247 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-08-05 15:50:08,907 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-08-05 15:51:46,108 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-08-05 15:54:34,162 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-08-05 15:56:18,242 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-11-03 23:20:34,256 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-11-03 23:28:37,366 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-11-03 23:28:37,490 [DareneExpressCabinetClient.Tools.CLog4net] System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Convert.ToInt32(String value)
+   在 DareneExpressCabinetClient.Service.Imple.CameraServiceImpl.InitCamera() 位置 D:\C#\projects\智能储物柜\20141103EUG\code\DareneExpressCabinetClient\Service\Imple\CameraServiceImpl.cs:行号 32
+INFO  2014-11-03 23:29:58,524 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-11-03 23:30:26,840 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-11-03 23:34:20,019 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-11-03 23:36:33,291 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-11-03 23:37:33,025 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动

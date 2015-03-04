@@ -1,0 +1,245 @@
+INFO  2014-11-14 19:15:46,265 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-11-14 19:15:46,916 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2014-11-14 19:15:48,877 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-11-14 19:15:48,878 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2014-11-14 19:15:48,994 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2014-11-14 19:15:49,107 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2014-11-14 19:15:49,214 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2014-11-14 19:15:49,434 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-11-14 19:15:50,404 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-11-14 19:15:52,065 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2014-11-14 19:16:19,223 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-11-14 19:16:19,651 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2014-11-14 19:16:21,018 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-11-14 19:16:21,018 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2014-11-14 19:16:21,125 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2014-11-14 19:16:21,228 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2014-11-14 19:16:21,332 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2014-11-14 19:16:21,539 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-11-14 19:16:22,445 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-11-14 19:16:25,549 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2014-11-14 19:19:56,626 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-11-14 19:19:57,111 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2014-11-14 19:19:58,673 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-11-14 19:19:58,673 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2014-11-14 19:19:58,780 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2014-11-14 19:19:58,883 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2014-11-14 19:19:58,986 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2014-11-14 19:19:59,232 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-11-14 19:20:00,132 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-11-14 19:20:01,630 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2014-11-14 19:24:27,335 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-11-14 19:24:28,864 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2014-11-14 19:24:30,316 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-11-14 19:24:30,316 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2014-11-14 19:24:30,421 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2014-11-14 19:24:30,526 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2014-11-14 19:24:30,628 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2014-11-14 19:24:30,853 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-11-14 19:24:31,777 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-11-14 19:24:34,349 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2014-11-14 19:30:46,830 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-11-14 19:30:47,313 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2014-11-14 19:30:48,875 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-11-14 19:30:48,876 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2014-11-14 19:30:48,985 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2014-11-14 19:30:49,091 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2014-11-14 19:30:49,193 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2014-11-14 19:30:49,421 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-11-14 19:30:50,369 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-11-14 19:30:53,257 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2014-11-14 19:30:56,478 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助
+INFO  2014-11-14 19:30:59,376 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回
+INFO  2014-11-14 19:31:07,007 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-11-14 19:31:13,404 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-11-14 19:31:15,307 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回
+INFO  2014-11-14 19:31:17,124 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-11-14 19:42:47,054 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-11-14 19:42:47,542 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2014-11-14 19:42:49,077 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-11-14 19:42:49,078 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2014-11-14 19:42:49,188 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2014-11-14 19:42:49,293 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2014-11-14 19:42:49,395 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2014-11-14 19:42:49,638 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-11-14 19:42:50,537 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-11-14 19:42:53,418 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2014-11-14 19:43:03,160 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助
+INFO  2014-11-14 19:43:05,027 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回
+INFO  2014-11-14 19:43:45,825 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-11-14 19:43:46,609 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2014-11-14 19:43:48,085 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-11-14 19:43:48,086 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2014-11-14 19:43:48,202 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2014-11-14 19:43:48,307 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2014-11-14 19:43:48,409 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2014-11-14 19:43:48,655 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-11-14 19:43:49,656 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-11-14 19:43:52,275 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2014-11-14 19:45:56,102 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-11-14 19:45:56,910 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2014-11-14 19:45:58,363 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-11-14 19:45:58,364 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2014-11-14 19:45:58,474 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2014-11-14 19:45:58,579 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2014-11-14 19:45:58,681 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2014-11-14 19:45:58,905 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-11-14 19:45:59,826 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-11-14 19:46:02,644 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2014-11-14 19:48:16,804 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-11-14 19:48:17,350 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2014-11-14 19:48:23,107 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-11-14 19:48:23,107 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2014-11-14 19:48:23,216 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2014-11-14 19:48:23,325 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2014-11-14 19:48:23,435 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2014-11-14 19:48:23,684 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-11-14 19:48:24,558 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-11-14 19:48:27,116 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2014-11-14 19:48:31,859 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助
+INFO  2014-11-14 19:48:34,854 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员
+INFO  2014-11-14 19:48:47,209 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-11-14 19:48:50,903 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-11-14 19:48:53,123 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回
+INFO  2014-11-14 19:48:56,615 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助
+INFO  2014-11-14 19:48:58,425 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员
+INFO  2014-11-14 19:49:03,043 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-11-14 19:49:44,801 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-11-14 19:49:45,253 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2014-11-14 19:49:46,766 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-11-14 19:49:46,766 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2014-11-14 19:49:46,876 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2014-11-14 19:49:46,985 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2014-11-14 19:49:47,094 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2014-11-14 19:49:47,359 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-11-14 19:49:48,280 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-11-14 19:49:51,088 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2014-11-14 20:16:34,560 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-11-14 20:18:39,822 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-11-14 20:18:40,234 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2014-11-14 20:18:41,528 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-11-14 20:18:41,528 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2014-11-14 20:18:41,631 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2014-11-14 20:18:41,756 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2014-11-14 20:18:41,859 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2014-11-14 20:18:42,191 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-11-14 20:18:42,857 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-11-14 20:18:42,969 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2014-11-14 20:18:47,000 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-11-14 20:18:55,080 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-11-14 20:18:56,821 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回
+INFO  2014-11-14 20:19:04,682 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-11-14 20:19:06,352 [DareneExpressCabinetClient.Tools.CLog4net] 输入员工号
+ERROR 2014-11-14 20:19:10,863 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 C:\Users\doraGT\Desktop\20141111EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 141
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.CourierLogin(Courier cou, About about) 位置 C:\Users\doraGT\Desktop\20141111EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 127
+INFO  2014-11-14 20:19:10,878 [DareneExpressCabinetClient.Tools.CLog4net] 用户名或密码错误
+INFO  2014-11-14 20:22:40,855 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-11-14 20:22:41,413 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2014-11-14 20:22:42,680 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-11-14 20:22:42,681 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2014-11-14 20:22:42,784 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2014-11-14 20:22:42,893 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2014-11-14 20:22:42,997 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2014-11-14 20:22:43,212 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-11-14 20:22:43,522 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-11-14 20:22:43,564 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2014-11-14 20:23:09,178 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-11-14 20:23:09,854 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2014-11-14 20:23:11,078 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-11-14 20:23:11,078 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2014-11-14 20:23:11,181 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2014-11-14 20:23:11,290 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2014-11-14 20:23:11,391 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2014-11-14 20:23:11,605 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-11-14 20:23:11,918 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-11-14 20:23:11,962 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2014-11-14 20:23:13,347 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-11-14 20:24:45,827 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-11-14 20:24:46,521 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2014-11-14 20:24:47,600 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-11-14 20:24:47,600 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2014-11-14 20:24:47,703 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2014-11-14 20:24:47,813 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2014-11-14 20:24:47,914 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2014-11-14 20:24:48,131 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-11-14 20:24:48,439 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-11-14 20:24:48,483 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2014-11-14 20:24:49,978 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-11-14 20:30:00,347 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-11-14 20:30:00,742 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2014-11-14 20:30:02,167 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-11-14 20:30:02,167 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2014-11-14 20:30:02,275 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2014-11-14 20:30:02,385 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2014-11-14 20:30:02,486 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2014-11-14 20:30:02,727 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-11-14 20:30:03,050 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-11-14 20:30:03,092 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2014-11-14 20:30:04,717 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助
+INFO  2014-11-14 20:30:06,333 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员
+INFO  2014-11-14 20:30:40,317 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助
+INFO  2014-11-14 20:30:41,285 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员
+INFO  2014-11-14 20:30:52,917 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助
+INFO  2014-11-14 20:30:54,389 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员
+INFO  2014-11-14 20:32:59,676 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-11-14 20:33:00,370 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2014-11-14 20:33:01,415 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-11-14 20:33:01,415 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2014-11-14 20:33:01,518 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2014-11-14 20:33:01,636 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2014-11-14 20:33:01,737 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2014-11-14 20:33:01,951 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-11-14 20:33:02,266 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-11-14 20:33:02,309 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2014-11-14 20:33:03,553 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助
+INFO  2014-11-14 20:33:04,854 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员
+INFO  2014-11-14 20:33:46,470 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助
+INFO  2014-11-14 20:33:47,469 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员
+INFO  2014-11-14 20:37:33,358 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-11-14 20:37:33,896 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2014-11-14 20:37:41,349 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-11-14 20:37:41,351 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2014-11-14 20:37:41,454 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2014-11-14 20:37:41,564 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2014-11-14 20:37:41,665 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2014-11-14 20:37:41,882 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-11-14 20:37:42,195 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-11-14 20:37:42,241 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2014-11-14 20:37:44,734 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-11-14 20:38:21,851 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-11-14 20:38:24,007 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回
+INFO  2014-11-14 20:38:25,391 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助
+INFO  2014-11-14 23:11:58,612 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-11-14 23:11:59,274 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2014-11-14 23:12:00,848 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-11-14 23:12:00,849 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2014-11-14 23:12:00,966 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2014-11-14 23:12:01,076 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2014-11-14 23:12:01,179 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2014-11-14 23:12:01,406 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-11-14 23:12:02,409 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-11-14 23:12:03,947 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2014-11-14 23:12:07,534 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-11-14 23:12:11,563 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-11-14 23:12:17,202 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-11-14 23:12:22,012 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-11-14 23:12:25,612 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-11-14 23:12:30,350 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-11-14 23:12:35,521 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-11-14 23:12:39,921 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-11-14 23:12:50,161 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回
+INFO  2014-11-14 23:12:54,106 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回
+INFO  2014-11-14 23:13:01,484 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-11-14 23:13:06,837 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-11-14 23:13:09,171 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助
+INFO  2014-11-14 23:13:10,901 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员
+INFO  2014-11-14 23:13:17,955 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录
+INFO  2014-11-14 23:13:17,956 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录成功
+INFO  2014-11-14 23:13:34,712 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助
+INFO  2014-11-14 23:13:39,351 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-11-14 23:13:41,764 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-11-14 23:13:43,424 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回
+INFO  2014-11-14 23:13:45,435 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-11-14 23:13:51,466 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件

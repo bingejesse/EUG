@@ -1,0 +1,168 @@
+INFO  2014-10-13 20:45:23,226 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-13 20:45:24,147 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-13 20:45:24,147 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-10-13 20:45:53,054 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-10-13 20:45:55,710 [DareneExpressCabinetClient.Tools.CLog4net] 输入员工号
+INFO  2014-10-13 20:49:21,470 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-13 20:49:22,422 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-13 20:49:22,422 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-10-13 20:49:28,753 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-10-13 20:49:34,106 [DareneExpressCabinetClient.Tools.CLog4net] 输入员工号
+INFO  2014-10-13 20:49:43,307 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回
+INFO  2014-10-13 20:49:45,932 [DareneExpressCabinetClient.Tools.CLog4net] 输入员工号
+INFO  2014-10-13 20:54:03,743 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-13 20:54:04,675 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-13 20:54:04,682 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-10-13 20:54:15,795 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-10-13 20:54:19,030 [DareneExpressCabinetClient.Tools.CLog4net] 输入员工号
+INFO  2014-10-13 20:54:24,573 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:false,companyName:'', message: '找不到口令卡'}
+
+INFO  2014-10-13 20:54:24,575 [DareneExpressCabinetClient.Tools.CLog4net] 用户名或密码错误
+INFO  2014-10-13 20:57:50,594 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-13 20:57:52,421 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-13 20:57:52,429 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-10-13 20:57:56,940 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-10-13 20:57:59,690 [DareneExpressCabinetClient.Tools.CLog4net] 输入员工号
+INFO  2014-10-13 20:59:16,223 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-13 20:59:17,180 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-13 20:59:17,186 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-10-13 20:59:22,804 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-10-13 20:59:39,138 [DareneExpressCabinetClient.Tools.CLog4net] 输入员工号
+INFO  2014-10-13 20:59:42,372 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2014-10-13 20:59:42,433 [DareneExpressCabinetClient.Tools.CLog4net] 用户名密码验证成功
+INFO  2014-10-13 20:59:48,408 [DareneExpressCabinetClient.Tools.CLog4net] 扫入快递单号
+INFO  2014-10-13 20:59:50,971 [DareneExpressCabinetClient.Tools.CLog4net] 选择M号柜子
+INFO  2014-10-13 20:59:59,178 [DareneExpressCabinetClient.Tools.CLog4net] 输入手机号
+INFO  2014-10-13 21:00:06,662 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号
+INFO  2014-10-13 21:00:06,663 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-13 21:00:07,006 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:false,message: '口令卡未被登记给有效的快递员'}
+
+INFO  2014-10-13 21:00:07,008 [DareneExpressCabinetClient.Tools.CLog4net] 包裹发送到服务器失败，该次操作不成功
+INFO  2014-10-13 21:00:13,872 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号
+INFO  2014-10-13 21:00:13,872 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-13 21:00:14,130 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:false,message: '口令卡未被登记给有效的快递员'}
+
+INFO  2014-10-13 21:00:14,130 [DareneExpressCabinetClient.Tools.CLog4net] 包裹发送到服务器失败，该次操作不成功
+INFO  2014-10-13 21:00:26,441 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号
+INFO  2014-10-13 21:00:26,441 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-13 21:00:26,699 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:false,message: '口令卡未被登记给有效的快递员'}
+
+INFO  2014-10-13 21:00:26,699 [DareneExpressCabinetClient.Tools.CLog4net] 包裹发送到服务器失败，该次操作不成功
+INFO  2014-10-13 21:00:47,474 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-10-13 21:00:51,964 [DareneExpressCabinetClient.Tools.CLog4net] 输入员工号
+INFO  2014-10-13 21:00:54,690 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2014-10-13 21:00:54,758 [DareneExpressCabinetClient.Tools.CLog4net] 用户名密码验证成功
+INFO  2014-10-13 21:00:58,000 [DareneExpressCabinetClient.Tools.CLog4net] 扫入快递单号
+INFO  2014-10-13 21:01:01,805 [DareneExpressCabinetClient.Tools.CLog4net] 选择M号柜子
+INFO  2014-10-13 21:01:09,813 [DareneExpressCabinetClient.Tools.CLog4net] 输入手机号
+INFO  2014-10-13 21:01:28,924 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号
+INFO  2014-10-13 21:01:28,924 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-13 21:02:02,633 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:false,message: '口令卡未被登记给有效的快递员'}
+
+INFO  2014-10-13 21:02:02,635 [DareneExpressCabinetClient.Tools.CLog4net] 包裹发送到服务器失败，该次操作不成功
+INFO  2014-10-13 21:02:45,897 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-13 21:02:46,822 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-13 21:02:46,828 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-10-13 21:02:52,500 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-10-13 21:02:55,815 [DareneExpressCabinetClient.Tools.CLog4net] 输入员工号
+INFO  2014-10-13 21:02:59,202 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2014-10-13 21:02:59,262 [DareneExpressCabinetClient.Tools.CLog4net] 用户名密码验证成功
+INFO  2014-10-13 21:03:01,946 [DareneExpressCabinetClient.Tools.CLog4net] 扫入快递单号
+INFO  2014-10-13 21:03:04,031 [DareneExpressCabinetClient.Tools.CLog4net] 选择M号柜子
+INFO  2014-10-13 21:03:12,350 [DareneExpressCabinetClient.Tools.CLog4net] 输入手机号
+INFO  2014-10-13 21:03:19,503 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号
+INFO  2014-10-13 21:03:19,504 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-13 21:03:34,052 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:false,message: '口令卡未被登记给有效的快递员'}
+
+INFO  2014-10-13 21:04:57,145 [DareneExpressCabinetClient.Tools.CLog4net] 包裹发送到服务器失败，该次操作不成功
+INFO  2014-10-13 21:05:42,724 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号
+INFO  2014-10-13 21:05:42,724 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-13 21:05:46,465 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:false,message: '口令卡未被登记给有效的快递员'}
+
+INFO  2014-10-13 21:05:46,466 [DareneExpressCabinetClient.Tools.CLog4net] 包裹发送到服务器失败，该次操作不成功
+INFO  2014-10-13 21:06:54,075 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-10-13 21:07:01,492 [DareneExpressCabinetClient.Tools.CLog4net] 输入员工号
+INFO  2014-10-13 21:07:03,230 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2014-10-13 21:07:03,300 [DareneExpressCabinetClient.Tools.CLog4net] 用户名密码验证成功
+INFO  2014-10-13 21:07:05,461 [DareneExpressCabinetClient.Tools.CLog4net] 扫入快递单号
+INFO  2014-10-13 21:07:07,416 [DareneExpressCabinetClient.Tools.CLog4net] 选择S号柜子
+INFO  2014-10-13 21:07:15,570 [DareneExpressCabinetClient.Tools.CLog4net] 输入手机号
+INFO  2014-10-13 21:07:22,157 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号
+INFO  2014-10-13 21:07:22,157 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-13 21:08:30,717 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:false,message: '口令卡未被登记给有效的快递员'}
+
+INFO  2014-10-13 21:08:30,720 [DareneExpressCabinetClient.Tools.CLog4net] 包裹发送到服务器失败，该次操作不成功
+INFO  2014-10-13 21:08:57,398 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号
+INFO  2014-10-13 21:08:57,398 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-13 21:09:20,595 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:false,message: '口令卡未被登记给有效的快递员'}
+
+INFO  2014-10-13 21:09:20,596 [DareneExpressCabinetClient.Tools.CLog4net] 包裹发送到服务器失败，该次操作不成功
+INFO  2014-10-13 21:09:22,677 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号
+INFO  2014-10-13 21:09:22,678 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-13 21:10:05,760 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:false,message: '口令卡未被登记给有效的快递员'}
+
+INFO  2014-10-13 21:10:05,813 [DareneExpressCabinetClient.Tools.CLog4net] 包裹发送到服务器失败，该次操作不成功
+INFO  2014-10-13 21:45:27,777 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-13 21:45:28,727 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-13 21:45:28,733 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-10-13 21:45:34,483 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-10-13 21:45:37,319 [DareneExpressCabinetClient.Tools.CLog4net] 输入员工号
+INFO  2014-10-13 21:45:40,941 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2014-10-13 21:45:41,000 [DareneExpressCabinetClient.Tools.CLog4net] 用户名密码验证成功
+INFO  2014-10-13 21:45:43,407 [DareneExpressCabinetClient.Tools.CLog4net] 扫入快递单号
+INFO  2014-10-13 21:45:45,156 [DareneExpressCabinetClient.Tools.CLog4net] 选择S号柜子
+INFO  2014-10-13 21:45:51,518 [DareneExpressCabinetClient.Tools.CLog4net] 输入手机号
+INFO  2014-10-13 21:45:58,432 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号
+INFO  2014-10-13 21:45:58,435 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-13 21:46:03,375 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:false,message: '口令卡未被登记给有效的快递员'}
+
+INFO  2014-10-13 21:46:03,377 [DareneExpressCabinetClient.Tools.CLog4net] 包裹发送到服务器失败，该次操作不成功
+INFO  2014-10-13 21:47:54,064 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-10-13 21:47:56,837 [DareneExpressCabinetClient.Tools.CLog4net] 输入员工号
+INFO  2014-10-13 21:47:59,074 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2014-10-13 21:47:59,153 [DareneExpressCabinetClient.Tools.CLog4net] 用户名密码验证成功
+INFO  2014-10-13 21:48:02,542 [DareneExpressCabinetClient.Tools.CLog4net] 扫入快递单号
+INFO  2014-10-13 21:48:04,355 [DareneExpressCabinetClient.Tools.CLog4net] 选择S号柜子
+INFO  2014-10-13 21:48:10,949 [DareneExpressCabinetClient.Tools.CLog4net] 输入手机号
+INFO  2014-10-13 21:48:17,986 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号
+INFO  2014-10-13 21:48:17,986 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-13 21:48:22,214 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:''}
+
+INFO  2014-10-13 21:48:23,502 [DareneExpressCabinetClient.Tools.CLog4net] 创建包裹
+INFO  2014-10-13 21:48:30,965 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回
+INFO  2014-10-13 21:48:33,951 [DareneExpressCabinetClient.Tools.CLog4net] 输入员工号
+INFO  2014-10-13 21:48:36,042 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2014-10-13 21:48:36,124 [DareneExpressCabinetClient.Tools.CLog4net] 用户名密码验证成功
+INFO  2014-10-13 21:48:38,569 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,boxCode:'13',message:''}
+
+INFO  2014-10-13 21:48:38,601 [DareneExpressCabinetClient.Tools.CLog4net] 扫入快递单号
+INFO  2014-10-13 21:56:57,878 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-13 21:56:58,805 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-13 21:56:58,814 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-10-13 21:57:04,136 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-10-13 21:57:07,253 [DareneExpressCabinetClient.Tools.CLog4net] 输入员工号
+INFO  2014-10-13 21:57:11,058 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2014-10-13 21:57:11,122 [DareneExpressCabinetClient.Tools.CLog4net] 用户名密码验证成功
+INFO  2014-10-13 21:57:14,074 [DareneExpressCabinetClient.Tools.CLog4net] 扫入快递单号
+INFO  2014-10-13 21:57:16,635 [DareneExpressCabinetClient.Tools.CLog4net] 选择M号柜子
+INFO  2014-10-13 21:57:23,537 [DareneExpressCabinetClient.Tools.CLog4net] 输入手机号
+INFO  2014-10-13 21:57:30,799 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号
+INFO  2014-10-13 21:57:30,802 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-13 21:57:33,826 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:''}
+
+INFO  2014-10-13 21:57:34,714 [DareneExpressCabinetClient.Tools.CLog4net] 创建包裹
+INFO  2014-10-13 21:58:34,840 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回
+INFO  2014-10-13 21:58:37,058 [DareneExpressCabinetClient.Tools.CLog4net] 点击取件
+INFO  2014-10-13 21:59:02,559 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,boxCode:'10',message:''}
+
+INFO  2014-10-13 21:59:02,585 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2014-10-13 21:59:02,607 [DareneExpressCabinetClient.Tools.CLog4net] 取件成功
+INFO  2014-10-13 21:59:18,925 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件

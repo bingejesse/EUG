@@ -1,0 +1,772 @@
+INFO  2015-01-28 22:05:09,222 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-01-28 22:05:10,363 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-01-28 22:05:10,378 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-01-28 22:05:11,004 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+INFO  2015-01-28 22:05:37,131 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-01-28 22:05:38,113 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-01-28 22:05:38,129 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-01-28 22:05:38,581 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-01-28 22:05:39,377 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-01-28 22:05:39,377 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-01-28 22:05:39,486 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-01-28 22:05:39,611 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-01-28 22:05:39,720 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-01-28 22:05:40,048 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-01-28 22:05:41,935 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1422453953}
+
+INFO  2015-01-28 22:05:42,045 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周三 01月28日 (实时：4℃),今天天气雨夹雪,东北风微风,1℃。天气冷，建议着棉服、羽绒服、皮夹克加羊毛衫等冬季服装。年老体弱者宜着厚棉衣、冬大衣或厚羽绒服。'}
+
+INFO  2015-01-28 22:05:42,342 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周三 01月28日 (实时：4℃),今天天气雨夹雪,东北风微风,1℃。天气冷，建议着棉服、羽绒服、皮夹克加羊毛衫等冬季服装。年老体弱者宜着厚棉衣、冬大衣或厚羽绒服。'}
+
+INFO  2015-01-28 22:05:43,825 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入员工号码界面
+INFO  2015-01-28 22:05:49,960 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助，进入帮助界面
+INFO  2015-01-28 22:05:51,348 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回，进入输入卡号界面
+INFO  2015-01-28 22:08:00,089 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-01-28 22:08:01,074 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-01-28 22:08:01,089 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-01-28 22:08:01,526 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-01-28 22:08:02,244 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-01-28 22:08:02,244 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-01-28 22:08:02,353 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-01-28 22:08:02,493 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-01-28 22:08:02,603 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-01-28 22:08:02,899 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-01-28 22:08:03,741 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1422454095}
+
+INFO  2015-01-28 22:08:03,866 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周三 01月28日 (实时：4℃),今天天气雨夹雪,东北风微风,1℃。天气冷，建议着棉服、羽绒服、皮夹克加羊毛衫等冬季服装。年老体弱者宜着厚棉衣、冬大衣或厚羽绒服。'}
+
+INFO  2015-01-28 22:08:04,163 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周三 01月28日 (实时：4℃),今天天气雨夹雪,东北风微风,1℃。天气冷，建议着棉服、羽绒服、皮夹克加羊毛衫等冬季服装。年老体弱者宜着厚棉衣、冬大衣或厚羽绒服。'}
+
+INFO  2015-01-28 22:08:04,178 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入员工号码界面
+INFO  2015-01-28 22:08:09,327 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入员工密码界面
+INFO  2015-01-28 22:08:10,877 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2015-01-28 22:08:10,878 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
+INFO  2015-01-28 22:08:14,466 [DareneExpressCabinetClient.Tools.CLog4net] 进入扫描快递界面
+INFO  2015-01-28 22:08:16,228 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入取件人手机号码界面
+INFO  2015-01-28 22:08:24,415 [DareneExpressCabinetClient.Tools.CLog4net] 进入再次输入手机号码界面
+INFO  2015-01-28 22:08:25,910 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号确认成功
+INFO  2015-01-28 22:08:25,942 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-01-28 22:08:26,232 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:false,message: '相同单号的快递之前已被存入，不允许重复存件'}
+
+INFO  2015-01-28 22:08:26,232 [DareneExpressCabinetClient.Tools.CLog4net] 进入扫描快递界面
+INFO  2015-01-28 22:08:26,273 [DareneExpressCabinetClient.Tools.CLog4net] 相同单号的快递之前已被存入，不允许重复存件
+INFO  2015-01-28 22:08:31,384 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入取件人手机号码界面
+INFO  2015-01-28 22:08:32,989 [DareneExpressCabinetClient.Tools.CLog4net] 进入再次输入手机号码界面
+INFO  2015-01-28 22:08:33,818 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号确认成功
+INFO  2015-01-28 22:08:33,853 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-01-28 22:08:34,125 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:''}
+
+INFO  2015-01-28 22:08:34,125 [DareneExpressCabinetClient.Tools.CLog4net] 进入创建包裹结束界面
+INFO  2015-01-28 22:08:34,183 [DareneExpressCabinetClient.Tools.CLog4net] 包裹创建数据库更新:savePackage True updatePackage False updateBox False saveDeliverLog True
+INFO  2015-01-28 22:08:34,183 [DareneExpressCabinetClient.Tools.CLog4net] 创建包裹成功
+INFO  2015-01-28 22:14:38,535 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-01-28 22:14:39,533 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-01-28 22:14:39,549 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-01-28 22:14:39,970 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-01-28 22:14:40,844 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-01-28 22:14:40,844 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-01-28 22:14:40,953 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-01-28 22:14:41,093 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-01-28 22:14:41,202 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-01-28 22:14:41,499 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-01-28 22:14:42,201 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1422454493}
+
+INFO  2015-01-28 22:14:42,388 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周三 01月28日 (实时：4℃),今天天气雨夹雪,东北风微风,1℃。天气冷，建议着棉服、羽绒服、皮夹克加羊毛衫等冬季服装。年老体弱者宜着厚棉衣、冬大衣或厚羽绒服。'}
+
+INFO  2015-01-28 22:14:42,669 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周三 01月28日 (实时：4℃),今天天气雨夹雪,东北风微风,1℃。天气冷，建议着棉服、羽绒服、皮夹克加羊毛衫等冬季服装。年老体弱者宜着厚棉衣、冬大衣或厚羽绒服。'}
+
+INFO  2015-01-28 22:14:43,121 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入员工号码界面
+INFO  2015-01-28 22:14:44,408 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入员工密码界面
+INFO  2015-01-28 22:14:45,341 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2015-01-28 22:14:45,342 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
+INFO  2015-01-28 22:14:48,011 [DareneExpressCabinetClient.Tools.CLog4net] 进入扫描快递界面
+INFO  2015-01-28 22:14:50,456 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入取件人手机号码界面
+INFO  2015-01-28 22:15:00,445 [DareneExpressCabinetClient.Tools.CLog4net] 进入再次输入手机号码界面
+INFO  2015-01-28 22:15:09,070 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号确认成功
+INFO  2015-01-28 22:15:09,105 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-01-28 22:15:09,376 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:''}
+
+INFO  2015-01-28 22:15:09,390 [DareneExpressCabinetClient.Tools.CLog4net] 使用箱子：18 True
+INFO  2015-01-28 22:15:09,391 [DareneExpressCabinetClient.Tools.CLog4net] 进入创建包裹结束界面
+INFO  2015-01-28 22:15:09,416 [DareneExpressCabinetClient.Tools.CLog4net] 包裹创建数据库更新:savePackage True updatePackage False updateBox False saveDeliverLog True
+INFO  2015-01-28 22:15:09,416 [DareneExpressCabinetClient.Tools.CLog4net] 创建包裹成功
+INFO  2015-01-28 22:15:34,627 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2015-01-28 22:15:34,983 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:15:37,965 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:15:40,971 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:15:44,002 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:15:44,825 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,boxCode:'18',message:''}
+
+INFO  2015-01-28 22:15:44,858 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-01-28 22:15:44,863 [DareneExpressCabinetClient.Tools.CLog4net] 清空箱子：18 True
+INFO  2015-01-28 22:15:44,866 [DareneExpressCabinetClient.Tools.CLog4net] 取件成功
+INFO  2015-01-28 22:15:47,992 [DareneExpressCabinetClient.Tools.CLog4net] 包裹取出数据库更新：updateBox False deletePackage True savePickUpLog True
+INFO  2015-01-28 22:15:48,201 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:15:50,018 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:16:11,903 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助，进入帮助界面
+INFO  2015-01-28 22:16:12,839 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员，进入管理员密码输入界面
+INFO  2015-01-28 22:16:17,037 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-01-28 22:16:17,037 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录
+INFO  2015-01-28 22:16:17,038 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录成功
+INFO  2015-01-28 22:16:18,111 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递柜管理器
+INFO  2015-01-28 22:16:33,095 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message: ''}
+
+INFO  2015-01-28 22:16:33,115 [DareneExpressCabinetClient.Tools.CLog4net] 包裹取出数据库更新：updateBox False deletePackage True savePickUpLog True
+INFO  2015-01-28 22:16:33,119 [DareneExpressCabinetClient.Tools.CLog4net] 清空箱子：34 True
+INFO  2015-01-28 22:16:33,122 [DareneExpressCabinetClient.Tools.CLog4net] 管理员删除包裹：34 success:True
+ERROR 2015-01-28 22:16:36,162 [DareneExpressCabinetClient.Tools.CLog4net] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.ManagerDeletePackage(Package package, About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 605
+   在 IEC.UI.frmManager.dataGridView1_CellContentClick(Object sender, DataGridViewCellEventArgs e) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\IEC.UI\关于\frmManager.cs:行号 147
+ERROR 2015-01-28 22:16:40,482 [DareneExpressCabinetClient.Tools.CLog4net] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.ManagerDeletePackage(Package package, About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 605
+   在 IEC.UI.frmManager.dataGridView1_CellContentClick(Object sender, DataGridViewCellEventArgs e) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\IEC.UI\关于\frmManager.cs:行号 147
+ERROR 2015-01-28 22:17:14,676 [DareneExpressCabinetClient.Tools.CLog4net] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.ManagerDeletePackage(Package package, About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 605
+   在 IEC.UI.frmManager.dataGridView1_CellContentClick(Object sender, DataGridViewCellEventArgs e) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\IEC.UI\关于\frmManager.cs:行号 147
+ERROR 2015-01-28 22:17:48,995 [DareneExpressCabinetClient.Tools.CLog4net] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.ManagerDeletePackage(Package package, About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 605
+   在 IEC.UI.frmManager.dataGridView1_CellContentClick(Object sender, DataGridViewCellEventArgs e) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\IEC.UI\关于\frmManager.cs:行号 147
+ERROR 2015-01-28 22:18:32,717 [DareneExpressCabinetClient.Tools.CLog4net] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.ManagerDeletePackage(Package package, About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 605
+   在 IEC.UI.frmManager.dataGridView1_CellContentClick(Object sender, DataGridViewCellEventArgs e) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\IEC.UI\关于\frmManager.cs:行号 147
+INFO  2015-01-28 22:20:10,895 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-01-28 22:20:11,862 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-01-28 22:20:11,894 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-01-28 22:20:12,362 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-01-28 22:20:13,220 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-01-28 22:20:13,220 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-01-28 22:20:13,329 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-01-28 22:20:13,438 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-01-28 22:20:13,547 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-01-28 22:20:13,844 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-01-28 22:20:14,561 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1422454826}
+
+INFO  2015-01-28 22:20:14,748 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周三 01月28日 (实时：4℃),今天天气雨夹雪,东北风微风,1℃。天气冷，建议着棉服、羽绒服、皮夹克加羊毛衫等冬季服装。年老体弱者宜着厚棉衣、冬大衣或厚羽绒服。'}
+
+INFO  2015-01-28 22:20:15,029 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周三 01月28日 (实时：4℃),今天天气雨夹雪,东北风微风,1℃。天气冷，建议着棉服、羽绒服、皮夹克加羊毛衫等冬季服装。年老体弱者宜着厚棉衣、冬大衣或厚羽绒服。'}
+
+INFO  2015-01-28 22:20:15,591 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入员工号码界面
+INFO  2015-01-28 22:20:19,325 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2015-01-28 22:20:19,685 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:20:22,662 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:20:25,663 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:20:28,678 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:20:31,693 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:20:34,706 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:20:37,715 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:20:40,725 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:20:43,738 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:20:46,752 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:20:49,753 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:20:52,781 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:20:55,767 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:20:58,778 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:21:01,798 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:21:04,809 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:21:07,826 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:21:10,836 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:21:13,853 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:21:16,578 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回，进入输入卡号界面
+INFO  2015-01-28 22:21:19,210 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入员工号码界面
+INFO  2015-01-28 22:21:20,437 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2015-01-28 22:21:20,438 [DareneExpressCabinetClient.Tools.CLog4net] 用进入扫描快递单号界面
+INFO  2015-01-28 22:21:34,974 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:false,boxCode:'', message: '找不到包裹'}
+
+INFO  2015-01-28 22:21:34,976 [DareneExpressCabinetClient.Tools.CLog4net] 找不到包裹
+INFO  2015-01-28 22:21:42,222 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,boxCode:'36',message:''}
+
+INFO  2015-01-28 22:21:42,262 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-01-28 22:21:42,274 [DareneExpressCabinetClient.Tools.CLog4net] 清空箱子：36 True
+INFO  2015-01-28 22:21:42,275 [DareneExpressCabinetClient.Tools.CLog4net] 没有这个包裹，请联系管理员:1
+INFO  2015-01-28 22:21:42,275 [DareneExpressCabinetClient.Tools.CLog4net] 进入快递员取回成功界面
+INFO  2015-01-28 22:22:39,031 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入员工号码界面
+INFO  2015-01-28 22:22:41,185 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入员工密码界面
+INFO  2015-01-28 22:22:42,118 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2015-01-28 22:22:42,119 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
+INFO  2015-01-28 22:22:45,515 [DareneExpressCabinetClient.Tools.CLog4net] 进入扫描快递界面
+INFO  2015-01-28 22:22:47,867 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入取件人手机号码界面
+INFO  2015-01-28 22:23:01,448 [DareneExpressCabinetClient.Tools.CLog4net] 进入再次输入手机号码界面
+INFO  2015-01-28 22:23:02,085 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号确认成功
+INFO  2015-01-28 22:23:02,122 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-01-28 22:23:02,384 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:''}
+
+INFO  2015-01-28 22:23:02,393 [DareneExpressCabinetClient.Tools.CLog4net] 使用箱子：36 True
+INFO  2015-01-28 22:23:02,393 [DareneExpressCabinetClient.Tools.CLog4net] 进入创建包裹结束界面
+INFO  2015-01-28 22:23:02,477 [DareneExpressCabinetClient.Tools.CLog4net] 包裹创建数据库更新:savePackage True updatePackage False updateBox False saveDeliverLog True
+INFO  2015-01-28 22:23:02,477 [DareneExpressCabinetClient.Tools.CLog4net] 创建包裹成功
+INFO  2015-01-28 22:23:06,352 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入员工号码界面
+INFO  2015-01-28 22:23:07,454 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入员工密码界面
+INFO  2015-01-28 22:23:08,295 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2015-01-28 22:23:08,295 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
+INFO  2015-01-28 22:23:11,042 [DareneExpressCabinetClient.Tools.CLog4net] 进入扫描快递界面
+INFO  2015-01-28 22:23:13,099 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入取件人手机号码界面
+INFO  2015-01-28 22:23:14,252 [DareneExpressCabinetClient.Tools.CLog4net] 进入再次输入手机号码界面
+INFO  2015-01-28 22:23:14,880 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号确认成功
+INFO  2015-01-28 22:23:14,918 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-01-28 22:23:15,194 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:''}
+
+INFO  2015-01-28 22:23:15,201 [DareneExpressCabinetClient.Tools.CLog4net] 使用箱子：18 True
+INFO  2015-01-28 22:23:15,202 [DareneExpressCabinetClient.Tools.CLog4net] 进入创建包裹结束界面
+INFO  2015-01-28 22:23:15,249 [DareneExpressCabinetClient.Tools.CLog4net] 包裹创建数据库更新:savePackage True updatePackage False updateBox False saveDeliverLog True
+INFO  2015-01-28 22:23:15,249 [DareneExpressCabinetClient.Tools.CLog4net] 创建包裹成功
+INFO  2015-01-28 22:23:18,446 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入员工号码界面
+INFO  2015-01-28 22:23:20,181 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入员工密码界面
+INFO  2015-01-28 22:23:21,591 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:false,companyName:'', message: '口令不正确'}
+
+INFO  2015-01-28 22:23:21,593 [DareneExpressCabinetClient.Tools.CLog4net] 口令不正确
+INFO  2015-01-28 22:23:21,593 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入员工号码界面
+INFO  2015-01-28 22:23:25,032 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入员工号码界面
+INFO  2015-01-28 22:23:26,396 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入员工密码界面
+INFO  2015-01-28 22:23:27,378 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2015-01-28 22:23:27,379 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
+INFO  2015-01-28 22:23:29,725 [DareneExpressCabinetClient.Tools.CLog4net] 进入扫描快递界面
+INFO  2015-01-28 22:23:31,150 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入取件人手机号码界面
+INFO  2015-01-28 22:23:32,866 [DareneExpressCabinetClient.Tools.CLog4net] 进入再次输入手机号码界面
+INFO  2015-01-28 22:23:33,597 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号确认成功
+INFO  2015-01-28 22:23:33,631 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-01-28 22:23:33,915 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:''}
+
+INFO  2015-01-28 22:23:33,923 [DareneExpressCabinetClient.Tools.CLog4net] 使用箱子：9 True
+INFO  2015-01-28 22:23:33,923 [DareneExpressCabinetClient.Tools.CLog4net] 进入创建包裹结束界面
+INFO  2015-01-28 22:23:33,974 [DareneExpressCabinetClient.Tools.CLog4net] 包裹创建数据库更新:savePackage True updatePackage False updateBox False saveDeliverLog True
+INFO  2015-01-28 22:23:33,974 [DareneExpressCabinetClient.Tools.CLog4net] 创建包裹成功
+INFO  2015-01-28 22:23:37,079 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入员工号码界面
+INFO  2015-01-28 22:23:38,492 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入员工密码界面
+INFO  2015-01-28 22:23:39,534 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2015-01-28 22:23:39,534 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
+INFO  2015-01-28 22:23:43,233 [DareneExpressCabinetClient.Tools.CLog4net] 进入扫描快递界面
+INFO  2015-01-28 22:23:46,578 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入取件人手机号码界面
+INFO  2015-01-28 22:23:47,619 [DareneExpressCabinetClient.Tools.CLog4net] 进入再次输入手机号码界面
+INFO  2015-01-28 22:23:49,195 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号确认成功
+INFO  2015-01-28 22:23:49,226 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-01-28 22:23:49,484 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:''}
+
+INFO  2015-01-28 22:23:49,491 [DareneExpressCabinetClient.Tools.CLog4net] 使用箱子：27 True
+INFO  2015-01-28 22:23:49,491 [DareneExpressCabinetClient.Tools.CLog4net] 进入创建包裹结束界面
+INFO  2015-01-28 22:23:49,538 [DareneExpressCabinetClient.Tools.CLog4net] 包裹创建数据库更新:savePackage True updatePackage False updateBox False saveDeliverLog True
+INFO  2015-01-28 22:23:49,538 [DareneExpressCabinetClient.Tools.CLog4net] 创建包裹成功
+INFO  2015-01-28 22:24:12,691 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回，进入输入卡号界面
+INFO  2015-01-28 22:24:15,450 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入员工号码界面
+INFO  2015-01-28 22:24:17,181 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2015-01-28 22:24:17,181 [DareneExpressCabinetClient.Tools.CLog4net] 用进入扫描快递单号界面
+INFO  2015-01-28 22:24:19,364 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,boxCode:'36',message:''}
+
+INFO  2015-01-28 22:24:19,400 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-01-28 22:24:19,415 [DareneExpressCabinetClient.Tools.CLog4net] 包裹取出数据库更新：updateBox False deletePackage True savePickUpLog True
+INFO  2015-01-28 22:24:19,425 [DareneExpressCabinetClient.Tools.CLog4net] 清空箱子：36 True
+INFO  2015-01-28 22:24:19,425 [DareneExpressCabinetClient.Tools.CLog4net] 没有这个包裹，请联系管理员:1
+INFO  2015-01-28 22:24:19,425 [DareneExpressCabinetClient.Tools.CLog4net] 进入快递员取回成功界面
+INFO  2015-01-28 22:24:24,967 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2015-01-28 22:24:25,252 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:24:28,260 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:24:31,281 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:24:33,419 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,boxCode:'18',message:''}
+
+INFO  2015-01-28 22:24:33,454 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-01-28 22:24:33,461 [DareneExpressCabinetClient.Tools.CLog4net] 清空箱子：18 True
+INFO  2015-01-28 22:24:33,464 [DareneExpressCabinetClient.Tools.CLog4net] 取件成功
+INFO  2015-01-28 22:24:33,473 [DareneExpressCabinetClient.Tools.CLog4net] 包裹取出数据库更新：updateBox False deletePackage True savePickUpLog True
+INFO  2015-01-28 22:24:34,339 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:24:37,114 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2015-01-28 22:24:37,414 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:24:40,430 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:24:43,418 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:24:46,426 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:true,boxnumber:'27',code:'886ea94ac4ed4b5aac03016211d7680d', message: '查询到开箱指令'}
+
+INFO  2015-01-28 22:24:46,460 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-01-28 22:24:46,737 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{received:true}
+
+INFO  2015-01-28 22:24:46,737 [DareneExpressCabinetClient.Tools.CLog4net] 取件成功
+INFO  2015-01-28 22:24:46,743 [DareneExpressCabinetClient.Tools.CLog4net] 清空箱子：27 True
+INFO  2015-01-28 22:24:46,751 [DareneExpressCabinetClient.Tools.CLog4net] 包裹取出数据库更新：updateBox False deletePackage True savePickUpLog True
+INFO  2015-01-28 22:24:55,936 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2015-01-28 22:24:56,201 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:24:59,193 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:25:02,205 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:25:05,208 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:true,boxnumber:'9',code:'060b4e9bee0a46728542ca0ca2ec6276', message: '查询到开箱指令'}
+
+INFO  2015-01-28 22:25:05,234 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-01-28 22:25:05,511 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{received:true}
+
+INFO  2015-01-28 22:25:05,511 [DareneExpressCabinetClient.Tools.CLog4net] 取件成功
+INFO  2015-01-28 22:25:05,517 [DareneExpressCabinetClient.Tools.CLog4net] 清空箱子：9 True
+INFO  2015-01-28 22:25:05,524 [DareneExpressCabinetClient.Tools.CLog4net] 包裹取出数据库更新：updateBox False deletePackage True savePickUpLog True
+INFO  2015-01-28 22:25:18,561 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入员工号码界面
+INFO  2015-01-28 22:25:48,453 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入员工号码界面
+INFO  2015-01-28 22:25:49,891 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入员工密码界面
+INFO  2015-01-28 22:25:51,393 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2015-01-28 22:25:51,394 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
+INFO  2015-01-28 22:25:54,648 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
+INFO  2015-01-28 22:25:57,917 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
+INFO  2015-01-28 22:26:02,583 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入员工号码界面
+INFO  2015-01-28 22:26:04,330 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入员工密码界面
+INFO  2015-01-28 22:26:05,531 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2015-01-28 22:26:05,531 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
+INFO  2015-01-28 22:26:08,250 [DareneExpressCabinetClient.Tools.CLog4net] 进入扫描快递界面
+INFO  2015-01-28 22:26:11,018 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入取件人手机号码界面
+INFO  2015-01-28 22:26:20,788 [DareneExpressCabinetClient.Tools.CLog4net] 进入再次输入手机号码界面
+INFO  2015-01-28 22:26:22,867 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号确认成功
+INFO  2015-01-28 22:26:22,902 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-01-28 22:26:23,199 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:''}
+
+INFO  2015-01-28 22:26:23,207 [DareneExpressCabinetClient.Tools.CLog4net] 使用箱子：26 True
+INFO  2015-01-28 22:26:23,207 [DareneExpressCabinetClient.Tools.CLog4net] 进入创建包裹结束界面
+INFO  2015-01-28 22:26:23,223 [DareneExpressCabinetClient.Tools.CLog4net] 包裹创建数据库更新:savePackage True updatePackage False updateBox False saveDeliverLog True
+INFO  2015-01-28 22:26:23,224 [DareneExpressCabinetClient.Tools.CLog4net] 创建包裹成功
+INFO  2015-01-28 22:26:27,092 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入员工号码界面
+INFO  2015-01-28 22:26:37,843 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入员工密码界面
+INFO  2015-01-28 22:26:40,730 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入员工号码界面
+INFO  2015-01-28 22:27:32,498 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入员工密码界面
+INFO  2015-01-28 22:27:33,918 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2015-01-28 22:27:33,918 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
+INFO  2015-01-28 22:27:36,306 [DareneExpressCabinetClient.Tools.CLog4net] 进入扫描快递界面
+INFO  2015-01-28 22:27:47,213 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入取件人手机号码界面
+INFO  2015-01-28 22:27:50,993 [DareneExpressCabinetClient.Tools.CLog4net] 进入再次输入手机号码界面
+INFO  2015-01-28 22:27:52,942 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号确认成功
+INFO  2015-01-28 22:27:52,978 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+ERROR 2015-01-28 22:27:56,249 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 152
+ERROR 2015-01-28 22:27:56,280 [DareneExpressCabinetClient.Tools.CLog4net] PackageCreateSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.PackageCreate(Package pac, About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 184
+INFO  2015-01-28 22:27:56,280 [DareneExpressCabinetClient.Tools.CLog4net] 进入扫描快递界面
+INFO  2015-01-28 22:27:56,319 [DareneExpressCabinetClient.Tools.CLog4net] 
+INFO  2015-01-28 22:28:01,981 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入取件人手机号码界面
+INFO  2015-01-28 22:28:05,591 [DareneExpressCabinetClient.Tools.CLog4net] 进入再次输入手机号码界面
+INFO  2015-01-28 22:28:24,288 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号确认成功
+INFO  2015-01-28 22:28:26,762 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+ERROR 2015-01-28 22:28:27,993 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 未能解析此远程名称: 'www.darene.cn'
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 147
+ERROR 2015-01-28 22:28:28,009 [DareneExpressCabinetClient.Tools.CLog4net] PackageCreateSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.PackageCreate(Package pac, About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 184
+INFO  2015-01-28 22:28:33,068 [DareneExpressCabinetClient.Tools.CLog4net] 进入扫描快递界面
+INFO  2015-01-28 22:28:59,169 [DareneExpressCabinetClient.Tools.CLog4net] 
+INFO  2015-01-28 22:32:50,756 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-01-28 22:32:51,775 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-01-28 22:32:51,793 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-01-28 22:32:52,388 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-01-28 22:32:53,395 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-01-28 22:32:53,395 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-01-28 22:32:53,504 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-01-28 22:32:53,645 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-01-28 22:32:53,754 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-01-28 22:32:54,035 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-01-28 22:32:54,783 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1422455586}
+
+INFO  2015-01-28 22:32:55,033 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周三 01月28日 (实时：4℃),今天天气雨夹雪,东北风微风,1℃。天气冷，建议着棉服、羽绒服、皮夹克加羊毛衫等冬季服装。年老体弱者宜着厚棉衣、冬大衣或厚羽绒服。'}
+
+INFO  2015-01-28 22:32:55,314 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周三 01月28日 (实时：4℃),今天天气雨夹雪,东北风微风,1℃。天气冷，建议着棉服、羽绒服、皮夹克加羊毛衫等冬季服装。年老体弱者宜着厚棉衣、冬大衣或厚羽绒服。'}
+
+INFO  2015-01-28 22:33:18,107 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入员工号码界面
+INFO  2015-01-28 22:33:19,812 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入员工密码界面
+INFO  2015-01-28 22:33:22,854 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助，进入帮助界面
+INFO  2015-01-28 22:33:23,914 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员，进入管理员密码输入界面
+INFO  2015-01-28 22:33:28,378 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-01-28 22:33:28,378 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录
+INFO  2015-01-28 22:33:28,379 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录成功
+INFO  2015-01-28 22:33:29,389 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递柜管理器
+INFO  2015-01-28 22:33:37,853 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入员工号码界面
+INFO  2015-01-28 22:33:38,944 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入员工密码界面
+INFO  2015-01-28 22:33:39,856 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2015-01-28 22:33:39,857 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
+INFO  2015-01-28 22:33:43,863 [DareneExpressCabinetClient.Tools.CLog4net] 进入扫描快递界面
+INFO  2015-01-28 22:33:56,691 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入取件人手机号码界面
+INFO  2015-01-28 22:34:05,263 [DareneExpressCabinetClient.Tools.CLog4net] 进入再次输入手机号码界面
+INFO  2015-01-28 22:34:07,329 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号确认成功
+INFO  2015-01-28 22:34:09,126 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+ERROR 2015-01-28 22:34:12,374 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 152
+ERROR 2015-01-28 22:34:12,395 [DareneExpressCabinetClient.Tools.CLog4net] PackageCreateSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.PackageCreate(Package pac, About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 184
+INFO  2015-01-28 22:34:12,395 [DareneExpressCabinetClient.Tools.CLog4net] 进入扫描快递界面
+INFO  2015-01-28 22:34:12,405 [DareneExpressCabinetClient.Tools.CLog4net] 包裹发送到服务器失败
+INFO  2015-01-28 22:34:16,914 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入取件人手机号码界面
+INFO  2015-01-28 22:34:18,297 [DareneExpressCabinetClient.Tools.CLog4net] 进入再次输入手机号码界面
+INFO  2015-01-28 22:34:19,392 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号确认成功
+INFO  2015-01-28 22:34:19,411 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+ERROR 2015-01-28 22:34:33,077 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 147
+ERROR 2015-01-28 22:34:33,108 [DareneExpressCabinetClient.Tools.CLog4net] PackageCreateSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.PackageCreate(Package pac, About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 184
+INFO  2015-01-28 22:34:33,108 [DareneExpressCabinetClient.Tools.CLog4net] 进入扫描快递界面
+INFO  2015-01-28 22:34:33,113 [DareneExpressCabinetClient.Tools.CLog4net] 包裹发送到服务器失败
+INFO  2015-01-28 22:34:33,197 [DareneExpressCabinetClient.Tools.CLog4net] 快递单号不全为数字
+INFO  2015-01-28 22:34:38,710 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入取件人手机号码界面
+INFO  2015-01-28 22:34:39,918 [DareneExpressCabinetClient.Tools.CLog4net] 进入再次输入手机号码界面
+INFO  2015-01-28 22:34:41,019 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号确认成功
+INFO  2015-01-28 22:34:41,052 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-01-28 22:34:41,617 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:false,message: '相同单号的快递之前已被存入，不允许重复存件'}
+
+INFO  2015-01-28 22:34:41,617 [DareneExpressCabinetClient.Tools.CLog4net] 进入扫描快递界面
+INFO  2015-01-28 22:34:41,662 [DareneExpressCabinetClient.Tools.CLog4net] 相同单号的快递之前已被存入，不允许重复存件
+INFO  2015-01-28 22:34:52,611 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入取件人手机号码界面
+INFO  2015-01-28 22:34:53,695 [DareneExpressCabinetClient.Tools.CLog4net] 进入再次输入手机号码界面
+INFO  2015-01-28 22:34:54,593 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号确认成功
+INFO  2015-01-28 22:34:54,630 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+ERROR 2015-01-28 22:34:54,770 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 未能解析此远程名称: 'www.darene.cn'
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 147
+ERROR 2015-01-28 22:34:54,804 [DareneExpressCabinetClient.Tools.CLog4net] PackageCreateSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.PackageCreate(Package pac, About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 184
+INFO  2015-01-28 22:34:54,804 [DareneExpressCabinetClient.Tools.CLog4net] 进入扫描快递界面
+INFO  2015-01-28 22:34:54,848 [DareneExpressCabinetClient.Tools.CLog4net] 包裹发送到服务器失败
+INFO  2015-01-28 22:35:00,220 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入取件人手机号码界面
+INFO  2015-01-28 22:35:00,978 [DareneExpressCabinetClient.Tools.CLog4net] 进入再次输入手机号码界面
+INFO  2015-01-28 22:35:01,675 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号确认成功
+INFO  2015-01-28 22:35:01,707 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+ERROR 2015-01-28 22:35:01,819 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 未能解析此远程名称: 'www.darene.cn'
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 147
+ERROR 2015-01-28 22:35:01,837 [DareneExpressCabinetClient.Tools.CLog4net] PackageCreateSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.PackageCreate(Package pac, About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 184
+INFO  2015-01-28 22:35:01,837 [DareneExpressCabinetClient.Tools.CLog4net] 进入扫描快递界面
+INFO  2015-01-28 22:35:01,863 [DareneExpressCabinetClient.Tools.CLog4net] 包裹发送到服务器失败
+INFO  2015-01-28 22:36:10,643 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+ERROR 2015-01-28 22:36:10,799 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 未能解析此远程名称: 'www.darene.cn'
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 147
+ERROR 2015-01-28 22:36:10,814 [DareneExpressCabinetClient.Tools.CLog4net] OpenBoxCmdListenerSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.OpenBoxCmdListener(About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 428
+ERROR 2015-01-28 22:36:13,827 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 未能解析此远程名称: 'www.darene.cn'
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 147
+ERROR 2015-01-28 22:36:13,839 [DareneExpressCabinetClient.Tools.CLog4net] OpenBoxCmdListenerSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.OpenBoxCmdListener(About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 428
+ERROR 2015-01-28 22:36:14,193 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 未能解析此远程名称: 'www.darene.cn'
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 147
+ERROR 2015-01-28 22:36:14,221 [DareneExpressCabinetClient.Tools.CLog4net] RceiverLoginSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.RceiverLogin(String password, About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 237
+INFO  2015-01-28 22:36:14,222 [DareneExpressCabinetClient.Tools.CLog4net] 网络或者服务器连接异常
+ERROR 2015-01-28 22:36:16,823 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 未能解析此远程名称: 'www.darene.cn'
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 147
+ERROR 2015-01-28 22:36:16,832 [DareneExpressCabinetClient.Tools.CLog4net] OpenBoxCmdListenerSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.OpenBoxCmdListener(About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 428
+ERROR 2015-01-28 22:36:18,669 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 未能解析此远程名称: 'www.darene.cn'
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 147
+ERROR 2015-01-28 22:36:18,696 [DareneExpressCabinetClient.Tools.CLog4net] RceiverLoginSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.RceiverLogin(String password, About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 237
+INFO  2015-01-28 22:36:18,696 [DareneExpressCabinetClient.Tools.CLog4net] 网络或者服务器连接异常
+ERROR 2015-01-28 22:36:19,831 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 未能解析此远程名称: 'www.darene.cn'
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 147
+ERROR 2015-01-28 22:36:19,842 [DareneExpressCabinetClient.Tools.CLog4net] OpenBoxCmdListenerSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.OpenBoxCmdListener(About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 428
+INFO  2015-01-28 22:36:22,647 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回，进入输入卡号界面
+INFO  2015-01-28 22:36:24,784 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入员工号码界面
+ERROR 2015-01-28 22:36:26,655 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 未能解析此远程名称: 'www.darene.cn'
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 147
+ERROR 2015-01-28 22:36:26,685 [DareneExpressCabinetClient.Tools.CLog4net] CourierLoginSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.CourierLogin(Courier cou, About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 127
+INFO  2015-01-28 22:36:26,687 [DareneExpressCabinetClient.Tools.CLog4net] 网络或服务器连接异常
+INFO  2015-01-28 22:36:26,687 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回，进入输入卡号界面
+INFO  2015-01-28 22:36:33,478 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入员工号码界面
+INFO  2015-01-28 22:36:38,286 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入员工密码界面
+ERROR 2015-01-28 22:36:39,385 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 未能解析此远程名称: 'www.darene.cn'
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 147
+ERROR 2015-01-28 22:36:39,414 [DareneExpressCabinetClient.Tools.CLog4net] CourierLoginSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.CourierLogin(Courier cou, About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 127
+INFO  2015-01-28 22:36:39,416 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接异常
+INFO  2015-01-28 22:36:39,416 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入员工号码界面
+INFO  2015-01-28 22:38:28,339 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-01-28 22:38:29,312 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-01-28 22:38:29,332 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-01-28 22:38:29,832 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-01-28 22:38:30,928 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-01-28 22:38:30,928 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-01-28 22:38:31,039 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-01-28 22:38:31,159 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-01-28 22:38:31,264 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-01-28 22:38:31,588 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+ERROR 2015-01-28 22:38:31,588 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 未能解析此远程名称: 'www.darene.cn'
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 147
+ERROR 2015-01-28 22:38:31,595 [DareneExpressCabinetClient.Tools.CLog4net] ServiceShakeHandSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.ServiceShakeHand(About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 522
+ERROR 2015-01-28 22:38:31,646 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 未能解析此远程名称: 'www.darene.cn'
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 147
+ERROR 2015-01-28 22:38:31,654 [DareneExpressCabinetClient.Tools.CLog4net] GetBroadcastMessageSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.GetBroadcastMessage(About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 567
+INFO  2015-01-28 22:38:33,864 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+ERROR 2015-01-28 22:38:34,114 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 未能解析此远程名称: 'www.darene.cn'
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 147
+ERROR 2015-01-28 22:38:34,129 [DareneExpressCabinetClient.Tools.CLog4net] OpenBoxCmdListenerSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.OpenBoxCmdListener(About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 428
+ERROR 2015-01-28 22:38:35,646 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 未能解析此远程名称: 'www.darene.cn'
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 147
+ERROR 2015-01-28 22:38:35,681 [DareneExpressCabinetClient.Tools.CLog4net] RceiverLoginSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.RceiverLogin(String password, About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 237
+INFO  2015-01-28 22:38:35,746 [DareneExpressCabinetClient.Tools.CLog4net] 网络或者服务器连接异常
+ERROR 2015-01-28 22:38:37,033 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 未能解析此远程名称: 'www.darene.cn'
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 147
+ERROR 2015-01-28 22:38:37,043 [DareneExpressCabinetClient.Tools.CLog4net] OpenBoxCmdListenerSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.OpenBoxCmdListener(About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 428
+ERROR 2015-01-28 22:38:40,040 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 未能解析此远程名称: 'www.darene.cn'
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 147
+ERROR 2015-01-28 22:38:40,050 [DareneExpressCabinetClient.Tools.CLog4net] OpenBoxCmdListenerSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.OpenBoxCmdListener(About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 428
+INFO  2015-01-28 22:38:43,091 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回，进入输入卡号界面
+INFO  2015-01-28 22:38:44,787 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入员工号码界面
+ERROR 2015-01-28 22:38:46,854 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 未能解析此远程名称: 'www.darene.cn'
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 147
+ERROR 2015-01-28 22:38:46,871 [DareneExpressCabinetClient.Tools.CLog4net] CourierLoginSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.CourierLogin(Courier cou, About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 127
+INFO  2015-01-28 22:38:46,873 [DareneExpressCabinetClient.Tools.CLog4net] 网络或服务器连接异常
+INFO  2015-01-28 22:38:46,873 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回，进入输入卡号界面
+INFO  2015-01-28 22:38:50,485 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入员工号码界面
+INFO  2015-01-28 22:38:53,698 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入员工密码界面
+ERROR 2015-01-28 22:38:54,882 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 未能解析此远程名称: 'www.darene.cn'
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 147
+ERROR 2015-01-28 22:38:54,905 [DareneExpressCabinetClient.Tools.CLog4net] CourierLoginSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.CourierLogin(Courier cou, About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 127
+INFO  2015-01-28 22:38:54,913 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接异常
+INFO  2015-01-28 22:38:54,913 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入员工号码界面
+INFO  2015-01-28 22:39:01,497 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回，进入输入卡号界面
+INFO  2015-01-28 22:39:02,841 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入员工号码界面
+ERROR 2015-01-28 22:39:04,280 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 未能解析此远程名称: 'www.darene.cn'
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 147
+ERROR 2015-01-28 22:39:04,311 [DareneExpressCabinetClient.Tools.CLog4net] CourierLoginSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.CourierLogin(Courier cou, About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 127
+INFO  2015-01-28 22:39:04,311 [DareneExpressCabinetClient.Tools.CLog4net] 网络或服务器连接异常
+INFO  2015-01-28 22:39:04,311 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回，进入输入卡号界面
+INFO  2015-01-28 22:39:05,846 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+ERROR 2015-01-28 22:39:05,958 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 未能解析此远程名称: 'www.darene.cn'
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 147
+ERROR 2015-01-28 22:39:05,983 [DareneExpressCabinetClient.Tools.CLog4net] OpenBoxCmdListenerSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.OpenBoxCmdListener(About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 428
+ERROR 2015-01-28 22:39:06,983 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 未能解析此远程名称: 'www.darene.cn'
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 147
+ERROR 2015-01-28 22:39:07,004 [DareneExpressCabinetClient.Tools.CLog4net] RceiverLoginSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.RceiverLogin(String password, About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 237
+INFO  2015-01-28 22:39:07,030 [DareneExpressCabinetClient.Tools.CLog4net] 网络或者服务器连接异常
+ERROR 2015-01-28 22:39:08,980 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 未能解析此远程名称: 'www.darene.cn'
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 147
+ERROR 2015-01-28 22:39:08,990 [DareneExpressCabinetClient.Tools.CLog4net] OpenBoxCmdListenerSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.OpenBoxCmdListener(About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 428
+ERROR 2015-01-28 22:39:11,990 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 未能解析此远程名称: 'www.darene.cn'
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 147
+ERROR 2015-01-28 22:39:12,000 [DareneExpressCabinetClient.Tools.CLog4net] OpenBoxCmdListenerSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.OpenBoxCmdListener(About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 428
+ERROR 2015-01-28 22:39:14,996 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 未能解析此远程名称: 'www.darene.cn'
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 147
+ERROR 2015-01-28 22:39:15,006 [DareneExpressCabinetClient.Tools.CLog4net] OpenBoxCmdListenerSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.OpenBoxCmdListener(About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 428
+ERROR 2015-01-28 22:39:18,007 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 未能解析此远程名称: 'www.darene.cn'
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 147
+ERROR 2015-01-28 22:39:18,018 [DareneExpressCabinetClient.Tools.CLog4net] OpenBoxCmdListenerSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.OpenBoxCmdListener(About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 428
+ERROR 2015-01-28 22:39:21,024 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 未能解析此远程名称: 'www.darene.cn'
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 147
+ERROR 2015-01-28 22:39:21,035 [DareneExpressCabinetClient.Tools.CLog4net] OpenBoxCmdListenerSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.OpenBoxCmdListener(About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 428
+ERROR 2015-01-28 22:39:24,038 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 未能解析此远程名称: 'www.darene.cn'
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 147
+ERROR 2015-01-28 22:39:24,049 [DareneExpressCabinetClient.Tools.CLog4net] OpenBoxCmdListenerSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.OpenBoxCmdListener(About about) 位置 D:\C#\projects\智能储物柜\20150118EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 428
+INFO  2015-01-28 22:43:18,730 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-01-28 22:43:19,747 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-01-28 22:43:19,767 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-01-28 22:43:20,245 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-01-28 22:43:21,030 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-01-28 22:43:21,046 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-01-28 22:43:21,155 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-01-28 22:43:21,280 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-01-28 22:43:21,389 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-01-28 22:43:21,655 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-01-28 22:43:23,138 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1422456214}
+
+INFO  2015-01-28 22:43:23,247 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周三 01月28日 (实时：4℃),今天天气雨夹雪,东北风微风,1℃。天气冷，建议着棉服、羽绒服、皮夹克加羊毛衫等冬季服装。年老体弱者宜着厚棉衣、冬大衣或厚羽绒服。'}
+
+INFO  2015-01-28 22:43:23,528 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周三 01月28日 (实时：4℃),今天天气雨夹雪,东北风微风,1℃。天气冷，建议着棉服、羽绒服、皮夹克加羊毛衫等冬季服装。年老体弱者宜着厚棉衣、冬大衣或厚羽绒服。'}
+
+INFO  2015-01-28 22:43:24,636 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入员工号码界面
+INFO  2015-01-28 22:43:25,929 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入员工密码界面
+INFO  2015-01-28 22:43:27,134 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2015-01-28 22:43:27,135 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
+INFO  2015-01-28 22:43:34,867 [DareneExpressCabinetClient.Tools.CLog4net] 进入扫描快递界面
+INFO  2015-01-28 22:43:38,496 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入取件人手机号码界面
+INFO  2015-01-28 22:43:47,374 [DareneExpressCabinetClient.Tools.CLog4net] 进入再次输入手机号码界面
+INFO  2015-01-28 22:43:55,040 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号确认成功
+INFO  2015-01-28 22:43:55,077 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-01-28 22:43:55,359 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:''}
+
+INFO  2015-01-28 22:43:55,370 [DareneExpressCabinetClient.Tools.CLog4net] 使用箱子：19 True
+INFO  2015-01-28 22:43:55,370 [DareneExpressCabinetClient.Tools.CLog4net] 进入创建包裹结束界面
+INFO  2015-01-28 22:43:55,393 [DareneExpressCabinetClient.Tools.CLog4net] 包裹创建数据库更新:savePackage True updatePackage False updateBox False saveDeliverLog True
+INFO  2015-01-28 22:43:55,393 [DareneExpressCabinetClient.Tools.CLog4net] 创建包裹成功
+INFO  2015-01-28 22:44:13,716 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2015-01-28 22:44:14,048 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:44:16,193 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:false,boxCode:'', message: '找不到包裹'}
+
+INFO  2015-01-28 22:44:16,224 [DareneExpressCabinetClient.Tools.CLog4net] 找不到包裹
+INFO  2015-01-28 22:44:17,062 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:44:20,062 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:44:23,064 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:44:26,069 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:44:29,081 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:44:32,092 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:44:35,101 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:44:38,112 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:44:41,129 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:44:44,138 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:44:47,150 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:44:48,014 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,boxCode:'26',message:''}
+
+INFO  2015-01-28 22:44:48,045 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-01-28 22:44:48,053 [DareneExpressCabinetClient.Tools.CLog4net] 清空箱子：26 True
+INFO  2015-01-28 22:44:48,057 [DareneExpressCabinetClient.Tools.CLog4net] 取件成功
+INFO  2015-01-28 22:44:48,072 [DareneExpressCabinetClient.Tools.CLog4net] 包裹取出数据库更新：updateBox False deletePackage True savePickUpLog True
+INFO  2015-01-28 22:44:50,264 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:44:54,730 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回，进入输入卡号界面
+INFO  2015-01-28 22:45:21,898 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2015-01-28 22:45:22,151 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:45:25,172 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:45:28,181 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:true,boxnumber:'19',code:'5c1529e624184e53919b634084964199', message: '查询到开箱指令'}
+
+INFO  2015-01-28 22:45:28,212 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-01-28 22:45:28,479 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{received:true}
+
+INFO  2015-01-28 22:45:28,479 [DareneExpressCabinetClient.Tools.CLog4net] 取件成功
+INFO  2015-01-28 22:45:28,486 [DareneExpressCabinetClient.Tools.CLog4net] 清空箱子：19 True
+INFO  2015-01-28 22:45:28,493 [DareneExpressCabinetClient.Tools.CLog4net] 包裹取出数据库更新：updateBox False deletePackage True savePickUpLog True
+INFO  2015-01-28 22:45:35,169 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2015-01-28 22:45:35,428 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:45:38,414 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:45:41,416 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:45:44,423 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:45:47,442 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:45:50,471 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:45:53,470 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-01-28 22:45:54,457 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回，进入输入卡号界面
+INFO  2015-01-28 22:45:55,568 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入员工号码界面
+INFO  2015-01-28 22:45:56,837 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2015-01-28 22:45:56,838 [DareneExpressCabinetClient.Tools.CLog4net] 用进入扫描快递单号界面
+INFO  2015-01-28 22:46:03,444 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,boxCode:'18',message:''}
+
+INFO  2015-01-28 22:46:03,479 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-01-28 22:46:03,489 [DareneExpressCabinetClient.Tools.CLog4net] 清空箱子：18 True
+INFO  2015-01-28 22:46:03,490 [DareneExpressCabinetClient.Tools.CLog4net] 没有这个包裹，请联系管理员:13705830170
+INFO  2015-01-28 22:46:03,490 [DareneExpressCabinetClient.Tools.CLog4net] 进入快递员取回成功界面

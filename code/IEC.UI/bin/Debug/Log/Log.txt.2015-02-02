@@ -1,0 +1,502 @@
+INFO  2015-02-02 20:12:59,105 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-02-02 20:13:00,154 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-02-02 20:13:00,179 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-02-02 20:13:00,752 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-02-02 20:13:00,906 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-02-02 20:13:00,906 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-02-02 20:13:01,023 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-02-02 20:13:01,129 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-02-02 20:13:01,234 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-02-02 20:13:01,553 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-02-02 20:13:03,625 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1422879215}
+
+INFO  2015-02-02 20:13:03,737 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 20:13:04,033 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 20:40:37,251 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-02-02 20:40:38,253 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-02-02 20:40:38,283 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-02-02 20:40:38,783 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-02-02 20:40:38,925 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-02-02 20:40:38,925 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-02-02 20:40:39,034 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-02-02 20:40:39,139 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-02-02 20:40:39,243 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-02-02 20:41:03,394 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-02-02 20:41:04,129 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1422880896}
+
+INFO  2015-02-02 20:41:04,271 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 20:41:04,561 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 20:56:16,131 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-02-02 20:56:17,128 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-02-02 20:56:17,149 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-02-02 20:56:17,675 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-02-02 20:56:17,826 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-02-02 20:56:17,826 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-02-02 20:56:17,933 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-02-02 20:56:18,037 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-02-02 20:56:18,142 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-02-02 20:56:18,426 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-02-02 20:56:19,535 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1422881811}
+
+INFO  2015-02-02 20:56:19,691 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 20:56:20,013 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 20:56:20,348 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助，进入帮助界面
+INFO  2015-02-02 20:56:21,275 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员，进入管理员密码输入界面
+INFO  2015-02-02 20:56:25,158 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2015-02-02 20:56:25,158 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录
+INFO  2015-02-02 20:56:25,159 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录成功
+INFO  2015-02-02 21:05:06,717 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-02-02 21:05:07,678 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-02-02 21:05:07,716 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-02-02 21:05:08,162 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-02-02 21:05:08,308 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-02-02 21:05:08,308 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-02-02 21:05:08,420 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-02-02 21:05:08,526 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-02-02 21:05:08,634 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-02-02 21:05:08,993 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-02-02 21:05:09,745 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1422882341}
+
+INFO  2015-02-02 21:05:09,876 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 21:05:10,158 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 21:05:10,508 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助，进入帮助界面
+INFO  2015-02-02 21:05:11,517 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员，进入管理员密码输入界面
+INFO  2015-02-02 21:05:15,868 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-02-02 21:05:15,868 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录
+INFO  2015-02-02 21:05:15,869 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录成功
+INFO  2015-02-02 21:07:11,382 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-02-02 21:07:12,353 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-02-02 21:07:12,367 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-02-02 21:07:12,827 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-02-02 21:07:12,973 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-02-02 21:07:12,973 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-02-02 21:07:13,083 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-02-02 21:07:13,188 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-02-02 21:07:13,292 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-02-02 21:07:13,572 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-02-02 21:07:14,344 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1422882466}
+
+INFO  2015-02-02 21:07:14,446 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 21:07:14,745 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 21:07:15,291 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助，进入帮助界面
+INFO  2015-02-02 21:07:16,225 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员，进入管理员密码输入界面
+INFO  2015-02-02 21:07:20,927 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-02-02 21:07:20,927 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录
+INFO  2015-02-02 21:07:20,928 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录成功
+INFO  2015-02-02 21:07:35,924 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-02-02 21:07:36,896 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-02-02 21:07:36,910 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-02-02 21:07:37,294 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-02-02 21:07:37,454 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-02-02 21:07:37,454 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-02-02 21:07:37,560 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-02-02 21:07:37,665 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-02-02 21:07:37,770 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-02-02 21:07:38,057 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-02-02 21:07:38,787 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1422882490}
+
+INFO  2015-02-02 21:07:38,915 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 21:07:39,227 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 21:07:39,417 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助，进入帮助界面
+INFO  2015-02-02 21:07:40,496 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员，进入管理员密码输入界面
+INFO  2015-02-02 21:07:43,966 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2015-02-02 21:07:43,966 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录
+INFO  2015-02-02 21:07:43,968 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录成功
+INFO  2015-02-02 21:12:33,320 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-02-02 21:12:34,293 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-02-02 21:12:34,317 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-02-02 21:12:34,808 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-02-02 21:12:34,945 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-02-02 21:12:34,945 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-02-02 21:12:35,057 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-02-02 21:12:35,161 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-02-02 21:12:35,266 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-02-02 21:12:35,599 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-02-02 21:12:36,342 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1422882788}
+
+INFO  2015-02-02 21:12:36,485 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 21:12:36,780 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 21:12:37,295 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助，进入帮助界面
+INFO  2015-02-02 21:12:38,190 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员，进入管理员密码输入界面
+INFO  2015-02-02 21:12:42,832 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-02-02 21:12:42,832 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录
+INFO  2015-02-02 21:12:42,833 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录成功
+INFO  2015-02-02 21:13:11,216 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助，进入帮助界面
+INFO  2015-02-02 21:13:13,805 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助，进入帮助界面
+INFO  2015-02-02 21:13:15,024 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员，进入管理员密码输入界面
+INFO  2015-02-02 21:13:18,958 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-02-02 21:13:18,958 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录
+INFO  2015-02-02 21:13:18,958 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录成功
+INFO  2015-02-02 21:14:26,412 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-02-02 21:14:27,461 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-02-02 21:14:27,481 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-02-02 21:14:27,911 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-02-02 21:14:28,042 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-02-02 21:14:28,042 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-02-02 21:14:28,153 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-02-02 21:14:28,258 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-02-02 21:14:28,363 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-02-02 21:14:28,622 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-02-02 21:14:29,360 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1422882901}
+
+INFO  2015-02-02 21:14:29,488 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 21:14:29,784 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 21:14:30,434 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助，进入帮助界面
+INFO  2015-02-02 21:14:31,503 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员，进入管理员密码输入界面
+INFO  2015-02-02 21:14:34,790 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2015-02-02 21:14:34,791 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录
+INFO  2015-02-02 21:14:34,792 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录成功
+INFO  2015-02-02 21:20:15,477 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-02-02 21:20:16,544 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-02-02 21:20:16,584 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-02-02 21:20:17,083 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-02-02 21:20:17,231 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-02-02 21:20:17,231 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-02-02 21:20:17,342 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-02-02 21:20:17,447 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-02-02 21:20:17,552 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-02-02 21:20:17,845 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-02-02 21:20:18,758 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1422883250}
+
+INFO  2015-02-02 21:20:18,982 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 21:20:19,279 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 21:20:19,342 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助，进入帮助界面
+INFO  2015-02-02 21:20:20,461 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员，进入管理员密码输入界面
+INFO  2015-02-02 21:33:45,078 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-02-02 21:33:46,158 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-02-02 21:33:46,178 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-02-02 21:33:46,662 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-02-02 21:33:46,805 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-02-02 21:33:46,805 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-02-02 21:33:46,911 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-02-02 21:33:47,015 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-02-02 21:33:47,118 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-02-02 21:33:47,387 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-02-02 21:33:48,570 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1422884060}
+
+INFO  2015-02-02 21:33:48,682 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 21:33:48,978 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 21:33:49,045 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入员工号码界面
+INFO  2015-02-02 21:33:59,252 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入员工号码界面
+INFO  2015-02-02 21:34:48,058 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-02-02 21:34:49,124 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-02-02 21:34:49,161 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-02-02 21:34:49,704 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-02-02 21:34:49,832 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-02-02 21:34:49,832 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-02-02 21:34:49,938 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-02-02 21:34:50,045 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-02-02 21:34:50,148 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-02-02 21:34:50,430 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-02-02 21:34:51,131 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1422884123}
+
+INFO  2015-02-02 21:34:51,354 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 21:34:51,475 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助，进入帮助界面
+INFO  2015-02-02 21:34:51,646 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 21:34:52,655 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员，进入管理员密码输入界面
+INFO  2015-02-02 21:39:32,734 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-02-02 21:39:33,887 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-02-02 21:39:33,908 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-02-02 21:39:34,389 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-02-02 21:39:34,541 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-02-02 21:39:34,541 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-02-02 21:39:34,653 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-02-02 21:39:34,761 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-02-02 21:39:34,865 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-02-02 21:39:35,133 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-02-02 21:39:35,929 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1422884407}
+
+INFO  2015-02-02 21:39:36,161 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 21:39:36,466 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 21:39:36,912 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助，进入帮助界面
+INFO  2015-02-02 21:39:37,944 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员，进入管理员密码输入界面
+INFO  2015-02-02 21:40:04,893 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助，进入帮助界面
+INFO  2015-02-02 21:40:06,576 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2015-02-02 21:40:06,933 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-02-02 21:40:09,914 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-02-02 21:40:12,923 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2015-02-02 21:40:15,944 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入员工号码界面
+INFO  2015-02-02 21:40:17,584 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入员工密码界面
+INFO  2015-02-02 21:40:18,622 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2015-02-02 21:40:18,623 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
+INFO  2015-02-02 21:40:19,482 [DareneExpressCabinetClient.Tools.CLog4net] 选取柜门：27
+ERROR 2015-02-02 21:40:20,175 [DareneExpressCabinetClient.Tools.CLog4net] Can发送开箱 response.Data == null
+INFO  2015-02-02 21:40:20,175 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
+INFO  2015-02-02 21:40:20,188 [DareneExpressCabinetClient.Tools.CLog4net] 打开柜门:39，可能是can无回应
+INFO  2015-02-02 21:40:26,689 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入员工密码界面
+INFO  2015-02-02 21:40:29,662 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2015-02-02 21:40:29,662 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
+INFO  2015-02-02 21:40:30,701 [DareneExpressCabinetClient.Tools.CLog4net] 选取柜门：5
+ERROR 2015-02-02 21:40:32,075 [DareneExpressCabinetClient.Tools.CLog4net] Can发送开箱 response.Data == null
+INFO  2015-02-02 21:40:32,075 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
+INFO  2015-02-02 21:40:32,078 [DareneExpressCabinetClient.Tools.CLog4net] 打开柜门:15，可能是can无回应
+INFO  2015-02-02 21:40:34,081 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回，进入输入卡号界面
+INFO  2015-02-02 21:50:00,742 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-02-02 21:50:01,859 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-02-02 21:50:01,880 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-02-02 21:50:02,378 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-02-02 21:50:02,533 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-02-02 21:50:02,534 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-02-02 21:50:02,639 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-02-02 21:50:02,747 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-02-02 21:50:02,852 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-02-02 21:50:03,137 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-02-02 21:50:03,986 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1422885035}
+
+INFO  2015-02-02 21:50:04,229 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 21:50:04,510 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 21:50:05,290 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入员工号码界面
+INFO  2015-02-02 21:50:07,690 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入员工密码界面
+INFO  2015-02-02 21:50:10,048 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:false,companyName:'', message: '口令不正确'}
+
+INFO  2015-02-02 21:50:10,051 [DareneExpressCabinetClient.Tools.CLog4net] 口令不正确
+INFO  2015-02-02 21:50:10,051 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入员工号码界面
+INFO  2015-02-02 21:50:12,329 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入员工密码界面
+INFO  2015-02-02 21:50:13,973 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2015-02-02 21:50:13,974 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
+INFO  2015-02-02 21:50:16,190 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回，进入输入卡号界面
+INFO  2015-02-02 21:50:17,383 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入员工号码界面
+INFO  2015-02-02 21:50:18,050 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2015-02-02 21:50:18,050 [DareneExpressCabinetClient.Tools.CLog4net] 用进入扫描快递单号界面
+INFO  2015-02-02 21:54:24,383 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-02-02 21:54:25,577 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-02-02 21:54:25,595 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-02-02 21:54:26,098 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-02-02 21:54:26,238 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-02-02 21:54:26,238 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-02-02 21:54:26,350 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-02-02 21:54:26,457 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-02-02 21:54:26,564 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-02-02 21:54:26,909 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-02-02 21:54:27,776 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1422885299}
+
+INFO  2015-02-02 21:54:28,001 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 21:54:28,298 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 21:54:28,757 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回，进入输入卡号界面
+INFO  2015-02-02 21:55:29,925 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-02-02 21:55:31,010 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-02-02 21:55:31,040 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-02-02 21:55:31,643 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-02-02 21:55:31,780 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-02-02 21:55:31,780 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-02-02 21:55:31,887 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-02-02 21:55:31,991 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-02-02 21:55:32,096 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-02-02 21:55:32,355 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-02-02 21:55:33,166 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1422885364}
+
+INFO  2015-02-02 21:55:33,244 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 21:55:33,536 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 21:55:33,887 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回，进入输入卡号界面
+INFO  2015-02-02 21:56:44,310 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-02-02 21:56:45,319 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-02-02 21:56:45,341 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-02-02 21:56:45,819 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-02-02 21:56:45,962 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-02-02 21:56:45,962 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-02-02 21:56:46,067 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-02-02 21:56:46,173 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-02-02 21:56:46,276 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-02-02 21:56:46,556 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-02-02 21:56:47,325 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1422885439}
+
+INFO  2015-02-02 21:56:47,477 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 21:56:47,792 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 21:56:48,036 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回，进入输入卡号界面
+INFO  2015-02-02 21:57:51,350 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回，进入输入卡号界面
+INFO  2015-02-02 21:58:12,904 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-02-02 21:58:14,003 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-02-02 21:58:14,019 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-02-02 21:58:14,473 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-02-02 21:58:14,607 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-02-02 21:58:14,607 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-02-02 21:58:14,715 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-02-02 21:58:14,818 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-02-02 21:58:14,920 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-02-02 21:58:15,284 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-02-02 21:58:16,071 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1422885527}
+
+INFO  2015-02-02 21:58:16,169 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 21:58:16,459 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 21:58:16,587 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回，进入输入卡号界面
+INFO  2015-02-02 22:32:33,330 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-02-02 22:32:34,307 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-02-02 22:32:34,329 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-02-02 22:32:34,822 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-02-02 22:32:51,133 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-02-02 22:32:51,134 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-02-02 22:32:51,244 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-02-02 22:32:51,351 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-02-02 22:32:51,456 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-02-02 22:32:51,737 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-02-02 22:32:52,891 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1422887604}
+
+INFO  2015-02-02 22:32:53,010 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 22:32:53,303 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 22:32:54,478 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助，进入帮助界面
+INFO  2015-02-02 22:33:27,014 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-02-02 22:33:28,002 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-02-02 22:33:28,017 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-02-02 22:33:28,424 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-02-02 22:33:55,103 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-02-02 22:33:55,104 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-02-02 22:33:55,215 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-02-02 22:33:55,320 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-02-02 22:33:55,425 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-02-02 22:33:55,694 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-02-02 22:33:56,438 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1422887668}
+
+INFO  2015-02-02 22:33:56,564 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 22:33:56,852 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 22:34:01,401 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-02-02 22:34:02,382 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-02-02 22:34:02,393 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-02-02 22:34:02,792 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-02-02 22:34:25,567 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-02-02 22:34:56,200 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-02-02 22:34:57,173 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-02-02 22:34:57,191 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-02-02 22:34:57,620 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-02-02 22:35:07,209 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-02-02 22:35:07,209 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-02-02 22:35:07,320 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-02-02 22:35:07,428 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-02-02 22:35:07,535 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-02-02 22:35:07,918 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-02-02 22:35:08,632 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1422887740}
+
+INFO  2015-02-02 22:35:08,773 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 22:35:09,066 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 22:35:10,785 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助，进入帮助界面
+INFO  2015-02-02 22:35:11,766 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员，进入管理员密码输入界面
+INFO  2015-02-02 22:35:15,231 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2015-02-02 22:35:15,232 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录
+INFO  2015-02-02 22:35:15,233 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录成功
+INFO  2015-02-02 22:35:20,160 [DareneExpressCabinetClient.Tools.CLog4net] 点击退出系统
+INFO  2015-02-02 22:47:00,135 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-02-02 22:47:01,128 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-02-02 22:47:01,150 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-02-02 22:47:01,577 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-02-02 22:47:01,726 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-02-02 22:47:01,726 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-02-02 22:47:01,837 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-02-02 22:47:01,943 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-02-02 22:47:02,048 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-02-02 22:47:02,340 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-02-02 22:47:03,074 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1422888454}
+
+INFO  2015-02-02 22:47:03,199 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 22:47:03,505 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 22:47:26,258 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-02-02 22:47:27,280 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-02-02 22:47:27,296 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-02-02 22:47:27,727 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+INFO  2015-02-02 23:24:08,239 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-02-02 23:24:09,276 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-02-02 23:24:09,301 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-02-02 23:24:09,810 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-02-02 23:24:09,955 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-02-02 23:24:09,955 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-02-02 23:24:10,064 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-02-02 23:24:10,170 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-02-02 23:24:10,272 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-02-02 23:24:10,566 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-02-02 23:24:11,934 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1422890682}
+
+INFO  2015-02-02 23:24:12,045 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 23:24:12,325 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 23:24:13,640 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入员工号码界面
+INFO  2015-02-02 23:24:14,975 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入员工密码界面
+INFO  2015-02-02 23:24:15,583 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2015-02-02 23:24:15,584 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
+INFO  2015-02-02 23:24:16,448 [DareneExpressCabinetClient.Tools.CLog4net] 选取柜门：27
+INFO  2015-02-02 23:24:36,378 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-02-02 23:24:37,347 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-02-02 23:24:37,362 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-02-02 23:24:37,786 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-02-02 23:24:54,038 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-02-02 23:24:54,039 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-02-02 23:24:54,150 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-02-02 23:24:54,255 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-02-02 23:24:54,359 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-02-02 23:24:54,705 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-02-02 23:24:55,439 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1422890726}
+
+INFO  2015-02-02 23:24:55,555 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 23:24:55,847 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 23:25:01,547 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-02-02 23:25:02,494 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-02-02 23:25:02,506 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-02-02 23:25:02,948 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-02-02 23:25:16,404 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-02-02 23:25:18,269 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-02-02 23:25:18,381 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-02-02 23:25:18,488 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-02-02 23:25:18,593 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-02-02 23:25:21,181 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-02-02 23:25:21,966 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1422890752}
+
+INFO  2015-02-02 23:25:22,036 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 23:25:22,324 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周一 02月02日 (实时：5℃),今天天气小雨,东风微风,3℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-02-02 23:25:27,750 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入员工号码界面
+INFO  2015-02-02 23:25:28,860 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入员工密码界面
+INFO  2015-02-02 23:25:29,480 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2015-02-02 23:25:29,482 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
+INFO  2015-02-02 23:25:30,647 [DareneExpressCabinetClient.Tools.CLog4net] 选取柜门：16

@@ -1,0 +1,105 @@
+INFO  2014-10-22 19:40:33,266 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-22 19:40:34,374 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-22 19:40:34,381 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-10-22 19:40:36,383 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-22 19:40:41,289 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-10-22 19:40:45,010 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回
+INFO  2014-10-22 19:40:48,192 [DareneExpressCabinetClient.Tools.CLog4net] 点击取件
+INFO  2014-10-22 19:40:51,937 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助
+INFO  2014-10-22 19:41:00,619 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助
+INFO  2014-10-22 19:41:22,963 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助
+INFO  2014-10-22 19:43:05,488 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-22 19:43:06,494 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-22 19:43:06,500 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-10-22 19:43:08,048 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-22 19:43:13,323 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助
+INFO  2014-10-22 19:43:42,080 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-22 19:43:43,030 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-22 19:43:43,036 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-10-22 19:43:45,524 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-22 19:43:50,432 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助
+INFO  2014-10-22 19:46:10,642 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-22 19:46:11,578 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-22 19:46:11,584 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-10-22 19:46:13,396 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-22 19:46:21,074 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-10-22 19:46:23,605 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助
+INFO  2014-10-22 19:46:36,936 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员
+INFO  2014-10-22 19:46:57,861 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助
+INFO  2014-10-22 19:47:04,475 [DareneExpressCabinetClient.Tools.CLog4net] 点击取件
+INFO  2014-10-22 19:52:52,360 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-22 19:52:53,376 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-22 19:52:53,382 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-10-22 19:52:55,296 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-22 19:53:00,712 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回
+INFO  2014-10-22 19:53:03,126 [DareneExpressCabinetClient.Tools.CLog4net] 点击取件
+INFO  2014-10-22 19:53:23,023 [DareneExpressCabinetClient.Tools.CLog4net] 点击取件
+INFO  2014-10-22 19:54:08,874 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-22 19:54:09,916 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-22 19:54:09,922 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-10-22 19:54:11,466 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-22 19:54:16,296 [DareneExpressCabinetClient.Tools.CLog4net] 点击取件
+INFO  2014-10-22 19:54:23,585 [DareneExpressCabinetClient.Tools.CLog4net] 点击取件
+INFO  2014-10-22 19:55:12,582 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-22 19:55:13,629 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-22 19:55:13,635 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-10-22 19:55:15,063 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-22 19:55:21,613 [DareneExpressCabinetClient.Tools.CLog4net] 点击取件
+INFO  2014-10-22 19:56:30,920 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-22 19:56:31,951 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-22 19:56:31,957 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-10-22 19:56:33,424 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-22 19:56:37,954 [DareneExpressCabinetClient.Tools.CLog4net] 点击取件
+INFO  2014-10-22 19:57:02,209 [DareneExpressCabinetClient.Tools.CLog4net] 点击取件
+INFO  2014-10-22 19:57:04,652 [DareneExpressCabinetClient.Tools.CLog4net] 点击取件
+INFO  2014-10-22 19:57:11,386 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-10-22 19:57:17,313 [DareneExpressCabinetClient.Tools.CLog4net] 点击取件
+INFO  2014-10-22 19:57:32,399 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回
+INFO  2014-10-22 20:25:43,754 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-22 20:25:44,727 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-10-22 20:25:47,325 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+ERROR 2014-10-22 20:25:49,483 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-22 20:25:54,730 [DareneExpressCabinetClient.Tools.CLog4net] 点击取件
+INFO  2014-10-22 20:26:01,309 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-22 20:26:02,252 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-10-22 20:26:14,469 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+ERROR 2014-10-22 20:26:15,682 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-22 20:26:43,484 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-22 20:26:44,323 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-10-22 20:26:46,760 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+ERROR 2014-10-22 20:26:47,965 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-22 20:26:53,361 [DareneExpressCabinetClient.Tools.CLog4net] 点击取件
+INFO  2014-10-22 20:46:51,419 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-22 20:46:52,347 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-22 20:46:52,353 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-10-22 20:46:54,255 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-22 20:46:58,909 [DareneExpressCabinetClient.Tools.CLog4net] 点击取件
+INFO  2014-10-22 20:47:23,567 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-22 20:47:24,546 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-22 20:47:24,552 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-10-22 20:47:25,886 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-22 20:47:30,353 [DareneExpressCabinetClient.Tools.CLog4net] 点击取件
+INFO  2014-10-22 20:47:36,531 [DareneExpressCabinetClient.Tools.CLog4net] 点击取件
+INFO  2014-10-22 21:36:40,795 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-22 21:36:41,717 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-22 21:36:41,723 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-10-22 21:36:43,495 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-22 21:36:48,363 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-10-22 21:36:50,870 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-10-22 21:36:55,535 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-10-22 21:36:58,595 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回
+INFO  2014-10-22 21:37:01,498 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-10-22 21:37:07,225 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-10-22 21:38:27,688 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-22 21:38:28,885 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-22 21:38:28,891 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-10-22 21:38:30,617 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-22 21:38:35,668 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-10-22 21:38:41,461 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-10-22 21:38:45,870 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2014-10-22 21:38:50,399 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2014-10-22 21:39:14,651 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-22 21:39:15,597 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-22 21:39:15,603 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-10-22 21:39:17,356 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-22 21:39:21,927 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件

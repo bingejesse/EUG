@@ -1,0 +1,8 @@
+INFO  2014-10-28 18:48:28,009 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-28 18:48:29,408 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-28 18:48:29,414 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-10-28 18:48:31,655 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2014-10-28 20:27:49,508 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2014-10-28 20:27:50,624 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2014-10-28 20:27:50,631 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+ERROR 2014-10-28 20:27:52,380 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败

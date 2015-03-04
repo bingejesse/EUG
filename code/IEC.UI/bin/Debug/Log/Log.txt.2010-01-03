@@ -1,0 +1,26 @@
+INFO  2010-01-03 03:24:09,957 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2010-01-03 03:24:11,047 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2010-01-03 03:24:12,905 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2010-01-03 03:24:12,906 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2010-01-03 03:24:13,024 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2010-01-03 03:24:13,134 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2010-01-03 03:24:13,237 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2010-01-03 03:24:13,464 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2010-01-03 03:24:14,408 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2010-01-03 03:24:15,861 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2010-01-03 03:24:20,824 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
+INFO  2010-01-03 03:24:24,771 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2010-01-03 03:24:24,771 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2010-01-03 03:24:24,886 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2010-01-03 03:24:25,139 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2010-01-03 03:24:25,293 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+
+INFO  2010-01-03 03:24:26,889 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件
+INFO  2010-01-03 03:24:31,125 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回
+INFO  2010-01-03 03:24:34,256 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助
+INFO  2010-01-03 03:24:38,837 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回
+INFO  2010-01-03 03:24:43,270 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件

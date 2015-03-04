@@ -1,0 +1,2 @@
+INFO  2014-11-03 23:14:45,680 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2014-11-03 23:18:05,847 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
