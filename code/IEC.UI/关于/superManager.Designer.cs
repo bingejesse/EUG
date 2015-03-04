@@ -28,8 +28,8 @@
         /// </summary>
         private void InitializeComponent()
         {
-            DevComponents.DotNetBar.Keyboard.VirtualKeyboardColorTable virtualKeyboardColorTable1 = new DevComponents.DotNetBar.Keyboard.VirtualKeyboardColorTable();
-            DevComponents.DotNetBar.Keyboard.FlatStyleRenderer flatStyleRenderer1 = new DevComponents.DotNetBar.Keyboard.FlatStyleRenderer();
+            DevComponents.DotNetBar.Keyboard.VirtualKeyboardColorTable virtualKeyboardColorTable3 = new DevComponents.DotNetBar.Keyboard.VirtualKeyboardColorTable();
+            DevComponents.DotNetBar.Keyboard.FlatStyleRenderer flatStyleRenderer3 = new DevComponents.DotNetBar.Keyboard.FlatStyleRenderer();
             this.errMsg = new DevComponents.DotNetBar.LabelX();
             this.superLogin = new DevComponents.DotNetBar.ButtonX();
             this.labelX6 = new DevComponents.DotNetBar.LabelX();
@@ -37,6 +37,7 @@
             this.labelX1 = new DevComponents.DotNetBar.LabelX();
             this.superPwd = new DevComponents.DotNetBar.Controls.TextBoxX();
             this.virtualNumKeyboard = new DevComponents.DotNetBar.Keyboard.KeyboardControl();
+            this.buttonX1 = new DevComponents.DotNetBar.ButtonX();
             this.SuspendLayout();
             // 
             // errMsg
@@ -59,13 +60,12 @@
             this.superLogin.BackColor = System.Drawing.Color.White;
             this.superLogin.ColorTable = DevComponents.DotNetBar.eButtonColor.OrangeWithBackground;
             this.superLogin.Font = new System.Drawing.Font("微软雅黑", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.superLogin.Location = new System.Drawing.Point(811, 217);
+            this.superLogin.Location = new System.Drawing.Point(534, 228);
             this.superLogin.Name = "superLogin";
-            this.superLogin.Size = new System.Drawing.Size(121, 48);
+            this.superLogin.Size = new System.Drawing.Size(168, 48);
             this.superLogin.Style = DevComponents.DotNetBar.eDotNetBarStyle.OfficeMobile2014;
-            this.superLogin.Symbol = "";
             this.superLogin.TabIndex = 7;
-            this.superLogin.Text = "确定";
+            this.superLogin.Text = "登陆";
             this.superLogin.Click += new System.EventHandler(this.superLogin_Click);
             // 
             // labelX6
@@ -141,32 +141,46 @@
             // virtualNumKeyboard
             // 
             this.virtualNumKeyboard.Anchor = System.Windows.Forms.AnchorStyles.None;
-            virtualKeyboardColorTable1.BackgroundColor = System.Drawing.Color.Black;
-            virtualKeyboardColorTable1.DarkKeysColor = System.Drawing.Color.FromArgb(((int)(((byte)(29)))), ((int)(((byte)(28)))), ((int)(((byte)(33)))));
-            virtualKeyboardColorTable1.DownKeysColor = System.Drawing.Color.White;
-            virtualKeyboardColorTable1.DownTextColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(32)))), ((int)(((byte)(32)))));
-            virtualKeyboardColorTable1.KeysColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(47)))), ((int)(((byte)(55)))));
-            virtualKeyboardColorTable1.LightKeysColor = System.Drawing.Color.FromArgb(((int)(((byte)(69)))), ((int)(((byte)(68)))), ((int)(((byte)(76)))));
-            virtualKeyboardColorTable1.PressedKeysColor = System.Drawing.Color.FromArgb(((int)(((byte)(16)))), ((int)(((byte)(161)))), ((int)(((byte)(81)))));
-            virtualKeyboardColorTable1.TextColor = System.Drawing.Color.White;
-            virtualKeyboardColorTable1.ToggleTextColor = System.Drawing.Color.Green;
-            virtualKeyboardColorTable1.TopBarTextColor = System.Drawing.Color.White;
-            this.virtualNumKeyboard.ColorTable = virtualKeyboardColorTable1;
+            virtualKeyboardColorTable3.BackgroundColor = System.Drawing.Color.Black;
+            virtualKeyboardColorTable3.DarkKeysColor = System.Drawing.Color.FromArgb(((int)(((byte)(29)))), ((int)(((byte)(28)))), ((int)(((byte)(33)))));
+            virtualKeyboardColorTable3.DownKeysColor = System.Drawing.Color.White;
+            virtualKeyboardColorTable3.DownTextColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(32)))), ((int)(((byte)(32)))));
+            virtualKeyboardColorTable3.KeysColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(47)))), ((int)(((byte)(55)))));
+            virtualKeyboardColorTable3.LightKeysColor = System.Drawing.Color.FromArgb(((int)(((byte)(69)))), ((int)(((byte)(68)))), ((int)(((byte)(76)))));
+            virtualKeyboardColorTable3.PressedKeysColor = System.Drawing.Color.FromArgb(((int)(((byte)(16)))), ((int)(((byte)(161)))), ((int)(((byte)(81)))));
+            virtualKeyboardColorTable3.TextColor = System.Drawing.Color.White;
+            virtualKeyboardColorTable3.ToggleTextColor = System.Drawing.Color.Green;
+            virtualKeyboardColorTable3.TopBarTextColor = System.Drawing.Color.White;
+            this.virtualNumKeyboard.ColorTable = virtualKeyboardColorTable3;
             this.virtualNumKeyboard.IsTopBarVisible = false;
             this.virtualNumKeyboard.Location = new System.Drawing.Point(91, 285);
             this.virtualNumKeyboard.Name = "virtualNumKeyboard";
-            flatStyleRenderer1.ColorTable = virtualKeyboardColorTable1;
-            flatStyleRenderer1.ForceAntiAlias = false;
-            this.virtualNumKeyboard.Renderer = flatStyleRenderer1;
+            flatStyleRenderer3.ColorTable = virtualKeyboardColorTable3;
+            flatStyleRenderer3.ForceAntiAlias = false;
+            this.virtualNumKeyboard.Renderer = flatStyleRenderer3;
             this.virtualNumKeyboard.Size = new System.Drawing.Size(841, 230);
             this.virtualNumKeyboard.TabIndex = 12;
             this.virtualNumKeyboard.Text = "keyboardControl1";
+            // 
+            // buttonX1
+            // 
+            this.buttonX1.AccessibleRole = System.Windows.Forms.AccessibleRole.PushButton;
+            this.buttonX1.BackColor = System.Drawing.Color.White;
+            this.buttonX1.ColorTable = DevComponents.DotNetBar.eButtonColor.OrangeWithBackground;
+            this.buttonX1.Font = new System.Drawing.Font("微软雅黑", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.buttonX1.Location = new System.Drawing.Point(323, 228);
+            this.buttonX1.Name = "buttonX1";
+            this.buttonX1.Size = new System.Drawing.Size(168, 48);
+            this.buttonX1.Style = DevComponents.DotNetBar.eDotNetBarStyle.OfficeMobile2014;
+            this.buttonX1.TabIndex = 13;
+            this.buttonX1.Text = "修改密码";
             // 
             // superManager
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.Controls.Add(this.buttonX1);
             this.Controls.Add(this.virtualNumKeyboard);
             this.Controls.Add(this.labelX1);
             this.Controls.Add(this.superPwd);
@@ -190,5 +204,6 @@
         private DevComponents.DotNetBar.LabelX labelX1;
         private DevComponents.DotNetBar.Controls.TextBoxX superPwd;
         private DevComponents.DotNetBar.Keyboard.KeyboardControl virtualNumKeyboard;
+        private DevComponents.DotNetBar.ButtonX buttonX1;
     }
 }
