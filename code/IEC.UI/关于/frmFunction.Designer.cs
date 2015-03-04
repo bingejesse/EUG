@@ -39,6 +39,7 @@
             this.labelXCan = new DevComponents.DotNetBar.LabelX();
             this.labelXCamare = new DevComponents.DotNetBar.LabelX();
             this.labelXServer = new DevComponents.DotNetBar.LabelX();
+            this.password = new DevComponents.DotNetBar.ButtonX();
             this.SuspendLayout();
             // 
             // config
@@ -79,7 +80,7 @@
             this.labelXInfo.Location = new System.Drawing.Point(0, 249);
             this.labelXInfo.Name = "labelXInfo";
             this.labelXInfo.Size = new System.Drawing.Size(470, 47);
-            this.labelXInfo.TabIndex = 6;
+            this.labelXInfo.TabIndex = 7;
             this.labelXInfo.Text = "修改参数后请重启系统";
             this.labelXInfo.TextAlignment = System.Drawing.StringAlignment.Center;
             // 
@@ -88,11 +89,11 @@
             this.buttonXReboot.AccessibleRole = System.Windows.Forms.AccessibleRole.PushButton;
             this.buttonXReboot.ColorTable = DevComponents.DotNetBar.eButtonColor.OrangeWithBackground;
             this.buttonXReboot.Font = new System.Drawing.Font("微软雅黑", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.buttonXReboot.Location = new System.Drawing.Point(169, 142);
+            this.buttonXReboot.Location = new System.Drawing.Point(319, 142);
             this.buttonXReboot.Name = "buttonXReboot";
             this.buttonXReboot.Size = new System.Drawing.Size(133, 74);
             this.buttonXReboot.Style = DevComponents.DotNetBar.eDotNetBarStyle.OfficeMobile2014;
-            this.buttonXReboot.TabIndex = 4;
+            this.buttonXReboot.TabIndex = 5;
             this.buttonXReboot.Text = "重启";
             this.buttonXReboot.Click += new System.EventHandler(this.buttonXReboot_Click);
             // 
@@ -114,28 +115,29 @@
             this.buttonExit.AccessibleRole = System.Windows.Forms.AccessibleRole.PushButton;
             this.buttonExit.ColorTable = DevComponents.DotNetBar.eButtonColor.OrangeWithBackground;
             this.buttonExit.Font = new System.Drawing.Font("微软雅黑", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.buttonExit.Location = new System.Drawing.Point(16, 142);
+            this.buttonExit.Location = new System.Drawing.Point(169, 142);
             this.buttonExit.Name = "buttonExit";
             this.buttonExit.Size = new System.Drawing.Size(133, 74);
             this.buttonExit.Style = DevComponents.DotNetBar.eDotNetBarStyle.OfficeMobile2014;
-            this.buttonExit.TabIndex = 3;
+            this.buttonExit.TabIndex = 4;
             this.buttonExit.Text = "退出系统";
             this.buttonExit.Click += new System.EventHandler(this.buttonExit_Click);
             // 
             // circularProgressUpdate
             // 
+            this.circularProgressUpdate.BackColor = System.Drawing.SystemColors.ControlDark;
             // 
             // 
             // 
             this.circularProgressUpdate.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square;
             this.circularProgressUpdate.FocusCuesEnabled = false;
-            this.circularProgressUpdate.Location = new System.Drawing.Point(351, 142);
+            this.circularProgressUpdate.Location = new System.Drawing.Point(435, 257);
             this.circularProgressUpdate.Name = "circularProgressUpdate";
             this.circularProgressUpdate.ProgressBarType = DevComponents.DotNetBar.eCircularProgressType.Dot;
-            this.circularProgressUpdate.ProgressColor = System.Drawing.Color.YellowGreen;
-            this.circularProgressUpdate.Size = new System.Drawing.Size(70, 70);
+            this.circularProgressUpdate.ProgressColor = System.Drawing.Color.White;
+            this.circularProgressUpdate.Size = new System.Drawing.Size(35, 39);
             this.circularProgressUpdate.Style = DevComponents.DotNetBar.eDotNetBarStyle.OfficeXP;
-            this.circularProgressUpdate.TabIndex = 5;
+            this.circularProgressUpdate.TabIndex = 6;
             this.circularProgressUpdate.Value = 100;
             // 
             // backgroundWorkerUpdate
@@ -157,7 +159,7 @@
             this.labelXCan.SingleLineColor = System.Drawing.Color.Black;
             this.labelXCan.Size = new System.Drawing.Size(158, 27);
             this.labelXCan.Style = DevComponents.DotNetBar.eDotNetBarStyle.Office2013;
-            this.labelXCan.TabIndex = 7;
+            this.labelXCan.TabIndex = 8;
             this.labelXCan.Text = "Can控制器：异常";
             this.labelXCan.TextAlignment = System.Drawing.StringAlignment.Center;
             // 
@@ -175,7 +177,7 @@
             this.labelXCamare.SingleLineColor = System.Drawing.Color.MidnightBlue;
             this.labelXCamare.Size = new System.Drawing.Size(158, 27);
             this.labelXCamare.Style = DevComponents.DotNetBar.eDotNetBarStyle.Office2013;
-            this.labelXCamare.TabIndex = 8;
+            this.labelXCamare.TabIndex = 9;
             this.labelXCamare.Text = "监控摄像头：正常";
             this.labelXCamare.TextAlignment = System.Drawing.StringAlignment.Center;
             // 
@@ -193,15 +195,29 @@
             this.labelXServer.SingleLineColor = System.Drawing.Color.MidnightBlue;
             this.labelXServer.Size = new System.Drawing.Size(158, 27);
             this.labelXServer.Style = DevComponents.DotNetBar.eDotNetBarStyle.Office2013;
-            this.labelXServer.TabIndex = 9;
+            this.labelXServer.TabIndex = 10;
             this.labelXServer.Text = "服务器连接：异常";
             this.labelXServer.TextAlignment = System.Drawing.StringAlignment.Center;
+            // 
+            // password
+            // 
+            this.password.AccessibleRole = System.Windows.Forms.AccessibleRole.PushButton;
+            this.password.ColorTable = DevComponents.DotNetBar.eButtonColor.OrangeWithBackground;
+            this.password.Font = new System.Drawing.Font("微软雅黑", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.password.Location = new System.Drawing.Point(16, 142);
+            this.password.Name = "password";
+            this.password.Size = new System.Drawing.Size(133, 74);
+            this.password.Style = DevComponents.DotNetBar.eDotNetBarStyle.OfficeMobile2014;
+            this.password.TabIndex = 3;
+            this.password.Text = "修改密码";
+            this.password.Click += new System.EventHandler(this.password_Click);
             // 
             // frmFunction
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(470, 296);
+            this.Controls.Add(this.password);
             this.Controls.Add(this.labelXServer);
             this.Controls.Add(this.labelXCamare);
             this.Controls.Add(this.labelXCan);
@@ -235,5 +251,6 @@
         private DevComponents.DotNetBar.LabelX labelXCan;
         private DevComponents.DotNetBar.LabelX labelXCamare;
         private DevComponents.DotNetBar.LabelX labelXServer;
+        private DevComponents.DotNetBar.ButtonX password;
     }
 }

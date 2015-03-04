@@ -120,6 +120,12 @@
     <Compile Include="FrmMessagebox.Designer.cs">
       <DependentUpon>FrmMessagebox.cs</DependentUpon>
     </Compile>
+    <Compile Include="关于\FrmPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="关于\FrmPassword.Designer.cs">
+      <DependentUpon>FrmPassword.cs</DependentUpon>
+    </Compile>
     <Compile Include="IMyUC.cs" />
     <Compile Include="KeyboardInstance.cs" />
     <Compile Include="UserControlsManager.cs" />
@@ -275,6 +281,9 @@
     <Content Include="update.xml" />
     <EmbeddedResource Include="FrmMessagebox.resx">
       <DependentUpon>FrmMessagebox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="关于\FrmPassword.resx">
+      <DependentUpon>FrmPassword.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="关于\getHelpInfo.resx">
       <DependentUpon>getHelpInfo.cs</DependentUpon>

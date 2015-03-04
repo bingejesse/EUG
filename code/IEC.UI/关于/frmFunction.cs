@@ -158,5 +158,11 @@ namespace IEC.UI
         }
         #endregion
 
+        private void password_Click(object sender, EventArgs e)
+        {
+            CLog4net.LogInfo("点击修改密码");
+            new FrmPassword().ShowDialog();
+        }
+
     }
 }

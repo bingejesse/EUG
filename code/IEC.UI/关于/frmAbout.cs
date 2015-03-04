@@ -24,8 +24,8 @@ namespace IEC.UI
             try
             {
                 About about = AboutConfig.GetInstance().GetAbout();
-                this.managerName.Text = about.ManagerName;
-                this.ManagerPwd.Text = about.ManagerPassword;
+                //this.managerName.Text = about.ManagerName;
+                //this.ManagerPwd.Text = about.ManagerPassword;
                 this.name.Text = about.Name;
                 this.companyName.Text = about.CompanyName;
                 this.serverUrl.Text = about.ServerUrl;
@@ -64,8 +64,6 @@ namespace IEC.UI
             DatabaseService service = ServicesFactory.GetInstance().GetDatabaseService();
             About about = new About();
             about.CabinetCode = AboutConfig.GetInstance().GetCabinetCode();
-            about.ManagerName = this.managerName.Text;
-            about.ManagerPassword = this.ManagerPwd.Text;
             about.Name = this.name.Text;
             about.CompanyName = this.companyName.Text;
             about.ServerUrl = this.serverUrl.Text;
@@ -73,7 +71,7 @@ namespace IEC.UI
             about.TelNum = this.telNum.Text;
             about.Remark = this.remark.Text;
             about.Model = this.modeltype.Text;
-            service.SaveAbout(about);
+            service.UpdateAbout(about);
             this.Close();
         }
 

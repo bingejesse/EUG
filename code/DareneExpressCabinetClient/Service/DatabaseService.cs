@@ -23,6 +23,13 @@ namespace DareneExpressCabinetClient.Service
         bool SaveAbout(About obj);
 
         /// <summary>
+        /// 更新about
+        /// </summary>
+        /// <param name="obj"></param>
+        /// <returns></returns>
+        bool UpdateAbout(About obj);
+
+        /// <summary>
         /// 获取box列表
         /// </summary>
         /// <returns></returns>

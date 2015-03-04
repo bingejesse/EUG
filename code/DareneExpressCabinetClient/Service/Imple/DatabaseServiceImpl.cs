@@ -176,6 +176,14 @@ namespace DareneExpressCabinetClient.Service.Imple
             return result;
         }
 
+        public bool UpdateAbout(About obj)
+        {
+            LoggingData data = new LoggingData(ip, username, password, database);
+            obj.ConfigTime = DateTime.Now;
+            bool result = data.UpdateAbout(obj.Address, obj.CabinetCode, obj.CompanyName, obj.ConfigTime, obj.Name, obj.Remark, obj.TelNum, obj.Version, obj.ServerUrl, obj.CreatedTime, obj.Model);
+            return result;
+        }
+
         public List<DeliverLog> GetDeliverLogNoUpload()
         {
             DataTable table = null;

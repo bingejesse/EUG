@@ -1369,3 +1369,4 @@ D:\C#\projects\EUG\code\IEC.UI\obj\x86\Debug\IEC.UI.FrmLoading.resources
 D:\C#\projects\EUG\code\IEC.UI\obj\x86\Debug\IEC.UI.superManager.resources
 D:\C#\projects\EUG\code\IEC.UI\obj\x86\Debug\GenerateResource.read.1.tlog
 D:\C#\projects\EUG\code\IEC.UI\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C#\projects\EUG\code\IEC.UI\obj\x86\Debug\IEC.UI.FrmPassword.resources

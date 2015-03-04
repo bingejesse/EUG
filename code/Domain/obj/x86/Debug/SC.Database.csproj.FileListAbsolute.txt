@@ -284,3 +284,17 @@ D:\C#\projects\智能储物柜\20150118EUG\code\Domain\obj\x86\Debug\GenerateRes
 D:\C#\projects\智能储物柜\20150118EUG\code\Domain\obj\x86\Debug\GenerateResource.write.1.tlog
 D:\C#\projects\智能储物柜\20150118EUG\code\Domain\obj\x86\Debug\Domain.exe
 D:\C#\projects\智能储物柜\20150118EUG\code\Domain\obj\x86\Debug\Domain.pdb
+D:\C#\projects\EUG\code\Domain\bin\Debug\Customer.hbm.xml
+D:\C#\projects\EUG\code\Domain\bin\Debug\Domain.exe.config
+D:\C#\projects\EUG\code\Domain\bin\Debug\Domain.exe
+D:\C#\projects\EUG\code\Domain\bin\Debug\Domain.pdb
+D:\C#\projects\EUG\code\Domain\bin\Debug\Iesi.Collections.dll
+D:\C#\projects\EUG\code\Domain\bin\Debug\MySql.Data.dll
+D:\C#\projects\EUG\code\Domain\bin\Debug\NHibernate.dll
+D:\C#\projects\EUG\code\Domain\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#\projects\EUG\code\Domain\obj\x86\Debug\Domain.Form1.resources
+D:\C#\projects\EUG\code\Domain\obj\x86\Debug\Domain.Properties.Resources.resources
+D:\C#\projects\EUG\code\Domain\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C#\projects\EUG\code\Domain\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C#\projects\EUG\code\Domain\obj\x86\Debug\Domain.exe
+D:\C#\projects\EUG\code\Domain\obj\x86\Debug\Domain.pdb

@@ -74,6 +74,16 @@ namespace Domain
             return mysql.ExecuteNonQuery(sql);
         }
 
+        public bool UpdateAbout(string address, string cabinetCode, string companyName, DateTime configTime, string name, string remark, string telNum, string version, string serverUrl, DateTime createdTime, string model)
+        {
+            string sql = string.Format("update {0} set {1}='{12}',{2}='{13}',{3}='{14}',{4}='{15}',{5}='{16}',{6}='{17}',{7}='{18}',{8}='{19}',{9}='{20}',{10}='{21}',{11}='{22}'",
+        TbAbout.tbAbout,
+        TbAbout.address, TbAbout.cabinetCode, TbAbout.companyName, TbAbout.configTime, TbAbout.name, TbAbout.remark, TbAbout.telNum, TbAbout.version, TbAbout.serverUrl, TbAbout.createdTime, TbAbout.model,
+        address, cabinetCode, companyName, configTime, name, remark, telNum, version, serverUrl, createdTime, model
+        );
+            return mysql.ExecuteNonQuery(sql);
+        }
+
         public bool SaveBox(int code, byte idle, int x, int y, string remark, byte size, byte state)
         {
             string sql = string.Format("insert into {0} ({1},{2},{3},{4},{5},{6},{7}) values('{8}','{9}','{10}','{11}','{12}','{13}','{14}')",
