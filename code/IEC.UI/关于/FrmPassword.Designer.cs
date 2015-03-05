@@ -48,6 +48,7 @@
             this.txtnewPassWord.Border.CornerType = DevComponents.DotNetBar.eCornerType.Square;
             this.txtnewPassWord.Font = new System.Drawing.Font("微软雅黑", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.txtnewPassWord.Location = new System.Drawing.Point(189, 62);
+            this.txtnewPassWord.MaxLength = 13;
             this.txtnewPassWord.Name = "txtnewPassWord";
             this.txtnewPassWord.PasswordChar = '*';
             this.txtnewPassWord.PreventEnterBeep = true;
@@ -77,6 +78,7 @@
             this.txtrepeatPassWord.Border.CornerType = DevComponents.DotNetBar.eCornerType.Square;
             this.txtrepeatPassWord.Font = new System.Drawing.Font("微软雅黑", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.txtrepeatPassWord.Location = new System.Drawing.Point(191, 112);
+            this.txtrepeatPassWord.MaxLength = 13;
             this.txtrepeatPassWord.Name = "txtrepeatPassWord";
             this.txtrepeatPassWord.PasswordChar = '*';
             this.txtrepeatPassWord.PreventEnterBeep = true;
@@ -146,6 +148,7 @@
             this.txtoldPassWord.Border.CornerType = DevComponents.DotNetBar.eCornerType.Square;
             this.txtoldPassWord.Font = new System.Drawing.Font("微软雅黑", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.txtoldPassWord.Location = new System.Drawing.Point(191, 12);
+            this.txtoldPassWord.MaxLength = 13;
             this.txtoldPassWord.Name = "txtoldPassWord";
             this.txtoldPassWord.PasswordChar = '*';
             this.txtoldPassWord.PreventEnterBeep = true;

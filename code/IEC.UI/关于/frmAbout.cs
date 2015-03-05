@@ -16,11 +16,19 @@ namespace IEC.UI
 {
     public partial class frmAbout : Form
     {
+        private About about;
+
         public frmAbout()
         {
             InitializeComponent();
+            about = AboutConfig.GetInstance().GetAbout();
             
             this.TopMost = true;
+            RefreshFrm();
+        }
+
+        private void RefreshFrm()
+        {
             try
             {
                 About about = AboutConfig.GetInstance().GetAbout();
@@ -38,7 +46,6 @@ namespace IEC.UI
             {
                 CLog4net.LogError(e.ToString());
             }
-            
         }
 
         private void cabinetCode_KeyPress(object sender, KeyPressEventArgs e)
@@ -62,7 +69,7 @@ namespace IEC.UI
         private void confirm_Click(object sender, EventArgs e)
         {
             DatabaseService service = ServicesFactory.GetInstance().GetDatabaseService();
-            About about = new About();
+            //About about = new About();
             about.CabinetCode = AboutConfig.GetInstance().GetCabinetCode();
             about.Name = this.name.Text;
             about.CompanyName = this.companyName.Text;
@@ -71,8 +78,12 @@ namespace IEC.UI
             about.TelNum = this.telNum.Text;
             about.Remark = this.remark.Text;
             about.Model = this.modeltype.Text;
+
             service.UpdateAbout(about);
-            this.Close();
+
+            RefreshFrm();
+            MessageBox.Show("修改成功");
+            
         }
 
         private void cancel_Click(object sender, EventArgs e)

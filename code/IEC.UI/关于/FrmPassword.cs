@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using DareneExpressCabinetClient.Resource;
 
 namespace IEC.UI
 {
@@ -18,10 +19,12 @@ namespace IEC.UI
 
         private void confirm_Click(object sender, EventArgs e)
         {
+            string password = AboutConfig.GetInstance().GetAbout().ManagerPassword;
+
             string oldpassword = txtoldPassWord.Text;
             string newpassword = txtnewPassWord.Text;
             string repeatpassword = txtrepeatPassWord.Text;
-            if (oldpassword != "admini")
+            if (oldpassword != password)
             {
                 MessageBox.Show("旧密码错误");
                 return;
