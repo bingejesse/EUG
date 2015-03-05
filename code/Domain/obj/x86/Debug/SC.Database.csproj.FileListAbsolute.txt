@@ -298,3 +298,15 @@ D:\C#\projects\EUG\code\Domain\obj\x86\Debug\GenerateResource.read.1.tlog
 D:\C#\projects\EUG\code\Domain\obj\x86\Debug\GenerateResource.write.1.tlog
 D:\C#\projects\EUG\code\Domain\obj\x86\Debug\Domain.exe
 D:\C#\projects\EUG\code\Domain\obj\x86\Debug\Domain.pdb
+F:\temp\eug\EUG\code\Domain\bin\Debug\Customer.hbm.xml
+F:\temp\eug\EUG\code\Domain\bin\Debug\Domain.exe.config
+F:\temp\eug\EUG\code\Domain\bin\Debug\Domain.exe
+F:\temp\eug\EUG\code\Domain\bin\Debug\Domain.pdb
+F:\temp\eug\EUG\code\Domain\bin\Debug\Iesi.Collections.dll
+F:\temp\eug\EUG\code\Domain\bin\Debug\NHibernate.dll
+F:\temp\eug\EUG\code\Domain\obj\x86\Debug\Domain.Form1.resources
+F:\temp\eug\EUG\code\Domain\obj\x86\Debug\Domain.Properties.Resources.resources
+F:\temp\eug\EUG\code\Domain\obj\x86\Debug\SC.Database.csproj.GenerateResource.Cache
+F:\temp\eug\EUG\code\Domain\obj\x86\Debug\Domain.exe
+F:\temp\eug\EUG\code\Domain\obj\x86\Debug\Domain.pdb
+F:\temp\eug\EUG\code\Domain\obj\x86\Debug\SC.Database.csprojResolveAssemblyReference.cache

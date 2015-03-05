@@ -326,3 +326,56 @@ INFO  2015-03-04 22:53:15,448 [DareneExpressCabinetClient.Tools.CLog4net] 点击信
 INFO  2015-03-04 22:53:19,212 [DareneExpressCabinetClient.Tools.CLog4net] 点击修改密码
 INFO  2015-03-04 22:53:21,886 [DareneExpressCabinetClient.Tools.CLog4net] 点击信息配置
 INFO  2015-03-04 22:53:29,059 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助，进入帮助界面
+INFO  2015-03-05 13:46:06,333 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-03-05 13:46:06,845 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-03-05 13:46:06,861 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-03-05 13:46:07,522 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-03-05 13:46:07,765 [DareneExpressCabinetClient.Tools.CLog4net] CanManager load:System.DllNotFoundException: 无法加载 DLL“ECanVci”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+   在 DareneExpressCabinetClient.Tools.UsbCanCom.VCI_OpenDevice(Int32 DeviceType, Int32 DeviceInd, Int32 Reserved)
+   在 DareneExpressCabinetClient.Tools.UsbCanCom.OpenDevice() 位置 F:\temp\eug\EUG\code\DareneExpressCabinetClient\Tools\Can\UsbCanCom.cs:行号 191
+   在 DareneExpressCabinetClient.Tools.CanManager.Load() 位置 F:\temp\eug\EUG\code\DareneExpressCabinetClient\Tools\Can\CanManager.cs:行号 49
+INFO  2015-03-05 13:46:07,765 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-03-05 13:46:07,874 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-03-05 13:46:08,026 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-03-05 13:46:08,129 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+ERROR 2015-03-05 13:46:08,582 [DareneExpressCabinetClient.Tools.CLog4net] 未检测到摄像头
+ERROR 2015-03-05 13:46:26,330 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 F:\temp\eug\EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 152
+ERROR 2015-03-05 13:46:26,367 [DareneExpressCabinetClient.Tools.CLog4net] ServiceShakeHandSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.ServiceShakeHand(About about, IDictionary`2 dic) 位置 F:\temp\eug\EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 529
+INFO  2015-03-05 13:46:27,321 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周四 03月05日 (实时：3℃),今天天气小雪转小雨,东北风3-4级,4 ~ 2℃。天气冷，建议着棉服、羽绒服、皮夹克加羊毛衫等冬季服装。年老体弱者宜着厚棉衣、冬大衣或厚羽绒服。'}
+
+INFO  2015-03-05 13:46:27,321 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周四 03月05日 (实时：3℃),今天天气小雪转小雨,东北风3-4级,4 ~ 2℃。天气冷，建议着棉服、羽绒服、皮夹克加羊毛衫等冬季服装。年老体弱者宜着厚棉衣、冬大衣或厚羽绒服。'}
+
+INFO  2015-03-05 13:46:27,321 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-03-05 13:46:39,165 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助，进入帮助界面
+INFO  2015-03-05 13:46:40,016 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员，进入管理员密码输入界面
+INFO  2015-03-05 13:46:43,409 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：False
+INFO  2015-03-05 13:46:43,409 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录
+INFO  2015-03-05 13:46:43,410 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录成功
+INFO  2015-03-05 13:47:00,767 [DareneExpressCabinetClient.Tools.CLog4net] 点击退出系统
+INFO  2015-03-05 13:47:01,594 [DareneExpressCabinetClient.Tools.CLog4net] 退出系统
+INFO  2015-03-05 14:04:22,582 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-03-05 14:04:23,003 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-03-05 14:04:23,019 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-03-05 14:04:23,315 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-03-05 14:04:23,471 [DareneExpressCabinetClient.Tools.CLog4net] CanManager load:System.DllNotFoundException: 无法加载 DLL“ECanVci”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+   在 DareneExpressCabinetClient.Tools.UsbCanCom.VCI_OpenDevice(Int32 DeviceType, Int32 DeviceInd, Int32 Reserved)
+   在 DareneExpressCabinetClient.Tools.UsbCanCom.OpenDevice() 位置 F:\temp\eug\EUG\code\DareneExpressCabinetClient\Tools\Can\UsbCanCom.cs:行号 191
+   在 DareneExpressCabinetClient.Tools.CanManager.Load() 位置 F:\temp\eug\EUG\code\DareneExpressCabinetClient\Tools\Can\CanManager.cs:行号 49
+INFO  2015-03-05 14:04:23,471 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-03-05 14:04:23,581 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-03-05 14:04:23,690 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-03-05 14:04:23,799 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+ERROR 2015-03-05 14:04:34,875 [DareneExpressCabinetClient.Tools.CLog4net] 未检测到摄像头
+ERROR 2015-03-05 14:04:56,745 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 F:\temp\eug\EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 152
+ERROR 2015-03-05 14:04:56,761 [DareneExpressCabinetClient.Tools.CLog4net] ServiceShakeHandSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.ServiceShakeHand(About about, IDictionary`2 dic) 位置 F:\temp\eug\EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 529
+INFO  2015-03-05 14:04:57,416 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周四 03月05日 (实时：3℃),今天天气小雪转小雨,东北风3-4级,4 ~ 2℃。天气冷，建议着棉服、羽绒服、皮夹克加羊毛衫等冬季服装。年老体弱者宜着厚棉衣、冬大衣或厚羽绒服。'}
+
+INFO  2015-03-05 14:04:57,416 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-03-05 14:04:57,541 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周四 03月05日 (实时：3℃),今天天气小雪转小雨,东北风3-4级,4 ~ 2℃。天气冷，建议着棉服、羽绒服、皮夹克加羊毛衫等冬季服装。年老体弱者宜着厚棉衣、冬大衣或厚羽绒服。'}
+

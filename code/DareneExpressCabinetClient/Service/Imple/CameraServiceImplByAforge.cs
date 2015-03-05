@@ -43,7 +43,10 @@ namespace DareneExpressCabinetClient.Service.Imple
                     CemmberData.Instance.IsCameraConnectFail = true;
                     CLog4net.LogError("未检测到摄像头");
                 }
-                CemmberData.Instance.IsCameraConnectFail = false;
+                else
+                {
+                    CemmberData.Instance.IsCameraConnectFail = false;
+                }
             }
             catch (ApplicationException)
             {
