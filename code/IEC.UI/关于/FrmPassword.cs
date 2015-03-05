@@ -37,9 +37,9 @@ namespace IEC.UI
                 MessageBox.Show("密码不一致");
                 return;
             }
-            if (newpassword.Length < 7)
+            if (newpassword.Length < 6)
             {
-                MessageBox.Show("密码长度必须大于6个字符");
+                MessageBox.Show("密码长度必须大于5个字符");
                 return;
             }
             if (newpassword == oldpassword)
