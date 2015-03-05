@@ -7,24 +7,27 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using DareneExpressCabinetClient.Resource;
+using DareneExpressCabinetClient.Service;
+using DareneExpressCabinetClient.Service.Factory;
 
 namespace IEC.UI
 {
     public partial class FrmPassword : Form
     {
+        private About about;
+
         public FrmPassword()
         {
             InitializeComponent();
+            about = AboutConfig.GetInstance().GetAbout();
         }
 
         private void confirm_Click(object sender, EventArgs e)
         {
-            string password = AboutConfig.GetInstance().GetAbout().ManagerPassword;
-
             string oldpassword = txtoldPassWord.Text;
             string newpassword = txtnewPassWord.Text;
             string repeatpassword = txtrepeatPassWord.Text;
-            if (oldpassword != password)
+            if (oldpassword != about.ManagerPassword)
             {
                 MessageBox.Show("旧密码错误");
                 return;
@@ -46,7 +49,19 @@ namespace IEC.UI
             }
             else
             {
-                MessageBox.Show("密码修改成功");
+                DatabaseService service = ServicesFactory.GetInstance().GetDatabaseService();
+                bool success = service.UpdateAboutPassword(repeatpassword);
+                if (success)
+                {
+                    about.ManagerPassword = repeatpassword;
+                    MessageBox.Show("密码修改成功");
+                }
+                else
+                {
+                    MessageBox.Show("密码修改失败");
+                }
+
+                this.Close();
             }
         }
 

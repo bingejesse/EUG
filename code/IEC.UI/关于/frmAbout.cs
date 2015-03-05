@@ -31,7 +31,7 @@ namespace IEC.UI
         {
             try
             {
-                About about = AboutConfig.GetInstance().GetAbout();
+                //About about = AboutConfig.GetInstance().GetAbout();
                 //this.managerName.Text = about.ManagerName;
                 //this.ManagerPwd.Text = about.ManagerPassword;
                 this.name.Text = about.Name;

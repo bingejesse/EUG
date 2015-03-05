@@ -184,6 +184,13 @@ namespace DareneExpressCabinetClient.Service.Imple
             return result;
         }
 
+        public bool UpdateAboutPassword(string password)
+        {
+            LoggingData data = new LoggingData(ip, username, password, database);
+            bool result = data.UpdateAbout(password);
+            return result;
+        }
+
         public List<DeliverLog> GetDeliverLogNoUpload()
         {
             DataTable table = null;

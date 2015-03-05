@@ -30,6 +30,13 @@ namespace DareneExpressCabinetClient.Service
         bool UpdateAbout(About obj);
 
         /// <summary>
+        /// 修改密码
+        /// </summary>
+        /// <param name="password"></param>
+        /// <returns></returns>
+        bool UpdateAboutPassword(string password);
+
+        /// <summary>
         /// 获取box列表
         /// </summary>
         /// <returns></returns>
