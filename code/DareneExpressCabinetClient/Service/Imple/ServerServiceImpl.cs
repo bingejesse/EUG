@@ -168,8 +168,11 @@ namespace DareneExpressCabinetClient.Service.Imple
             IDictionary<string, string> parameters = new Dictionary<string, string>();
             string datetime = UnixTime.ConvertDateTimeToUnixTime(DateTime.Now).ToString();
             string token = CMD5.UserMd5(pac.Courier.Code) + CMD5.UserMd5(datetime);
+             //柜子地址
+            string boxName = pac.Place.CoordinateInfo.X.ToString() + pac.Place.CoordinateInfo.Y.ToString();
             parameters.Add("token", CMD5.UserMd5(token));
             parameters.Add("courierCode", pac.Courier.Code.ToString());
+            parameters.Add("boxName", boxName);
             parameters.Add("packageCode", pac.SN);
             parameters.Add("boxCode", pac.Place.Code.ToString());
             parameters.Add("receiverTelNum", pac.ReceiverTelNum);
