@@ -131,11 +131,11 @@
             // 
             this.circularProgressUpdate.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square;
             this.circularProgressUpdate.FocusCuesEnabled = false;
-            this.circularProgressUpdate.Location = new System.Drawing.Point(435, 257);
+            this.circularProgressUpdate.Location = new System.Drawing.Point(414, 249);
             this.circularProgressUpdate.Name = "circularProgressUpdate";
             this.circularProgressUpdate.ProgressBarType = DevComponents.DotNetBar.eCircularProgressType.Dot;
             this.circularProgressUpdate.ProgressColor = System.Drawing.Color.White;
-            this.circularProgressUpdate.Size = new System.Drawing.Size(35, 39);
+            this.circularProgressUpdate.Size = new System.Drawing.Size(38, 47);
             this.circularProgressUpdate.Style = DevComponents.DotNetBar.eDotNetBarStyle.OfficeXP;
             this.circularProgressUpdate.TabIndex = 6;
             this.circularProgressUpdate.Value = 100;
