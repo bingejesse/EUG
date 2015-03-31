@@ -99,7 +99,7 @@ namespace DareneExpressCabinetClient.Service
         /// </summary>
         /// <param name="about"></param>
         /// <returns></returns>
-        ServerCallback3 ManagerDeletePackage(Package package, About about);
+        ServerCallback3 ManagerDeletePackage(string boxCode, About about);
     }
 
     public class ServerCallback

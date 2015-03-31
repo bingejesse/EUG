@@ -483,7 +483,18 @@ namespace IEC.UI
         {
             //保存手机号，以便来匹配
             ConsigneeTel = inputConsigneeTel1.getTel().Trim();
-            bool istel = System.Text.RegularExpressions.Regex.IsMatch(ConsigneeTel, @"^[1]+[3,5,8]+\d{9}");
+
+            ////电信手机号码正则        
+            //string dianxin = @"^1[3578][01379]\d{8}$";        
+            //System.Text.RegularExpressions.Regex dReg = new System.Text.RegularExpressions.Regex(dianxin);        
+            ////联通手机号正则        
+            //string liantong = @"^1[34578][01256]\d{8}$";
+            //System.Text.RegularExpressions.Regex tReg = new System.Text.RegularExpressions.Regex(liantong);        
+            ////移动手机号正则        
+            //string yidong = @"^(134[012345678]\d{7}|1[34578][012356789]\d{8})$";
+            //System.Text.RegularExpressions.Regex yReg = new System.Text.RegularExpressions.Regex(yidong);
+
+            bool istel = System.Text.RegularExpressions.Regex.IsMatch(ConsigneeTel, @"^[1]+[3,5,7,8]+\d{9}");
             if (istel)
             {
                 //跳转下一页

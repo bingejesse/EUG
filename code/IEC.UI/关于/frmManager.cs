@@ -152,7 +152,7 @@ namespace IEC.UI
                         bool issuccess = pm.TakePackage(code, 2);
                         CLog4net.LogInfo("管理员删除包裹：" + code + " success:" + issuccess);
 
-                        ServerCallback3 sc= serverService.ManagerDeletePackage(pm.FindPackageByBoxCode(code), AboutConfig.GetInstance().GetAbout());
+                        ServerCallback3 sc= serverService.ManagerDeletePackage(code.ToString(), AboutConfig.GetInstance().GetAbout());
                         if (!sc.Success)
                         {
                             CLog4net.LogInfo("管理员删除包裹失败：" + code + " 服务器信息：" + sc.Message);

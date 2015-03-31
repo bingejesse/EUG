@@ -1,165 +1,242 @@
-INFO  2015-03-12 21:05:10,152 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
-INFO  2015-03-12 21:05:11,275 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
-INFO  2015-03-12 21:05:11,306 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
-INFO  2015-03-12 21:05:11,899 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
-ERROR 2015-03-12 21:05:12,040 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
-INFO  2015-03-12 21:05:12,040 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
-INFO  2015-03-12 21:05:12,164 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
-INFO  2015-03-12 21:05:12,274 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
-INFO  2015-03-12 21:05:12,383 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
-INFO  2015-03-12 21:05:14,349 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1426165557}
+INFO  2015-03-31 21:51:25,815 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-03-31 21:51:26,910 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-03-31 21:51:26,936 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-03-31 21:51:27,576 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-03-31 21:51:27,734 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-03-31 21:51:27,734 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-03-31 21:51:27,849 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-03-31 21:51:27,963 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-03-31 21:51:28,070 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-03-31 21:51:30,133 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1427809961}
 
-INFO  2015-03-12 21:05:14,380 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周四 03月12日 (实时：9℃),今天天气晴,东南风3-4级,5℃。建议着薄外套、开衫牛仔衫裤等服装。年老体弱者应适当添加衣物，宜着夹克衫、薄毛衣等。'}
+INFO  2015-03-31 21:51:30,144 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周二 03月31日 (实时：20℃),今天天气晴,东南风3-4级,17℃。天气热，建议着短裙、短裤、短薄外套、T恤等夏季服装。'}
 
-INFO  2015-03-12 21:05:14,380 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
-INFO  2015-03-12 21:05:14,676 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周四 03月12日 (实时：9℃),今天天气晴,东南风3-4级,5℃。建议着薄外套、开衫牛仔衫裤等服装。年老体弱者应适当添加衣物，宜着夹克衫、薄毛衣等。'}
+INFO  2015-03-31 21:51:30,145 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-03-31 21:51:30,457 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周二 03月31日 (实时：20℃),今天天气晴,东南风3-4级,17℃。天气热，建议着短裙、短裤、短薄外套、T恤等夏季服装。'}
 
-INFO  2015-03-12 21:05:19,699 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入账号界面
-INFO  2015-03-12 21:05:21,020 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入密码界面
-INFO  2015-03-12 21:05:22,071 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+INFO  2015-03-31 21:51:31,828 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助，进入帮助界面
+INFO  2015-03-31 21:52:53,755 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-03-31 21:52:54,763 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-03-31 21:52:54,780 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-03-31 21:52:55,294 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-03-31 21:52:55,432 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-03-31 21:52:55,432 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-03-31 21:52:55,543 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-03-31 21:52:55,649 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-03-31 21:52:55,755 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-03-31 21:52:57,385 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1427810049}
 
-INFO  2015-03-12 21:05:22,072 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
-INFO  2015-03-12 21:05:22,908 [DareneExpressCabinetClient.Tools.CLog4net] 选取柜门：35
-ERROR 2015-03-12 21:05:24,168 [DareneExpressCabinetClient.Tools.CLog4net] Can发送开箱 response.Data == null
-INFO  2015-03-12 21:05:24,168 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
-INFO  2015-03-12 21:05:24,176 [DareneExpressCabinetClient.Tools.CLog4net] 打开柜门:48，可能是can无回应
-INFO  2015-03-12 21:05:38,532 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
-INFO  2015-03-12 21:05:39,484 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
-INFO  2015-03-12 21:05:39,499 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
-INFO  2015-03-12 21:05:39,936 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
-ERROR 2015-03-12 21:05:40,092 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
-INFO  2015-03-12 21:05:40,092 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
-INFO  2015-03-12 21:05:40,201 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
-INFO  2015-03-12 21:05:40,311 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
-INFO  2015-03-12 21:05:40,420 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
-INFO  2015-03-12 21:05:41,418 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1426165584}
+INFO  2015-03-31 21:52:57,549 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周二 03月31日 (实时：20℃),今天天气晴,东南风3-4级,17℃。天气热，建议着短裙、短裤、短薄外套、T恤等夏季服装。'}
 
-INFO  2015-03-12 21:05:41,668 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周四 03月12日 (实时：9℃),今天天气晴,东南风3-4级,5℃。建议着薄外套、开衫牛仔衫裤等服装。年老体弱者应适当添加衣物，宜着夹克衫、薄毛衣等。'}
+INFO  2015-03-31 21:52:57,551 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-03-31 21:52:57,877 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周二 03月31日 (实时：20℃),今天天气晴,东南风3-4级,17℃。天气热，建议着短裙、短裤、短薄外套、T恤等夏季服装。'}
 
-INFO  2015-03-12 21:05:41,668 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
-INFO  2015-03-12 21:05:41,933 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周四 03月12日 (实时：9℃),今天天气晴,东南风3-4级,5℃。建议着薄外套、开衫牛仔衫裤等服装。年老体弱者应适当添加衣物，宜着夹克衫、薄毛衣等。'}
+INFO  2015-03-31 21:52:58,951 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助，进入帮助界面
+INFO  2015-03-31 21:53:00,754 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员，进入管理员密码输入界面
+INFO  2015-03-31 21:53:15,167 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-03-31 21:53:15,167 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录
+INFO  2015-03-31 21:53:15,168 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录成功
+INFO  2015-03-31 21:53:17,222 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递柜管理器
+INFO  2015-03-31 21:53:25,950 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入账号界面
+INFO  2015-03-31 21:53:28,339 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入密码界面
+INFO  2015-03-31 21:53:29,478 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:false,companyName:'', message: '口令不正确'}
 
-INFO  2015-03-12 21:05:42,760 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入账号界面
-INFO  2015-03-12 21:05:43,989 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入密码界面
-INFO  2015-03-12 21:05:45,316 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+INFO  2015-03-31 21:53:29,485 [DareneExpressCabinetClient.Tools.CLog4net] 口令不正确
+INFO  2015-03-31 21:53:29,485 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入账号界面
+INFO  2015-03-31 21:53:33,630 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入账号界面
+INFO  2015-03-31 21:53:35,101 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入密码界面
+INFO  2015-03-31 21:53:37,035 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:false,companyName:'', message: '口令不正确'}
 
-INFO  2015-03-12 21:05:45,317 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
-INFO  2015-03-12 21:05:46,004 [DareneExpressCabinetClient.Tools.CLog4net] 选取柜门：2
-INFO  2015-03-12 21:05:50,645 [DareneExpressCabinetClient.Tools.CLog4net] 进入扫描快递界面
-INFO  2015-03-12 21:05:52,200 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入取件人手机号码界面
-INFO  2015-03-12 21:06:00,051 [DareneExpressCabinetClient.Tools.CLog4net] 进入再次输入手机号码界面
-INFO  2015-03-12 21:06:00,797 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号确认成功
-INFO  2015-03-12 21:06:00,841 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
-INFO  2015-03-12 21:06:01,451 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:''}
+INFO  2015-03-31 21:53:37,036 [DareneExpressCabinetClient.Tools.CLog4net] 口令不正确
+INFO  2015-03-31 21:53:37,036 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入账号界面
+INFO  2015-03-31 21:56:09,526 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入账号界面
+INFO  2015-03-31 21:56:13,469 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入密码界面
+INFO  2015-03-31 21:56:15,263 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:false,companyName:'', message: '口令卡未被登记给有效的快递员'}
 
-INFO  2015-03-12 21:06:01,474 [DareneExpressCabinetClient.Tools.CLog4net] 使用箱子：2 True
-INFO  2015-03-12 21:06:01,474 [DareneExpressCabinetClient.Tools.CLog4net] 进入创建包裹结束界面
-INFO  2015-03-12 21:06:01,560 [DareneExpressCabinetClient.Tools.CLog4net] 包裹创建数据库更新:savePackage True updatePackage False updateBox False saveDeliverLog True
-INFO  2015-03-12 21:06:01,560 [DareneExpressCabinetClient.Tools.CLog4net] 创建包裹成功
-INFO  2015-03-12 21:06:39,583 [DareneExpressCabinetClient.Tools.CLog4net] 点击我要取件
-INFO  2015-03-12 21:06:40,050 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+INFO  2015-03-31 21:56:15,265 [DareneExpressCabinetClient.Tools.CLog4net] 口令卡未被登记给有效的快递员
+INFO  2015-03-31 21:56:15,265 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入账号界面
+INFO  2015-03-31 21:57:34,682 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入账号界面
+INFO  2015-03-31 21:57:35,844 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入密码界面
+INFO  2015-03-31 21:57:38,889 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'德瑞纳'}
 
-INFO  2015-03-12 21:06:42,039 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:false,boxCode:'', message: '找不到包裹'}
+INFO  2015-03-31 21:57:38,890 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
+INFO  2015-03-31 21:57:40,102 [DareneExpressCabinetClient.Tools.CLog4net] 选取柜门：35
+ERROR 2015-03-31 21:57:58,464 [DareneExpressCabinetClient.Tools.CLog4net] Can发送开箱 response.Data == null
+INFO  2015-03-31 21:57:58,464 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
+INFO  2015-03-31 21:58:00,057 [DareneExpressCabinetClient.Tools.CLog4net] 打开柜门:48，可能是can无回应
+INFO  2015-03-31 21:58:27,510 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-03-31 21:58:28,528 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-03-31 21:58:28,552 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-03-31 21:58:29,097 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-03-31 21:58:29,253 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-03-31 21:58:29,253 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-03-31 21:58:29,362 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-03-31 21:58:29,468 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-03-31 21:58:29,571 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-03-31 21:58:30,718 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1427810382}
 
-INFO  2015-03-12 21:06:42,074 [DareneExpressCabinetClient.Tools.CLog4net] 找不到包裹
-INFO  2015-03-12 21:06:42,938 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+INFO  2015-03-31 21:58:30,874 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周二 03月31日 (实时：20℃),今天天气晴,东南风3-4级,17℃。天气热，建议着短裙、短裤、短薄外套、T恤等夏季服装。'}
 
-INFO  2015-03-12 21:06:45,853 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+INFO  2015-03-31 21:58:30,876 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-03-31 21:58:31,210 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周二 03月31日 (实时：20℃),今天天气晴,东南风3-4级,17℃。天气热，建议着短裙、短裤、短薄外套、T恤等夏季服装。'}
 
-INFO  2015-03-12 21:06:48,870 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{hasOpenOrder:false,boxnumber:'',code:'', message: '没有开箱指令'}
+INFO  2015-03-31 21:58:32,962 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入账号界面
+INFO  2015-03-31 21:58:35,098 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入密码界面
+INFO  2015-03-31 21:58:36,193 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'德瑞纳'}
 
-INFO  2015-03-12 21:07:50,761 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
-INFO  2015-03-12 21:07:51,759 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
-INFO  2015-03-12 21:07:51,775 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
-INFO  2015-03-12 21:07:52,227 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
-ERROR 2015-03-12 21:07:52,368 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
-INFO  2015-03-12 21:07:52,368 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
-INFO  2015-03-12 21:07:52,477 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
-INFO  2015-03-12 21:07:52,617 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
-INFO  2015-03-12 21:07:52,727 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
-INFO  2015-03-12 21:07:53,725 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1426165717}
+INFO  2015-03-31 21:58:36,194 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
+INFO  2015-03-31 21:58:37,514 [DareneExpressCabinetClient.Tools.CLog4net] 选取柜门：34
+INFO  2015-03-31 21:58:43,541 [DareneExpressCabinetClient.Tools.CLog4net] 进入扫描快递界面
+INFO  2015-03-31 21:58:46,383 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入取件人手机号码界面
+INFO  2015-03-31 21:58:48,065 [DareneExpressCabinetClient.Tools.CLog4net] 进入再次输入手机号码界面
+INFO  2015-03-31 21:58:48,931 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号确认成功
+INFO  2015-03-31 21:58:48,964 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-03-31 21:58:49,264 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:false,message: '相同单号的快递之前已被存入，不允许重复存件'}
 
-INFO  2015-03-12 21:07:53,928 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周四 03月12日 (实时：9℃),今天天气晴,东南风3-4级,5℃。建议着薄外套、开衫牛仔衫裤等服装。年老体弱者应适当添加衣物，宜着夹克衫、薄毛衣等。'}
+INFO  2015-03-31 21:58:49,264 [DareneExpressCabinetClient.Tools.CLog4net] 进入扫描快递界面
+INFO  2015-03-31 21:58:49,314 [DareneExpressCabinetClient.Tools.CLog4net] 相同单号的快递之前已被存入，不允许重复存件
+INFO  2015-03-31 21:58:58,718 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入取件人手机号码界面
+INFO  2015-03-31 21:59:00,124 [DareneExpressCabinetClient.Tools.CLog4net] 进入再次输入手机号码界面
+INFO  2015-03-31 21:59:00,980 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号确认成功
+INFO  2015-03-31 21:59:01,004 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-03-31 21:59:01,305 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:''}
 
-INFO  2015-03-12 21:07:53,928 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
-INFO  2015-03-12 21:07:54,177 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周四 03月12日 (实时：9℃),今天天气晴,东南风3-4级,5℃。建议着薄外套、开衫牛仔衫裤等服装。年老体弱者应适当添加衣物，宜着夹克衫、薄毛衣等。'}
+INFO  2015-03-31 21:59:01,317 [DareneExpressCabinetClient.Tools.CLog4net] 使用箱子：34 True
+INFO  2015-03-31 21:59:01,317 [DareneExpressCabinetClient.Tools.CLog4net] 进入创建包裹结束界面
+INFO  2015-03-31 21:59:01,391 [DareneExpressCabinetClient.Tools.CLog4net] 包裹创建数据库更新:savePackage True updatePackage False updateBox False saveDeliverLog True
+INFO  2015-03-31 21:59:01,391 [DareneExpressCabinetClient.Tools.CLog4net] 创建包裹成功
+INFO  2015-03-31 22:01:04,492 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助，进入帮助界面
+INFO  2015-03-31 22:01:05,667 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员，进入管理员密码输入界面
+INFO  2015-03-31 22:01:13,303 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-03-31 22:01:13,303 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录
+INFO  2015-03-31 22:01:13,304 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录成功
+INFO  2015-03-31 22:01:14,898 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递柜管理器
+INFO  2015-03-31 22:01:36,290 [DareneExpressCabinetClient.Tools.CLog4net] 清空箱子：34 True
+INFO  2015-03-31 22:01:36,306 [DareneExpressCabinetClient.Tools.CLog4net] 包裹取出数据库更新：updateBox False deletePackage True savePickUpLog True
+INFO  2015-03-31 22:01:36,306 [DareneExpressCabinetClient.Tools.CLog4net] 管理员删除包裹：34 success:True
+ERROR 2015-03-31 22:01:36,356 [DareneExpressCabinetClient.Tools.CLog4net] 管理员操作异常：System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.ManagerDeletePackage(Package package, About about) 位置 D:\C#\projects\EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 615
+   在 IEC.UI.frmManager.dataGridView1_CellContentClick(Object sender, DataGridViewCellEventArgs e) 位置 D:\C#\projects\EUG\code\IEC.UI\关于\frmManager.cs:行号 155
+INFO  2015-03-31 22:02:42,951 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入账号界面
+INFO  2015-03-31 22:02:54,560 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入密码界面
+INFO  2015-03-31 22:02:56,849 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'德瑞纳'}
 
-INFO  2015-03-12 21:07:55,628 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入账号界面
-INFO  2015-03-12 21:07:56,459 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入密码界面
-INFO  2015-03-12 21:07:57,453 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+INFO  2015-03-31 22:02:56,849 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
+INFO  2015-03-31 22:02:57,497 [DareneExpressCabinetClient.Tools.CLog4net] 选取柜门：28
+INFO  2015-03-31 22:03:01,462 [DareneExpressCabinetClient.Tools.CLog4net] 选取柜门：9
+INFO  2015-03-31 22:03:04,698 [DareneExpressCabinetClient.Tools.CLog4net] 进入扫描快递界面
+INFO  2015-03-31 22:03:08,137 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入取件人手机号码界面
+INFO  2015-03-31 22:03:09,520 [DareneExpressCabinetClient.Tools.CLog4net] 进入再次输入手机号码界面
+INFO  2015-03-31 22:03:10,345 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号确认成功
+INFO  2015-03-31 22:03:10,375 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-03-31 22:03:10,689 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:''}
 
-INFO  2015-03-12 21:07:57,454 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
-INFO  2015-03-12 21:07:58,205 [DareneExpressCabinetClient.Tools.CLog4net] 选取柜门：7
-INFO  2015-03-12 21:07:59,766 [DareneExpressCabinetClient.Tools.CLog4net] 进入扫描快递界面
-INFO  2015-03-12 21:08:01,498 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入取件人手机号码界面
-INFO  2015-03-12 21:08:04,248 [DareneExpressCabinetClient.Tools.CLog4net] 进入再次输入手机号码界面
-INFO  2015-03-12 21:08:04,850 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号确认成功
-INFO  2015-03-12 21:08:04,891 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
-INFO  2015-03-12 21:08:08,540 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:''}
+INFO  2015-03-31 22:03:10,697 [DareneExpressCabinetClient.Tools.CLog4net] 使用箱子：9 True
+INFO  2015-03-31 22:03:10,697 [DareneExpressCabinetClient.Tools.CLog4net] 进入创建包裹结束界面
+INFO  2015-03-31 22:03:10,748 [DareneExpressCabinetClient.Tools.CLog4net] 包裹创建数据库更新:savePackage True updatePackage False updateBox False saveDeliverLog True
+INFO  2015-03-31 22:03:10,748 [DareneExpressCabinetClient.Tools.CLog4net] 创建包裹成功
+INFO  2015-03-31 22:03:15,521 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助，进入帮助界面
+INFO  2015-03-31 22:03:16,424 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员，进入管理员密码输入界面
+INFO  2015-03-31 22:03:20,215 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-03-31 22:03:20,215 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录
+INFO  2015-03-31 22:03:20,215 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录成功
+INFO  2015-03-31 22:03:21,277 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递柜管理器
+INFO  2015-03-31 22:03:42,633 [DareneExpressCabinetClient.Tools.CLog4net] 清空箱子：9 True
+INFO  2015-03-31 22:03:44,190 [DareneExpressCabinetClient.Tools.CLog4net] 包裹取出数据库更新：updateBox False deletePackage True savePickUpLog True
+INFO  2015-03-31 22:03:45,299 [DareneExpressCabinetClient.Tools.CLog4net] 管理员删除包裹：9 success:True
+INFO  2015-03-31 22:05:42,010 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-03-31 22:05:42,996 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-03-31 22:05:43,014 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-03-31 22:05:43,528 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-03-31 22:05:43,669 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-03-31 22:05:43,669 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-03-31 22:05:43,781 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-03-31 22:05:43,885 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-03-31 22:05:43,990 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-03-31 22:05:45,142 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1427810816}
 
-INFO  2015-03-12 21:08:08,556 [DareneExpressCabinetClient.Tools.CLog4net] 使用箱子：7 True
-INFO  2015-03-12 21:08:08,556 [DareneExpressCabinetClient.Tools.CLog4net] 进入创建包裹结束界面
-INFO  2015-03-12 21:08:08,641 [DareneExpressCabinetClient.Tools.CLog4net] 包裹创建数据库更新:savePackage True updatePackage False updateBox False saveDeliverLog True
-INFO  2015-03-12 21:08:08,641 [DareneExpressCabinetClient.Tools.CLog4net] 创建包裹成功
-INFO  2015-03-12 21:16:10,311 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
-INFO  2015-03-12 21:16:11,324 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
-INFO  2015-03-12 21:16:11,342 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
-INFO  2015-03-12 21:16:11,858 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
-ERROR 2015-03-12 21:16:12,000 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
-INFO  2015-03-12 21:16:12,000 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
-INFO  2015-03-12 21:16:12,111 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
-INFO  2015-03-12 21:16:12,248 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
-INFO  2015-03-12 21:16:12,351 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
-INFO  2015-03-12 21:16:13,356 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1426166216}
+INFO  2015-03-31 22:05:45,274 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周二 03月31日 (实时：20℃),今天天气晴,东南风3-4级,17℃。天气热，建议着短裙、短裤、短薄外套、T恤等夏季服装。'}
 
-INFO  2015-03-12 21:16:13,421 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周四 03月12日 (实时：9℃),今天天气晴,东南风3-4级,5℃。建议着薄外套、开衫牛仔衫裤等服装。年老体弱者应适当添加衣物，宜着夹克衫、薄毛衣等。'}
+INFO  2015-03-31 22:05:45,276 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-03-31 22:05:45,596 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周二 03月31日 (实时：20℃),今天天气晴,东南风3-4级,17℃。天气热，建议着短裙、短裤、短薄外套、T恤等夏季服装。'}
 
-INFO  2015-03-12 21:16:13,422 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
-INFO  2015-03-12 21:16:13,690 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周四 03月12日 (实时：9℃),今天天气晴,东南风3-4级,5℃。建议着薄外套、开衫牛仔衫裤等服装。年老体弱者应适当添加衣物，宜着夹克衫、薄毛衣等。'}
+INFO  2015-03-31 22:05:48,741 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入账号界面
+INFO  2015-03-31 22:05:51,083 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入密码界面
+INFO  2015-03-31 22:05:52,215 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'德瑞纳'}
 
-INFO  2015-03-12 21:16:15,016 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助，进入帮助界面
-INFO  2015-03-12 21:16:17,254 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回，进入输入账号界面
-INFO  2015-03-12 21:16:19,164 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入账号界面
-INFO  2015-03-12 21:16:20,186 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+INFO  2015-03-31 22:05:52,216 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
+INFO  2015-03-31 22:05:53,154 [DareneExpressCabinetClient.Tools.CLog4net] 选取柜门：18
+INFO  2015-03-31 22:05:54,618 [DareneExpressCabinetClient.Tools.CLog4net] 进入扫描快递界面
+INFO  2015-03-31 22:05:56,703 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入取件人手机号码界面
+INFO  2015-03-31 22:05:58,416 [DareneExpressCabinetClient.Tools.CLog4net] 进入再次输入手机号码界面
+INFO  2015-03-31 22:05:59,117 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号确认成功
+INFO  2015-03-31 22:05:59,150 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-03-31 22:05:59,454 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:''}
 
-INFO  2015-03-12 21:16:20,187 [DareneExpressCabinetClient.Tools.CLog4net] 用进入扫描快递单号界面
-INFO  2015-03-12 21:16:21,844 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,boxCode:'2',message:''}
+INFO  2015-03-31 22:05:59,466 [DareneExpressCabinetClient.Tools.CLog4net] 使用箱子：18 True
+INFO  2015-03-31 22:05:59,466 [DareneExpressCabinetClient.Tools.CLog4net] 进入创建包裹结束界面
+INFO  2015-03-31 22:05:59,539 [DareneExpressCabinetClient.Tools.CLog4net] 包裹创建数据库更新:savePackage True updatePackage False updateBox False saveDeliverLog True
+INFO  2015-03-31 22:05:59,539 [DareneExpressCabinetClient.Tools.CLog4net] 创建包裹成功
+INFO  2015-03-31 22:06:02,622 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助，进入帮助界面
+INFO  2015-03-31 22:06:04,389 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员，进入管理员密码输入界面
+INFO  2015-03-31 22:06:15,661 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-03-31 22:06:15,662 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录
+INFO  2015-03-31 22:06:15,662 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录成功
+INFO  2015-03-31 22:06:16,811 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递柜管理器
+INFO  2015-03-31 22:06:27,076 [DareneExpressCabinetClient.Tools.CLog4net] 清空箱子：18 True
+INFO  2015-03-31 22:06:27,093 [DareneExpressCabinetClient.Tools.CLog4net] 包裹取出数据库更新：updateBox False deletePackage True savePickUpLog True
+INFO  2015-03-31 22:06:27,093 [DareneExpressCabinetClient.Tools.CLog4net] 管理员删除包裹：18 success:True
+INFO  2015-03-31 22:11:17,077 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-03-31 22:11:18,059 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-03-31 22:11:18,075 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-03-31 22:11:18,621 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-03-31 22:11:18,761 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-03-31 22:11:18,761 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-03-31 22:11:18,871 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-03-31 22:11:18,980 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-03-31 22:11:19,089 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+INFO  2015-03-31 22:11:20,228 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1427811151}
 
-INFO  2015-03-12 21:16:21,878 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
-ERROR 2015-03-12 21:16:21,882 [DareneExpressCabinetClient.Tools.CLog4net] Can发送开箱 response.Data == null
-INFO  2015-03-12 21:16:21,884 [DareneExpressCabinetClient.Tools.CLog4net] 如果储物柜无法打开，请联系管理员
-INFO  2015-03-12 21:16:21,885 [DareneExpressCabinetClient.Tools.CLog4net] 进入快递员取回成功界面
-INFO  2015-03-12 21:17:54,387 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递员取回，进入输入账号界面
-INFO  2015-03-12 21:18:01,168 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入账号界面
-INFO  2015-03-12 21:18:18,593 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+INFO  2015-03-31 22:11:20,337 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周二 03月31日 (实时：20℃),今天天气晴,东南风3-4级,17℃。天气热，建议着短裙、短裤、短薄外套、T恤等夏季服装。'}
 
-INFO  2015-03-12 21:18:44,119 [DareneExpressCabinetClient.Tools.CLog4net] 用进入扫描快递单号界面
-INFO  2015-03-12 21:19:21,663 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,boxCode:'7',message:''}
+INFO  2015-03-31 22:11:20,337 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-03-31 22:11:20,649 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周二 03月31日 (实时：20℃),今天天气晴,东南风3-4级,17℃。天气热，建议着短裙、短裤、短薄外套、T恤等夏季服装。'}
 
-INFO  2015-03-12 21:19:27,783 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
-ERROR 2015-03-12 21:19:49,516 [DareneExpressCabinetClient.Tools.CLog4net] Can发送开箱 response.Data == null
-INFO  2015-03-12 21:19:49,516 [DareneExpressCabinetClient.Tools.CLog4net] 如果储物柜无法打开，请联系管理员
-INFO  2015-03-12 21:19:49,516 [DareneExpressCabinetClient.Tools.CLog4net] 进入快递员取回成功界面
-INFO  2015-03-12 21:22:27,342 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助，进入帮助界面
-INFO  2015-03-12 21:22:28,327 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员，进入管理员密码输入界面
-INFO  2015-03-12 21:22:34,762 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
-INFO  2015-03-12 21:22:34,762 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录
-INFO  2015-03-12 21:22:34,765 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录失败
-INFO  2015-03-12 21:22:42,547 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
-INFO  2015-03-12 21:22:42,547 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录
-INFO  2015-03-12 21:22:42,547 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录失败
-INFO  2015-03-12 21:22:46,539 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助，进入帮助界面
-INFO  2015-03-12 21:22:47,216 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员，进入管理员密码输入界面
-INFO  2015-03-12 21:22:52,222 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
-INFO  2015-03-12 21:22:52,222 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录
-INFO  2015-03-12 21:22:52,223 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录失败
-INFO  2015-03-12 21:22:58,211 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
-INFO  2015-03-12 21:22:58,211 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录
-INFO  2015-03-12 21:22:58,211 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录失败
-INFO  2015-03-12 21:23:31,288 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助，进入帮助界面
-INFO  2015-03-12 21:23:32,319 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员，进入管理员密码输入界面
-INFO  2015-03-12 21:23:38,870 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
-INFO  2015-03-12 21:23:38,870 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录
-INFO  2015-03-12 21:23:38,871 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录成功
-INFO  2015-03-12 21:26:12,943 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,servertime:1426166816}
+INFO  2015-03-31 22:11:23,194 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助，进入帮助界面
+INFO  2015-03-31 22:11:25,627 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入账号界面
+INFO  2015-03-31 22:11:36,122 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入密码界面
+INFO  2015-03-31 22:11:37,441 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'德瑞纳'}
+
+INFO  2015-03-31 22:11:37,442 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
+INFO  2015-03-31 22:11:38,723 [DareneExpressCabinetClient.Tools.CLog4net] 选取柜门：27
+INFO  2015-03-31 22:11:39,789 [DareneExpressCabinetClient.Tools.CLog4net] 选取柜门：31
+INFO  2015-03-31 22:11:41,370 [DareneExpressCabinetClient.Tools.CLog4net] 进入扫描快递界面
+INFO  2015-03-31 22:11:43,407 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入取件人手机号码界面
+INFO  2015-03-31 22:11:44,676 [DareneExpressCabinetClient.Tools.CLog4net] 进入再次输入手机号码界面
+INFO  2015-03-31 22:11:45,405 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号确认成功
+INFO  2015-03-31 22:11:45,426 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-03-31 22:11:45,718 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:false,message: '相同单号的快递之前已被存入，不允许重复存件'}
+
+INFO  2015-03-31 22:11:45,718 [DareneExpressCabinetClient.Tools.CLog4net] 进入扫描快递界面
+INFO  2015-03-31 22:11:45,754 [DareneExpressCabinetClient.Tools.CLog4net] 相同单号的快递之前已被存入，不允许重复存件
+INFO  2015-03-31 22:11:49,744 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入取件人手机号码界面
+INFO  2015-03-31 22:11:51,039 [DareneExpressCabinetClient.Tools.CLog4net] 进入再次输入手机号码界面
+INFO  2015-03-31 22:11:51,695 [DareneExpressCabinetClient.Tools.CLog4net] 再次输入手机号确认成功
+INFO  2015-03-31 22:11:51,735 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-03-31 22:11:52,048 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:''}
+
+INFO  2015-03-31 22:11:52,059 [DareneExpressCabinetClient.Tools.CLog4net] 使用箱子：31 True
+INFO  2015-03-31 22:11:52,059 [DareneExpressCabinetClient.Tools.CLog4net] 进入创建包裹结束界面
+INFO  2015-03-31 22:11:52,122 [DareneExpressCabinetClient.Tools.CLog4net] 包裹创建数据库更新:savePackage True updatePackage False updateBox False saveDeliverLog True
+INFO  2015-03-31 22:11:52,122 [DareneExpressCabinetClient.Tools.CLog4net] 创建包裹成功
+INFO  2015-03-31 22:11:57,608 [DareneExpressCabinetClient.Tools.CLog4net] 点击帮助，进入帮助界面
+INFO  2015-03-31 22:11:58,406 [DareneExpressCabinetClient.Tools.CLog4net] 点击管理员，进入管理员密码输入界面
+INFO  2015-03-31 22:12:02,890 [DareneExpressCabinetClient.Tools.CLog4net] 拍照是否成功：True
+INFO  2015-03-31 22:12:02,890 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录
+INFO  2015-03-31 22:12:02,892 [DareneExpressCabinetClient.Tools.CLog4net] 管理员登录成功
+INFO  2015-03-31 22:12:03,982 [DareneExpressCabinetClient.Tools.CLog4net] 点击快递柜管理器
+INFO  2015-03-31 22:12:17,781 [DareneExpressCabinetClient.Tools.CLog4net] 清空箱子：31 True
+INFO  2015-03-31 22:12:17,798 [DareneExpressCabinetClient.Tools.CLog4net] 包裹取出数据库更新：updateBox False deletePackage True savePickUpLog True
+INFO  2015-03-31 22:12:17,798 [DareneExpressCabinetClient.Tools.CLog4net] 管理员删除包裹：31 success:True
+INFO  2015-03-31 22:12:29,800 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message: ''}
 

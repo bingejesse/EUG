@@ -1,0 +1,36 @@
+INFO  2015-03-18 22:04:42,348 [DareneExpressCabinetClient.Tools.CLog4net] System starting！
+INFO  2015-03-18 22:04:43,518 [DareneExpressCabinetClient.Tools.CLog4net] 读取配置文件和Logo图片
+INFO  2015-03-18 22:04:43,544 [DareneExpressCabinetClient.Tools.CLog4net] 服务工厂启动
+INFO  2015-03-18 22:04:44,239 [DareneExpressCabinetClient.Tools.CLog4net] AboutConfig is loaded
+ERROR 2015-03-18 22:04:44,453 [DareneExpressCabinetClient.Tools.CLog4net] 数据链路打开失败
+INFO  2015-03-18 22:04:44,453 [DareneExpressCabinetClient.Tools.CLog4net] BoxsManager is Loaded
+INFO  2015-03-18 22:04:44,572 [DareneExpressCabinetClient.Tools.CLog4net] ELocksManager is Loaded
+INFO  2015-03-18 22:04:44,720 [DareneExpressCabinetClient.Tools.CLog4net] PackageManager is loaded
+INFO  2015-03-18 22:04:44,825 [DareneExpressCabinetClient.Tools.CLog4net] RemoteOpenLogic is loaded
+ERROR 2015-03-18 22:04:48,824 [DareneExpressCabinetClient.Tools.CLog4net] System.Net.WebException: 操作超时
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 DareneExpressCabinetClient.Tools.HttpWebResponseUtility.CreatePostHttpResponse(String url, IDictionary`2 parameters, Nullable`1 timeout, String userAgent, Encoding requestEncoding, CookieCollection cookies) 位置 D:\C#\projects\EUG\code\DareneExpressCabinetClient\Tools\HttpWebResponseUtility.cs:行号 152
+ERROR 2015-03-18 22:04:48,839 [DareneExpressCabinetClient.Tools.CLog4net] ServiceShakeHandSystem.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DareneExpressCabinetClient.Service.Imple.ServerServiceImpl.ServiceShakeHand(About about, IDictionary`2 dic) 位置 D:\C#\projects\EUG\code\DareneExpressCabinetClient\Service\Imple\ServerServiceImpl.cs:行号 532
+INFO  2015-03-18 22:04:50,910 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周三 03月18日 (实时：12℃),今天天气雷阵雨,北风4-5级,10℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-03-18 22:04:50,910 [DareneExpressCabinetClient.Tools.CLog4net] 启动完成
+INFO  2015-03-18 22:04:50,925 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'今天是周三 03月18日 (实时：12℃),今天天气雷阵雨,北风4-5级,10℃。建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。'}
+
+INFO  2015-03-18 22:04:53,244 [DareneExpressCabinetClient.Tools.CLog4net] 点击寄件，进入输入账号界面
+INFO  2015-03-18 22:04:54,581 [DareneExpressCabinetClient.Tools.CLog4net] 进入输入密码界面
+INFO  2015-03-18 22:04:56,372 [DareneExpressCabinetClient.Tools.CLog4net] 服务器连接：{success:true,message:'',companyName:'上海顺丰速递'}
+
+INFO  2015-03-18 22:04:56,373 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
+INFO  2015-03-18 22:04:57,116 [DareneExpressCabinetClient.Tools.CLog4net] 选取柜门：29
+ERROR 2015-03-18 22:05:19,480 [DareneExpressCabinetClient.Tools.CLog4net] Can发送开箱 response.Data == null
+INFO  2015-03-18 22:05:21,560 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
+INFO  2015-03-18 22:05:21,571 [DareneExpressCabinetClient.Tools.CLog4net] 打开柜门:42，可能是can无回应
+INFO  2015-03-18 22:05:44,492 [DareneExpressCabinetClient.Tools.CLog4net] 选取柜门：29
+ERROR 2015-03-18 22:07:11,839 [DareneExpressCabinetClient.Tools.CLog4net] Can发送开箱 response.Data == null
+INFO  2015-03-18 22:07:11,839 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
+INFO  2015-03-18 22:07:11,854 [DareneExpressCabinetClient.Tools.CLog4net] 打开柜门:42，可能是can无回应
+ERROR 2015-03-18 22:07:25,930 [DareneExpressCabinetClient.Tools.CLog4net] Can发送开箱 response.Data == null
+INFO  2015-03-18 22:07:25,930 [DareneExpressCabinetClient.Tools.CLog4net] 进入选择智能柜界面
+INFO  2015-03-18 22:07:25,946 [DareneExpressCabinetClient.Tools.CLog4net] 打开柜门:42，可能是can无回应
+INFO  2015-03-18 22:07:40,903 [DareneExpressCabinetClient.Tools.CLog4net] 选取柜门：27

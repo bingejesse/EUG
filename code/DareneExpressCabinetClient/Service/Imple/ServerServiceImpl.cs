@@ -604,7 +604,7 @@ namespace DareneExpressCabinetClient.Service.Imple
         }
 
 
-        public ServerCallback3 ManagerDeletePackage(Package package,About about)
+        public ServerCallback3 ManagerDeletePackage(string boxCode, About about)
         {
             ServerCallback3 sc = new ServerCallback3();
             string loginUrl = about.ServerUrl;
@@ -612,9 +612,9 @@ namespace DareneExpressCabinetClient.Service.Imple
 
             IDictionary<string, string> parameters = new Dictionary<string, string>();
             string datetime = UnixTime.ConvertDateTimeToUnixTime(DateTime.Now).ToString();
-            string token = CMD5.UserMd5(package.Place.Code.ToString()) + CMD5.UserMd5(datetime) + CMD5.UserMd5(CMD5.UserMd5(about.CabinetCode));
+            string token = CMD5.UserMd5(boxCode) + CMD5.UserMd5(datetime) + CMD5.UserMd5(CMD5.UserMd5(about.CabinetCode));
             parameters.Add("token", CMD5.UserMd5(token));
-            parameters.Add("box", package.Place.Code.ToString());
+            parameters.Add("box", boxCode);
             parameters.Add("cabinetCode", about.CabinetCode);
             parameters.Add("datetime", datetime);
             parameters.Add("c", "Admin");
